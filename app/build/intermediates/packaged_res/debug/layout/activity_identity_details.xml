@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".IdentityDetails">
+
+    <TextView
+        android:id="@+id/title_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/poppins_regular"
+        android:text="@string/identification_details"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/title_text">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            
+            <androidx.cardview.widget.CardView
+                android:id="@+id/aadhaar_CardView"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginStart="12dp"
+                android:layout_marginEnd="12dp"
+                android:layout_marginTop="8dp"
+                app:cardElevation="8dp"
+                android:layout_marginBottom="12dp"
+                app:cardCornerRadius="15sp"
+                android:backgroundTint="@color/blue_light"
+                android:onClick="openRelevantActivity"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="0.4"
+                        android:background="@color/blue_light"
+                        android:padding="16sp"
+                        android:src="@drawable/aadhar"
+                        app:tint = "@color/white"/>
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.7"
+                        android:layout_marginStart="24sp"
+                        android:layout_gravity="center_vertical"
+                        android:text="@string/aadhaar_card"
+                        android:textAllCaps="true"
+                        android:fontFamily="@font/poppins_black"
+                        android:textSize="24sp"
+                        android:letterSpacing="0.2"
+                        android:includeFontPadding="false"
+                        android:textColor="@color/Orange"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/pan_CardView"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginStart="12dp"
+                android:layout_marginEnd="12dp"
+                android:layout_marginTop="8dp"
+                app:cardElevation="8dp"
+                android:layout_marginBottom="12dp"
+                app:cardCornerRadius="15sp"
+                android:backgroundTint="@color/LightGoldenrodYellow"
+                android:onClick="openRelevantActivity"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="0.4"
+                        android:background="@color/YellowGreen"
+                        android:padding="16sp"
+                        android:src="@drawable/pancard"
+                        app:tint = "@color/white"/>
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.7"
+                        android:layout_marginStart="24sp"
+                        android:layout_gravity="center_vertical"
+                        android:text="@string/pan_card"
+                        android:textAllCaps="true"
+                        android:fontFamily="@font/poppins_black"
+                        android:textSize="24sp"
+                        android:letterSpacing="0.2"
+                        android:includeFontPadding="false"
+                        android:textColor="@color/Orange"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:id="@+id/dl_CardView"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginStart="12dp"
+                android:layout_marginEnd="12dp"
+                android:layout_marginTop="8dp"
+                app:cardElevation="8dp"
+                android:layout_marginBottom="12dp"
+                app:cardCornerRadius="15sp"
+                android:backgroundTint="@color/IndianRed"
+                android:onClick="openRelevantActivity"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="0.4"
+                        android:background="@color/RosyBrown"
+                        android:padding="16sp"
+                        android:src="@drawable/drivinglicence"
+                        app:tint = "@color/white"/>
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.7"
+                        android:layout_marginStart="24sp"
+                        android:layout_gravity="center_vertical"
+                        android:text="@string/driving_licence"
+                        android:textAllCaps="true"
+                        android:fontFamily="@font/poppins_black"
+                        android:textSize="24sp"
+                        android:letterSpacing="0.2"
+                        android:includeFontPadding="false"
+                        android:textColor="@color/Orange"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+   <!-- <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/AddDetails"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:gravity="center"
+                    android:text="@string/add_adhar_details"
+                    android:textColor="@color/DarkMagenta"
+                    android:textSize="20sp" />
+
+                <ImageView
+                    android:id="@+id/adhar_image"
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"
+                    android:background="@color/cardcolor1" />
+
+                <TextView
+                    android:id="@+id/uploadpic"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="6dp"
+                    android:text="@string/upload_click_photo"
+                    android:textColor="@color/DarkMagenta"
+                    android:textSize="10dp" />
+
+                <TextView
+                    android:id="@+id/adhartext"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:gravity="center"
+                    android:text="@string/aadhar"
+                    android:textSize="15sp" />
+
+                <EditText
+                    android:id="@+id/adharr_box"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/box_layout" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@color/cardcolor1" />
+
+                <TextView
+                    android:id="@+id/add_pan_Details"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:gravity="center"
+                    android:text="@string/add_pan_details"
+                    android:textColor="@color/DarkMagenta"
+                    android:textSize="20sp" />
+
+                <ImageView
+                    android:id="@+id/pan_image"
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginRight="30dp"
+                    android:background="@color/cardcolor1" />
+
+                <TextView
+                    android:id="@+id/uploadpanpic"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="6dp"
+                    android:text="@string/upload_click_photo"
+                    android:textColor="@color/DarkMagenta"
+                    android:textSize="10sp" />
+
+                <TextView
+                    android:id="@+id/pantext"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:gravity="center"
+                    android:text="@string/pan_number"
+                    android:textSize="15sp" />
+
+                <EditText
+                    android:id="@+id/pan_box"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/box_layout" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@color/cardcolor1" />
+
+                <Button
+                    android:id="@+id/verify"
+                    android:layout_width="250dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="30dp"
+                    android:background="@drawable/buttonshape"
+                    android:text="@string/verify_by_otp" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>-->
+</RelativeLayout>

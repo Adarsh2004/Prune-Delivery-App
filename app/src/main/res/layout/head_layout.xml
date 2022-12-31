@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@color/cardcolor1"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/sim_id"
+        android:layout_width="130dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="15dp"
+        android:text="@string/sim_number"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/mobile_id"
+        android:layout_width="130dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="15dp"
+        android:text="@string/mobile_number"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:gravity="center"/>
+
+</LinearLayout>

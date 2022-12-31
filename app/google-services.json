@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828832893494",
+    "project_id": "prunedeliveryapplication-87586",
+    "storage_bucket": "prunedeliveryapplication-87586.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828832893494:android:fe075639c0e2779d4a6697",
+        "android_client_info": {
+          "package_name": "com.example.prunedeliveryapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828832893494-lfeqi443v1m7rped7jqvd3cij1jimro0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmBXZgmcmHMjotahdR1gWIhI_osrozHx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828832893494-lfeqi443v1m7rped7jqvd3cij1jimro0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

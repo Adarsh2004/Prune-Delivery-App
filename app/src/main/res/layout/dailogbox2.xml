@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerInParent="true"
+    android:background="@color/white">
+
+    <RelativeLayout
+        android:layout_width="250dp"
+        android:layout_height="260dp"
+        android:layout_centerInParent="true">
+
+
+        <TextView
+            android:id="@+id/d"
+            android:layout_width="260dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="39dp"
+            android:background="@color/blue"
+            android:gravity="center"
+            android:text="@string/on_duty"
+            android:textColor="@color/white"
+            android:textSize="13sp" />
+
+
+        <LinearLayout
+            android:id="@+id/d7"
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/d"
+            android:layout_marginStart="35sp"
+            android:layout_marginTop="26sp"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/orders"
+                android:textColor="@color/blue"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+
+        <ImageView
+            android:id="@+id/status2"
+            android:layout_width="40dp"
+            android:layout_height="35dp"
+            android:layout_centerHorizontal="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/check" />
+
+        <Button
+            android:id="@+id/d8"
+            android:layout_width="200dp"
+            android:layout_height="40sp"
+            android:layout_marginStart="23sp"
+            android:layout_marginTop="175dp"
+            android:background="@drawable/roundedcorners"
+            android:text="@string/ok" />
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

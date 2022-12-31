@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "268935125933",
+    "project_id": "prunedeliveryapplication-bcd80",
+    "storage_bucket": "prunedeliveryapplication-bcd80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268935125933:android:14eeddb07fa0c0e13edf24",
+        "android_client_info": {
+          "package_name": "com.example.prunedeliveryapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268935125933-upqjm3imnbq2utnup0vhed1e3gip8i7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prunedeliveryapplication",
+            "certificate_hash": "ea21ece9e0f27f0e47a7c41c6b9cfa91b0d4b774"
+          }
+        },
+        {
+          "client_id": "268935125933-4d18se9aoqom4qg21nqcuhiia59pag3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQHKYc3QxEAWHAp5mQcTWGUyG0LkLJlMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268935125933-4d18se9aoqom4qg21nqcuhiia59pag3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

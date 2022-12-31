@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <!--<item>
+        <shape>
+            <gradient android:startColor="@color/highlighted_text_material_dark"
+                android:endColor="@color/highlighted_text_material_dark"
+                android:angle="1"
+                android:centerColor="@color/highlighted_text_material_dark"/>
+        </shape>
+    </item>-->
+</selector>

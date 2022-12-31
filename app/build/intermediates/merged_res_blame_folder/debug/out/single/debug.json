@@ -1,0 +1,754 @@
+[
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_jio.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\jio.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_dailogbox2.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\dailogbox2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_otherresponse.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_otherresponse.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_dropdown_item.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_ic_baseline_add_circle_outline_24.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\ic_baseline_add_circle_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-xhdpi-v4_ic_baseline_location_on_24.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-xhdpi-v4\\ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_cross.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\cross.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-xhdpi-v4_ic_brightness.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-xhdpi-v4\\ic_brightness.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\menu_logout_menu.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\menu\\logout_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-xhdpi-v4_cancel_btn.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-xhdpi-v4\\cancel_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_ic_address.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\ic_address.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_term_service.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\term_service.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_fragment_getmoreorders.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\fragment_getmoreorders.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\menu_example_menu2.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\menu\\example_menu2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_aadhar.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\aadhar.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_pragati.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\pragati.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_walletmodel.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\walletmodel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_thumb2.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\thumb2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_navigation_screen.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_navigation_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_offer_lay.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\offer_lay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_calender.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\calender.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_take_photo.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_take_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_identity_details.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_identity_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_aadhaar_back.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\aadhaar_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_b_circle.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\b_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_profile.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_dailogbox.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\dailogbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-anydpi_search.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-anydpi\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_compl_verify.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_compl_verify.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_simstock.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_simstock.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_contact_row.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\contact_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_edit_profile.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_next.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_header_lay.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\header_lay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\font_poppins_black.ttf.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\font\\poppins_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_deliveryrow.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\deliveryrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_settings.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_bank_details.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_bank_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_select_address_adapter.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\select_address_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_finaldeliveryscreen.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\finaldeliveryscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_buy_sim.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_buy_sim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_pan_card.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_pan_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_logo2.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\anim_top.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\anim\\top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_backgroundsplash.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\backgroundsplash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_thumb_track.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\thumb_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_design_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_popup.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_orderdetaildailog.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\orderdetaildailog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_personal_details.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_personal_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_person.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_get_orders.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_get_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_drivinglicence.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\drivinglicence.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_ic_rupee.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\ic_rupee.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-xhdpi-v4_inear_me.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-xhdpi-v4\\inear_me.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_radius.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\font_roboto_medium.ttf.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\font\\roboto_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-mdpi_search.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-mdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-xhdpi-v4_row_selected_color.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-xhdpi-v4\\row_selected_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_airtel.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\airtel.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_aadhaar_card.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_aadhaar_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_img.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\menu_navigation_items.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\menu\\navigation_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_off_switch.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\off_switch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_track.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_ic_baseline_sim_card_24.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\ic_baseline_sim_card_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_getorder.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\getorder.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_direct_sell.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_direct_sell.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-xhdpi_search.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_design_text_input_end_icon.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\design_text_input_end_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_bsnl.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\bsnl.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_add_money_wallet.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_add_money_wallet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_edit.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_directsell.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\directsell.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-xhdpi-v4_row_not_selected_color.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-xhdpi-v4\\row_not_selected_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_ic_attendance.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\ic_attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_orderacceptdialog.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\orderacceptdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_nav.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\nav.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_ic_clear.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\ic_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_xyz.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_xyz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\anim_bottom.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\anim\\bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_item_sim.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\item_sim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_directsell.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\directsell.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_question_mark.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\question_mark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_vi.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\vi.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_driving_license.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_driving_license.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_logout.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_ic_baseline_clear_24.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\ic_baseline_clear_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_on_switch.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\on_switch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_box_layout.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\box_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_layout_address_select.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\layout_address_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_design_text_input_start_icon.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\design_text_input_start_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_contactus.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\contactus.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_design_bottom_sheet_dialog.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-xhdpi-v4_phone.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-xhdpi-v4\\phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_thumb.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_aadhaar_front.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\aadhaar_front.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_cerclebackground.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\cerclebackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_fragment_attendance.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\fragment_attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_orderstatusdialog.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\orderstatusdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_pancard.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\pancard.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_activity.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\activity.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_performance.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_performance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_gallery.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_edit_background.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\edit_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_border.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_card_option.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_card_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_dl.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_dl.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_fees_paid1sreen.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_fees_paid1sreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_time_view.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_time_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_favourites.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\favourites.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_payment.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_activate_sim_status.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_activate_sim_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_privacy_policy.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\privacy_policy.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\menu_example_menu.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\menu\\example_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_watch.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\watch.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_logo.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_calender_view.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_calender_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_mywallet.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\mywallet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_customer_details.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_customer_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-xhdpi-v4_cancel.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-xhdpi-v4\\cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_card_detail.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_card_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_send_o_t_p.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_send_o_t_p.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_galleryitem.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\galleryitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_tick.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\tick.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_black_circle.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\black_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_takephoto.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\takephoto.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_faq.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\faq.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_buttonshape.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\buttonshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_head_layout.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\head_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_tshirt_size.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_tshirt_size.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_content_attendance.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\content_attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_roundedcorners.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\roundedcorners.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-xhdpi-v4_ic_baseline_error_outline_24.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-xhdpi-v4\\ic_baseline_error_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-xxhdpi_search.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-xxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_rewards.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\rewards.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_list_layout.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\list_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_custom_dialog.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\font_poppins_regular.ttf.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\font\\poppins_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_about.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activitylogs.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activitylogs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_spinner_layout.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\spinner_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-hdpi_search.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_orderdailog.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\orderdailog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "com.example.prunedeliveryapplication.app-merged_res-50:/layout_activity_aadhaar_card.xml.flat",
+        "source": "com.example.prunedeliveryapplication.app-main-52:/layout/activity_aadhaar_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_personal_details_screen.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_personal_details_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_activity_activate_sim.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\activity_activate_sim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_ic_person_pin.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\ic_person_pin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_sortmodel.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\sortmodel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_ic_more_vert.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\ic_more_vert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable-v24_check.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable-v24\\check.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_helpbutton.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\helpbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\layout_myprofile.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\layout\\myprofile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-merged_res-50:\\drawable_ic_plan.xml.flat",
+        "source": "C:\\Users\\Adarsh PC\\.gradle\\daemon\\7.3.3\\com.example.prunedeliveryapplication.app-main-52:\\drawable\\ic_plan.xml"
+    }
+]

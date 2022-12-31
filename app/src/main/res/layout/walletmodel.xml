@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="3dp"
+    app:cardUseCompatPadding="true"
+    app:cardElevation="3dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@color/cardcolor1">
+
+        <ImageView
+            android:id="@+id/Black1"
+            android:layout_width="40sp"
+            android:layout_height="50dp"
+            android:layout_marginStart="4dp"
+            android:layout_marginTop="15dp"
+            android:src="@drawable/b_circle" />
+
+        <TextView
+            android:id="@+id/Id1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="65dp"
+            android:hint="@string/transaction_id"
+            android:textColorHint="@color/black"
+            android:layout_marginTop="10dp"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/Type1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Id1"
+            android:layout_marginStart="65dp"
+            android:hint="@string/type"
+            android:textColorHint="@color/black"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/Date1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Type1"
+            android:layout_marginStart="65dp"
+            android:hint="@string/date"
+            android:textColorHint="@color/black"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:id="@+id/amount_pay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="280dp"
+            android:layout_marginTop="15dp"
+            android:hint="@string/amount"
+            android:textColorHint="@color/black"
+            android:textSize="16sp" />
+
+
+
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

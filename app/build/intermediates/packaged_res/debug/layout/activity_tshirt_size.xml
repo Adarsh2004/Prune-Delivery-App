@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".tshirt_size">
+
+    <TextView
+        android:id="@+id/tshirt_top_head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="@string/add_t_shirt_size"
+        android:textColor="@color/DarkMagenta"
+        android:textSize="25sp" />
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:id="@+id/text_tshirt_size_sub"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:text="@string/please_select_a_t_shirt_size"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <RadioGroup
+        android:id="@+id/tshirt"
+        android:layout_width="match_parent"
+        android:layout_height="330dp">
+
+        <RadioButton
+            android:id="@+id/but_size1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="30dp"
+            android:padding="10dp"
+            android:text="@string/xs"/>
+
+
+        <RadioButton
+            android:id="@+id/but_size2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:padding="10dp"
+            android:text="@string/s"/>
+
+
+        <RadioButton
+            android:id="@+id/but_size3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:padding="10dp"
+            android:text="@string/m"/>
+
+
+        <RadioButton
+            android:id="@+id/but_size4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:padding="10dp"
+            android:text="@string/l"/>
+
+
+        <RadioButton
+            android:id="@+id/but_size5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:padding="10dp"
+            android:text="@string/xl"/>
+
+
+        <RadioButton
+            android:id="@+id/but_size6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:padding="10dp"
+            android:text="@string/_2xl"/>
+
+    </RadioGroup>
+
+
+    <Button
+        android:id="@+id/t_shirt_continue"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/buttonshape"
+        android:text="@string/Continue"
+        android:textColor="@color/white"
+        android:textSize="18sp"/>
+
+</LinearLayout>

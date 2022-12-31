@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/profile"
+            android:title="@string/menu_profile" />
+        <item
+            android:id="@+id/nav_get_orders"
+            android:icon="@drawable/getorder"
+            android:title="@string/menu_more_orders" />
+        <item
+            android:id="@+id/nav_direct_sell"
+            android:icon="@drawable/directsell"
+            android:title="@string/menu_direct_sell" />
+        <item
+            android:id="@+id/nav_activity"
+            android:icon="@drawable/activity"
+            android:title="@string/menu_activity" />
+        <item
+            android:id="@+id/nav_wallet"
+            android:icon="@drawable/favourites"
+            android:title="@string/menu_wallet" />
+
+        <item
+            android:id="@+id/nav_attendance"
+            android:icon="@drawable/ic_attendance"
+            android:title="@string/attendance" />
+    </group>
+</menu>

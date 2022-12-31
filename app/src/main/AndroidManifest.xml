@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.prunedeliveryapplication">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.SEND_SMS"/>
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS"/>
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PruneDeliveryApplication"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31">
+        <activity
+            android:name=".DetailActivity"
+            android:exported="false"
+            android:parentActivityName="ActivityLogs"/>
+        <activity
+            android:name=".dlActivity"
+            android:exported="false"
+            android:label="Driving Licence Data Extract"
+            android:parentActivityName=".IdentityDetails"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".PanCardActivity"
+            android:exported="false"
+            android:label="Pan Card Data Extract"
+            android:parentActivityName=".IdentityDetails"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AadhaarCardActivity"
+            android:exported="false"
+            android:label="Aadhaar Card Data Extract"
+            android:parentActivityName=".IdentityDetails"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".CustomGalleryActivity"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".simstock"
+            android:exported="false" />
+        <activity
+            android:name=".ActivateSim"
+            android:exported="false" />
+        <activity
+            android:name=".Performance"
+            android:exported="false" />
+        <activity
+            android:name=".Payment"
+            android:exported="false" />
+        <activity
+            android:name=".BuySim"
+            android:exported="false" />
+        <activity
+            android:name=".xyz"
+            android:exported="false" />
+        <activity
+            android:name=".NavigationScreen"
+            android:exported="false" />
+        <activity
+            android:name=".personal_details_screen"
+            android:exported="false" />
+        <activity
+            android:name=".compl_verify"
+            android:exported="false" />
+        <activity
+            android:name=".activate_sim_status"
+            android:exported="false" />
+        <activity
+            android:name=".bank_details"
+            android:exported="false" />
+        <activity
+            android:name=".driving_license"
+            android:exported="false" />
+        <activity
+            android:name=".IdentityDetails"
+            android:exported="false" />
+        <activity
+            android:name=".personal_details"
+            android:exported="false" />
+        <activity
+            android:name=".calender_view"
+            android:exported="false" />
+        <activity
+            android:name=".TimeView"
+            android:exported="false" />
+        <activity
+            android:name=".Otherresponse"
+            android:exported="false" />
+        <activity
+            android:name=".card_detail"
+            android:exported="false" />
+        <activity
+            android:name=".customer_details"
+            android:exported="false" />
+        <activity
+            android:name=".card_option"
+            android:exported="false" />
+        <activity
+            android:name=".edit_profile"
+            android:exported="false" />
+        <activity
+            android:name=".direct_sell"
+            android:exported="false" />
+        <activity
+            android:name=".add_money_wallet"
+            android:exported="false" />
+        <activity
+            android:name=".get_orders"
+            android:exported="false" />
+        <activity
+            android:name=".fees_paid_1sreen"
+            android:exported="false" />
+        <activity
+            android:name=".tshirt_size"
+            android:exported="false" />
+        <activity
+            android:name=".take_photo_activity"
+            android:exported="false" />
+        <activity
+            android:name=".VerifyOTPActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SendOTPActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+            <meta-data
+                android:name="com.google.android.gms.version"
+                android:value="@integer/google_play_services_version" />
+            <meta-data
+                android:name="com.google.android.geo.API_KEY"
+                android:value="AIzaSyCQHKYc3QxEAWHAp5mQcTWGUyG0LkLJlMU" />
+        </provider>
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+    </application>
+
+</manifest>

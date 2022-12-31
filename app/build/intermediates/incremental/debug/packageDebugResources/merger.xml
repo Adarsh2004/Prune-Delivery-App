@@ -1,0 +1,1804 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="http://schemas.android.com/tools"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res"/><source path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\build\generated\res\rs\debug"/><source path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\build\generated\res\resValues\debug"/><source path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\build\generated\res\google-services\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res"><file name="bottom" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\anim\bottom.xml" qualifiers="" type="anim"/><file name="top" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\anim\top.xml" qualifiers="" type="anim"/><file name="backgroundsplash" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\backgroundsplash.xml" qualifiers="" type="drawable"/><file name="border" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\border.xml" qualifiers="" type="drawable"/><file name="box_layout" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\box_layout.xml" qualifiers="" type="drawable"/><file name="cerclebackground" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\cerclebackground.xml" qualifiers="" type="drawable"/><file name="edit" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\edit.xml" qualifiers="" type="drawable"/><file name="edit_background" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\edit_background.xml" qualifiers="" type="drawable"/><file name="helpbutton" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\helpbutton.xml" qualifiers="" type="drawable"/><file name="ic_address" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\ic_address.xml" qualifiers="" type="drawable"/><file name="ic_attendance" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\ic_attendance.xml" qualifiers="" type="drawable"/><file name="ic_baseline_add_circle_outline_24" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\ic_baseline_add_circle_outline_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_clear_24" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\ic_baseline_clear_24.xml" qualifiers="" type="drawable"/><file name="ic_baseline_sim_card_24" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\ic_baseline_sim_card_24.xml" qualifiers="" type="drawable"/><file name="ic_clear" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\ic_clear.xml" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="ic_more_vert" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\ic_more_vert.xml" qualifiers="" type="drawable"/><file name="ic_person_pin" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\ic_person_pin.xml" qualifiers="" type="drawable"/><file name="ic_phone" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\ic_phone.xml" qualifiers="" type="drawable"/><file name="ic_plan" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\ic_plan.xml" qualifiers="" type="drawable"/><file name="ic_rupee" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\ic_rupee.xml" qualifiers="" type="drawable"/><file name="img" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\img.png" qualifiers="" type="drawable"/><file name="next" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\next.png" qualifiers="" type="drawable"/><file name="offer_lay" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\offer_lay.xml" qualifiers="" type="drawable"/><file name="off_switch" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\off_switch.xml" qualifiers="" type="drawable"/><file name="on_switch" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\on_switch.xml" qualifiers="" type="drawable"/><file name="person" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\person.xml" qualifiers="" type="drawable"/><file name="question_mark" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\question_mark.xml" qualifiers="" type="drawable"/><file name="radius" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\radius.xml" qualifiers="" type="drawable"/><file name="roundedcorners" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\roundedcorners.xml" qualifiers="" type="drawable"/><file name="thumb" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\thumb.xml" qualifiers="" type="drawable"/><file name="thumb2" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\thumb2.xml" qualifiers="" type="drawable"/><file name="thumb_track" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\thumb_track.xml" qualifiers="" type="drawable"/><file name="track" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\track.xml" qualifiers="" type="drawable"/><file name="watch" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable\watch.png" qualifiers="" type="drawable"/><file name="search" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-anydpi\search.xml" qualifiers="anydpi-v4" type="drawable"/><file name="search" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-hdpi\search.png" qualifiers="hdpi-v4" type="drawable"/><file name="search" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-mdpi\search.png" qualifiers="mdpi-v4" type="drawable"/><file name="aadhaar_back" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\aadhaar_back.png" qualifiers="v24" type="drawable"/><file name="aadhaar_front" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\aadhaar_front.png" qualifiers="v24" type="drawable"/><file name="aadhar" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\aadhar.png" qualifiers="v24" type="drawable"/><file name="about" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\about.png" qualifiers="v24" type="drawable"/><file name="activity" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\activity.png" qualifiers="v24" type="drawable"/><file name="airtel" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\airtel.png" qualifiers="v24" type="drawable"/><file name="black_circle" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\black_circle.png" qualifiers="v24" type="drawable"/><file name="bsnl" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\bsnl.png" qualifiers="v24" type="drawable"/><file name="buttonshape" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\buttonshape.xml" qualifiers="v24" type="drawable"/><file name="b_circle" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\b_circle.png" qualifiers="v24" type="drawable"/><file name="calender" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\calender.png" qualifiers="v24" type="drawable"/><file name="check" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\check.png" qualifiers="v24" type="drawable"/><file name="contactus" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\contactus.png" qualifiers="v24" type="drawable"/><file name="cross" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\cross.png" qualifiers="v24" type="drawable"/><file name="directsell" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\directsell.png" qualifiers="v24" type="drawable"/><file name="drivinglicence" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\drivinglicence.png" qualifiers="v24" type="drawable"/><file name="faq" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\faq.png" qualifiers="v24" type="drawable"/><file name="favourites" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\favourites.png" qualifiers="v24" type="drawable"/><file name="getorder" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\getorder.png" qualifiers="v24" type="drawable"/><file name="ic_launcher_foreground" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\ic_launcher_foreground.xml" qualifiers="v24" type="drawable"/><file name="jio" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\jio.png" qualifiers="v24" type="drawable"/><file name="logo" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\logo.png" qualifiers="v24" type="drawable"/><file name="logo2" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\logo2.png" qualifiers="v24" type="drawable"/><file name="logout" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\logout.png" qualifiers="v24" type="drawable"/><file name="nav" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\nav.png" qualifiers="v24" type="drawable"/><file name="pancard" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\pancard.png" qualifiers="v24" type="drawable"/><file name="pragati" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\pragati.png" qualifiers="v24" type="drawable"/><file name="privacy_policy" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\privacy_policy.png" qualifiers="v24" type="drawable"/><file name="profile" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\profile.png" qualifiers="v24" type="drawable"/><file name="rewards" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\rewards.png" qualifiers="v24" type="drawable"/><file name="settings" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\settings.png" qualifiers="v24" type="drawable"/><file name="side_nav_bar" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\side_nav_bar.xml" qualifiers="v24" type="drawable"/><file name="takephoto" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\takephoto.png" qualifiers="v24" type="drawable"/><file name="term_service" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\term_service.png" qualifiers="v24" type="drawable"/><file name="tick" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\tick.png" qualifiers="v24" type="drawable"/><file name="vi" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-v24\vi.png" qualifiers="v24" type="drawable"/><file name="search" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-xhdpi\search.png" qualifiers="xhdpi-v4" type="drawable"/><file name="cancel" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-xhdpi-v4\cancel.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="cancel_btn" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-xhdpi-v4\cancel_btn.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_baseline_error_outline_24" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-xhdpi-v4\ic_baseline_error_outline_24.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_baseline_location_on_24" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-xhdpi-v4\ic_baseline_location_on_24.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_brightness" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-xhdpi-v4\ic_brightness.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="inear_me" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-xhdpi-v4\inear_me.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="phone" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-xhdpi-v4\phone.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="row_not_selected_color" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-xhdpi-v4\row_not_selected_color.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="row_selected_color" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-xhdpi-v4\row_selected_color.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="search" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\drawable-xxhdpi\search.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="poppins_black" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\font\poppins_black.ttf" qualifiers="" type="font"/><file name="poppins_regular" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\font\poppins_regular.ttf" qualifiers="" type="font"/><file name="roboto_medium" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\font\roboto_medium.ttf" qualifiers="" type="font"/><file name="activitylogs" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activitylogs.xml" qualifiers="" type="layout"/><file name="activity_aadhaar_card" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_aadhaar_card.xml" qualifiers="" type="layout"/><file name="activity_activate_sim" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_activate_sim.xml" qualifiers="" type="layout"/><file name="activity_activate_sim_status" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_activate_sim_status.xml" qualifiers="" type="layout"/><file name="activity_add_money_wallet" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_add_money_wallet.xml" qualifiers="" type="layout"/><file name="activity_bank_details" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_bank_details.xml" qualifiers="" type="layout"/><file name="activity_buy_sim" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_buy_sim.xml" qualifiers="" type="layout"/><file name="activity_calender_view" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_calender_view.xml" qualifiers="" type="layout"/><file name="activity_card_detail" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_card_detail.xml" qualifiers="" type="layout"/><file name="activity_card_option" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_card_option.xml" qualifiers="" type="layout"/><file name="activity_compl_verify" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_compl_verify.xml" qualifiers="" type="layout"/><file name="activity_customer_details" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_customer_details.xml" qualifiers="" type="layout"/><file name="activity_detail" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_detail.xml" qualifiers="" type="layout"/><file name="activity_direct_sell" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_direct_sell.xml" qualifiers="" type="layout"/><file name="activity_dl" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_dl.xml" qualifiers="" type="layout"/><file name="activity_driving_license" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_driving_license.xml" qualifiers="" type="layout"/><file name="activity_edit_profile" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_edit_profile.xml" qualifiers="" type="layout"/><file name="activity_fees_paid1sreen" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_fees_paid1sreen.xml" qualifiers="" type="layout"/><file name="activity_gallery" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_gallery.xml" qualifiers="" type="layout"/><file name="activity_get_orders" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_get_orders.xml" qualifiers="" type="layout"/><file name="activity_identity_details" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_identity_details.xml" qualifiers="" type="layout"/><file name="activity_main" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_navigation_screen" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_navigation_screen.xml" qualifiers="" type="layout"/><file name="activity_otherresponse" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_otherresponse.xml" qualifiers="" type="layout"/><file name="activity_pan_card" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_pan_card.xml" qualifiers="" type="layout"/><file name="activity_payment" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_payment.xml" qualifiers="" type="layout"/><file name="activity_performance" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_performance.xml" qualifiers="" type="layout"/><file name="activity_personal_details" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_personal_details.xml" qualifiers="" type="layout"/><file name="activity_personal_details_screen" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_personal_details_screen.xml" qualifiers="" type="layout"/><file name="activity_send_o_t_p" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_send_o_t_p.xml" qualifiers="" type="layout"/><file name="activity_simstock" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_simstock.xml" qualifiers="" type="layout"/><file name="activity_take_photo" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_take_photo.xml" qualifiers="" type="layout"/><file name="activity_time_view" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_time_view.xml" qualifiers="" type="layout"/><file name="activity_tshirt_size" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_tshirt_size.xml" qualifiers="" type="layout"/><file name="activity_xyz" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\activity_xyz.xml" qualifiers="" type="layout"/><file name="app_bar_main" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\app_bar_main.xml" qualifiers="" type="layout"/><file name="contact_row" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\contact_row.xml" qualifiers="" type="layout"/><file name="content_attendance" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\content_attendance.xml" qualifiers="" type="layout"/><file name="content_main" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\content_main.xml" qualifiers="" type="layout"/><file name="custom_dialog" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\custom_dialog.xml" qualifiers="" type="layout"/><file name="dailogbox" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\dailogbox.xml" qualifiers="" type="layout"/><file name="dailogbox2" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\dailogbox2.xml" qualifiers="" type="layout"/><file name="deliveryrow" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\deliveryrow.xml" qualifiers="" type="layout"/><file name="design_bottom_sheet_dialog" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\design_bottom_sheet_dialog.xml" qualifiers="" type="layout"/><file name="design_layout_snackbar" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\design_layout_snackbar.xml" qualifiers="" type="layout"/><file name="design_layout_snackbar_include" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\design_layout_snackbar_include.xml" qualifiers="" type="layout"/><file name="design_text_input_end_icon" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\design_text_input_end_icon.xml" qualifiers="" type="layout"/><file name="design_text_input_start_icon" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\design_text_input_start_icon.xml" qualifiers="" type="layout"/><file name="directsell" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\directsell.xml" qualifiers="" type="layout"/><file name="dropdown_item" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\dropdown_item.xml" qualifiers="" type="layout"/><file name="finaldeliveryscreen" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\finaldeliveryscreen.xml" qualifiers="" type="layout"/><file name="fragment_attendance" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\fragment_attendance.xml" qualifiers="" type="layout"/><file name="fragment_first" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\fragment_first.xml" qualifiers="" type="layout"/><file name="fragment_getmoreorders" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\fragment_getmoreorders.xml" qualifiers="" type="layout"/><file name="fragment_second" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\fragment_second.xml" qualifiers="" type="layout"/><file name="galleryitem" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\galleryitem.xml" qualifiers="" type="layout"/><file name="header_lay" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\header_lay.xml" qualifiers="" type="layout"/><file name="head_layout" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\head_layout.xml" qualifiers="" type="layout"/><file name="item_sim" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\item_sim.xml" qualifiers="" type="layout"/><file name="layout_address_select" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\layout_address_select.xml" qualifiers="" type="layout"/><file name="list_item" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\list_item.xml" qualifiers="" type="layout"/><file name="list_layout" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\list_layout.xml" qualifiers="" type="layout"/><file name="myprofile" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\myprofile.xml" qualifiers="" type="layout"/><file name="mywallet" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\mywallet.xml" qualifiers="" type="layout"/><file name="orderacceptdialog" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\orderacceptdialog.xml" qualifiers="" type="layout"/><file name="orderdailog" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\orderdailog.xml" qualifiers="" type="layout"/><file name="orderdetaildailog" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\orderdetaildailog.xml" qualifiers="" type="layout"/><file name="orderstatusdialog" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\orderstatusdialog.xml" qualifiers="" type="layout"/><file name="popup" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\popup.xml" qualifiers="" type="layout"/><file name="select_address_adapter" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\select_address_adapter.xml" qualifiers="" type="layout"/><file name="sortmodel" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\sortmodel.xml" qualifiers="" type="layout"/><file name="spinner_layout" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\spinner_layout.xml" qualifiers="" type="layout"/><file name="walletmodel" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\layout\walletmodel.xml" qualifiers="" type="layout"/><file name="example_menu" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\menu\example_menu.xml" qualifiers="" type="menu"/><file name="example_menu2" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\menu\example_menu2.xml" qualifiers="" type="menu"/><file name="logout_menu" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\menu\logout_menu.xml" qualifiers="" type="menu"/><file name="menu" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\menu\menu.xml" qualifiers="" type="menu"/><file name="navigation_items" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\menu\navigation_items.xml" qualifiers="" type="menu"/><file name="ic_launcher" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\mipmap-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\mipmap-hdpi\ic_launcher_foreground.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\mipmap-hdpi\ic_launcher_round.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\mipmap-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\mipmap-mdpi\ic_launcher_foreground.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\mipmap-mdpi\ic_launcher_round.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\mipmap-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\mipmap-xhdpi\ic_launcher_foreground.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\mipmap-xhdpi\ic_launcher_round.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\mipmap-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\mipmap-xxhdpi\ic_launcher_foreground.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_foreground" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\mipmap-xxxhdpi\ic_launcher_foreground.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="nav_graph" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\navigation\nav_graph.xml" qualifiers="" type="navigation"/><file path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\values\colors.xml" qualifiers=""><color name="registration_bg">#fefeff</color><color name="black_app_bold">#707070</color><color name="light_black_low">#C0C0C0</color><color name="light_black_very_low">#09000000</color><color name="light_black">#4b4b4b</color><color name="abili_font_color">#696969</color><color name="official_health_app_color_1">#3f5aa6</color><color name="official_health_app_color_2">#797ef6</color><color name="purple_200">#FFBB86FC</color><color name="purple_500">#FF6200EE</color><color name="purple_700">#FF3700B3</color><color name="teal_200">#FF03DAC5</color><color name="teal_700">#FF018786</color><color name="black">#FF000000</color><color name="white">#FFFFFFFF</color><color name="colorAccent">#7DC5FD</color><color name="colorPrimaryDark">#00574B</color><color name="abc_decor_view_status_guard">#ff000000</color><color name="abc_decor_view_status_guard_light">#ffffffff</color><color name="abc_search_url_text_normal">#7fa87f</color><color name="abc_search_url_text_pressed">@android:color/black</color><color name="abc_search_url_text_selected">@android:color/black</color><color name="accent_material_dark">@color/material_deep_teal_200</color><color name="accent_material_light">@color/material_deep_teal_500</color><color name="androidx_core_ripple_material_light">#1f000000</color><color name="androidx_core_secondary_text_default_material_light">#8a000000</color><color name="background">#ff000000</color><color name="background_floating_material_dark">@color/material_grey_800</color><color name="background_floating_material_light">@android:color/white</color><color name="background_material_dark">@color/material_grey_850</color><color name="background_material_light">@color/material_grey_50</color><color name="blue">#283593</color><color name="bright_foreground_disabled_material_dark">#80ffffff</color><color name="bright_foreground_disabled_material_light">#80000000</color><color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color><color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark</color><color name="bright_foreground_material_dark">@android:color/white</color><color name="bright_foreground_material_light">@android:color/black</color><color name="button_material_dark">#ff5a595b</color><color name="button_material_light">#ffd6d7d7</color><color name="cardcolor1">#ccc9cc</color><color name="cardcolor2">#938f93</color><color name="cardcolor3">#555454</color><color name="cardview_dark_background">#ff424242</color><color name="cardview_light_background">#ffffffff</color><color name="cardview_shadow_end_color">#03000000</color><color name="cardview_shadow_start_color">#37000000</color><color name="design_bottom_navigation_shadow_color">#14000000</color><color name="design_dark_default_color_background">#121212</color><color name="design_dark_default_color_error">#cf6679</color><color name="design_dark_default_color_on_background">#ffffff</color><color name="design_dark_default_color_on_error">#000000</color><color name="design_dark_default_color_on_primary">#000000</color><color name="design_dark_default_color_on_secondary">#000000</color><color name="design_dark_default_color_on_surface">#ffffff</color><color name="design_dark_default_color_primary">#ba86fc</color><color name="design_dark_default_color_primary_dark">#000000</color><color name="design_dark_default_color_primary_variant">#3700b3</color><color name="design_dark_default_color_secondary">#03dac6</color><color name="design_dark_default_color_secondary_variant">#03dac6</color><color name="design_dark_default_color_surface">#121212</color><color name="design_default_color_background">#ffffff</color><color name="design_default_color_error">#b00020</color><color name="design_default_color_on_background">#000000</color><color name="design_default_color_on_error">#ffffff</color><color name="design_default_color_on_primary">#ffffff</color><color name="design_default_color_on_secondary">#000000</color><color name="design_default_color_on_surface">#000000</color><color name="design_default_color_primary">#6200ee</color><color name="design_default_color_primary_dark">#3700b3</color><color name="design_default_color_primary_variant">#3700b3</color><color name="design_default_color_secondary">#03dac6</color><color name="design_default_color_secondary_variant">#018786</color><color name="design_default_color_surface">#ffffff</color><color name="design_fab_shadow_end_color">@android:color/transparent</color><color name="design_fab_shadow_mid_color">#14000000</color><color name="design_fab_shadow_start_color">#44000000</color><color name="design_fab_stroke_end_inner_color">#0a000000</color><color name="design_fab_stroke_end_outer_color">#0f000000</color><color name="design_fab_stroke_top_inner_color">#1affffff</color><color name="design_fab_stroke_top_outer_color">#2effffff</color><color name="design_snackbar_background_color">#323232</color><color name="dim_foreground_disabled_material_dark">#80bebebe</color><color name="dim_foreground_disabled_material_light">#80323232</color><color name="dim_foreground_material_dark">#ffbebebe</color><color name="dim_foreground_material_light">#ff323232</color><color name="error_color_material_dark">#ff7043</color><color name="error_color_material_light">#ff5722</color><color name="foreground_material_dark">@android:color/white</color><color name="foreground_material_light">@android:color/black</color><color name="highlighted_text_material_dark">#6680cbc4</color><color name="highlighted_text_material_light">#66009688</color><color name="material_blue_grey_800">#ff37474f</color><color name="material_blue_grey_900">#ff263238</color><color name="material_blue_grey_950">#ff21272b</color><color name="material_deep_teal_200">#ff80cbc4</color><color name="material_deep_teal_500">#ff008577</color><color name="material_grey_100">#fff5f5f5</color><color name="material_grey_300">#ffe0e0e0</color><color name="material_grey_50">#fffafafa</color><color name="material_grey_600">#ff757575</color><color name="material_grey_800">#ff424242</color><color name="material_grey_850">#ff303030</color><color name="material_grey_900">#ff212121</color><color name="mtrl_btn_text_color_disabled">#61000000</color><color name="mtrl_btn_transparent_bg_color">#00ffffff</color><color name="mtrl_scrim_color">#52000000</color><color name="mtrl_textinput_default_box_stroke_color">#6b000000</color><color name="mtrl_textinput_disabled_color">#1f000000</color><color name="mtrl_textinput_filled_box_default_background_color">#0a000000</color><color name="mtrl_textinput_focused_box_stroke_color">#00000000</color><color name="mtrl_textinput_hovered_box_stroke_color">#de000000</color><color name="notification_action_color_filter">@color/androidx_core_secondary_text_default_material_light</color><color name="notification_icon_bg_color">#ff9e9e9e</color><color name="offer">#e0f4f7</color><color name="primary_dark_material_dark">@android:color/black</color><color name="primary_dark_material_light">@color/material_grey_600</color><color name="primary_material_dark">@color/material_grey_900</color><color name="primary_material_light">@color/material_grey_100</color><color name="primary_text_default_material_dark">#ffffffff</color><color name="primary_text_default_material_light">#de000000</color><color name="primary_text_disabled_material_dark">#4dffffff</color><color name="primary_text_disabled_material_light">#39000000</color><color name="red">#df3737</color><color name="ripple_material_dark">#33ffffff</color><color name="ripple_material_light">#1f000000</color><color name="secondary_text_default_material_dark">#b3ffffff</color><color name="secondary_text_default_material_light">#8a000000</color><color name="secondary_text_disabled_material_dark">#36ffffff</color><color name="secondary_text_disabled_material_light">#24000000</color><color name="spinner_color">#f7e2dfdf</color><color name="splash1">#63D8B2</color><color name="splash2">#ADF5DD</color><color name="switch_thumb_disabled_material_dark">#ff616161</color><color name="switch_thumb_disabled_material_light">#ffbdbdbd</color><color name="switch_thumb_normal_material_dark">#ffbdbdbd</color><color name="switch_thumb_normal_material_light">#fff1f1f1</color><color name="textcolor">#76408c</color><color name="textcolorl">#ffffffff</color><color name="tooltip_background_dark">#e6616161</color><color name="tooltip_background_light">#e6ffffff</color><color name="Ivory">#FFFFF0</color><color name="LightYellow">#FFFFE0</color><color name="Yellow">#FFFF00</color><color name="Snow">#FFFAFA</color><color name="FloralWhite">#FFFAF0</color><color name="LemonChiffon">#FFFACD</color><color name="Cornsilk">#FFF8DC</color><color name="Seashell">#FFF5EE</color><color name="LavenderBlush">#FFF0F5</color><color name="PapayaWhip">#FFEFD5</color><color name="BlanchedAlmond">#FFEBCD</color><color name="MistyRose">#FFE4E1</color><color name="Bisque">#FFE4C4</color><color name="Moccasin">#FFE4B5</color><color name="NavajoWhite">#FFDEAD</color><color name="PeachPuff">#FFDAB9</color><color name="Gold">#FFD700</color><color name="Pink">#FFC0CB</color><color name="LightPink">#FFB6C1</color><color name="Orange">#FFA500</color><color name="LightSalmon">#FFA07A</color><color name="DarkOrange">#FF8C00</color><color name="Coral">#FF7F50</color><color name="HotPink">#FF69B4</color><color name="Tomato">#FF6347</color><color name="OrangeRed">#FF4500</color><color name="DeepPink">#FF1493</color><color name="Fuchsia">#FF00FF</color><color name="Magenta">#FF00FF</color><color name="Red">#FF0000</color><color name="OldLace">#FDF5E6</color><color name="LightGoldenrodYellow">#FAFAD2</color><color name="Linen">#FAF0E6</color><color name="AntiqueWhite">#FAEBD7</color><color name="Salmon">#FA8072</color><color name="GhostWhite">#F8F8FF</color><color name="MintCream">#F5FFFA</color><color name="WhiteSmoke">#F5F5F5</color><color name="Beige">#F5F5DC</color><color name="Wheat">#F5DEB3</color><color name="SandyBrown">#F4A460</color><color name="Azure">#F0FFFF</color><color name="Honeydew">#F0FFF0</color><color name="AliceBlue">#F0F8FF</color><color name="Khaki">#F0E68C</color><color name="LightCoral">#F08080</color><color name="PaleGoldenrod">#EEE8AA</color><color name="Violet">#EE82EE</color><color name="DarkSalmon">#E9967A</color><color name="Lavender">#E6E6FA</color><color name="LightCyan">#E0FFFF</color><color name="BurlyWood">#DEB887</color><color name="Plum">#DDA0DD</color><color name="Gainsboro">#DCDCDC</color><color name="Crimson">#DC143C</color><color name="PaleVioletRed">#DB7093</color><color name="Goldenrod">#DAA520</color><color name="Orchid">#DA70D6</color><color name="Thistle">#D8BFD8</color><color name="LightGrey">#D3D3D3</color><color name="Tan">#D2B48C</color><color name="Chocolate">#D2691E</color><color name="Peru">#CD853F</color><color name="IndianRed">#CD5C5C</color><color name="MediumVioletRed">#C71585</color><color name="Silver">#C0C0C0</color><color name="DarkKhaki">#BDB76B</color><color name="RosyBrown">#BC8F8F</color><color name="MediumOrchid">#BA55D3</color><color name="DarkGoldenrod">#B8860B</color><color name="FireBrick">#B22222</color><color name="PowderBlue">#B0E0E6</color><color name="LightSteelBlue">#B0C4DE</color><color name="PaleTurquoise">#AFEEEE</color><color name="GreenYellow">#ADFF2F</color><color name="LightBlue">#ADD8E6</color><color name="DarkGray">#A9A9A9</color><color name="Brown">#A52A2A</color><color name="Sienna">#A0522D</color><color name="YellowGreen">#9ACD32</color><color name="DarkOrchid">#9932CC</color><color name="PaleGreen">#98FB98</color><color name="DarkViolet">#9400D3</color><color name="MediumPurple">#9370DB</color><color name="LightGreen">#90EE90</color><color name="DarkSeaGreen">#8FBC8F</color><color name="SaddleBrown">#8B4513</color><color name="DarkMagenta">#8B008B</color><color name="DarkRed">#8B0000</color><color name="BlueViolet">#8A2BE2</color><color name="LightSkyBlue">#87CEFA</color><color name="SkyBlue">#87CEEB</color><color name="Gray">#808080</color><color name="Olive">#808000</color><color name="Purple">#800080</color><color name="Maroon">#800000</color><color name="Aquamarine">#7FFFD4</color><color name="Chartreuse">#7FFF00</color><color name="LawnGreen">#7CFC00</color><color name="MediumSlateBlue">#7B68EE</color><color name="LightSlateGray">#778899</color><color name="SlateGray">#708090</color><color name="OliveDrab">#6B8E23</color><color name="SlateBlue">#6A5ACD</color><color name="DimGray">#696969</color><color name="MediumAquamarine">#66CDAA</color><color name="CornflowerBlue">#6495ED</color><color name="CadetBlue">#5F9EA0</color><color name="DarkOliveGreen">#556B2F</color><color name="Indigo">#4B0082</color><color name="MediumTurquoise">#48D1CC</color><color name="DarkSlateBlue">#483D8B</color><color name="SteelBlue">#4682B4</color><color name="RoyalBlue">#4169E1</color><color name="Turquoise">#40E0D0</color><color name="MediumSeaGreen">#3CB371</color><color name="LimeGreen">#32CD32</color><color name="DarkSlateGray">#2F4F4F</color><color name="SeaGreen">#2E8B57</color><color name="ForestGreen">#228B22</color><color name="LightSeaGreen">#20B2AA</color><color name="DodgerBlue">#1E90FF</color><color name="MidnightBlue">#191970</color><color name="Aqua">#00FFFF</color><color name="Cyan">#00FFFF</color><color name="SpringGreen">#00FF7F</color><color name="Lime">#00FF00</color><color name="MediumSpringGreen">#00FA9A</color><color name="DarkTurquoise">#00CED1</color><color name="DeepSkyBlue">#00BFFF</color><color name="DarkCyan">#008B8B</color><color name="Teal">#008080</color><color name="Green">#008000</color><color name="DarkGreen">#006400</color><color name="Blue">#0000FF</color><color name="MediumBlue">#0000CD</color><color name="DarkBlue">#00008B</color><color name="Navy">#000080</color><color name="Black">#000000</color><color name="blue_light">#5DADF4</color></file><file path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="abc_action_bar_content_inset_material">16dp</dimen><dimen name="abc_action_bar_content_inset_with_nav">72dp</dimen><dimen name="abc_action_bar_default_height_material">56dp</dimen><dimen name="abc_action_bar_default_padding_end_material">0dp</dimen><dimen name="abc_action_bar_default_padding_start_material">0dp</dimen><dimen name="abc_action_bar_elevation_material">4dp</dimen><dimen name="abc_action_bar_icon_vertical_padding_material">16dp</dimen><dimen name="abc_action_bar_overflow_padding_end_material">10dp</dimen><dimen name="abc_action_bar_overflow_padding_start_material">6dp</dimen><dimen name="abc_action_bar_stacked_max_height">48dp</dimen><dimen name="abc_action_bar_stacked_tab_max_width">180dp</dimen><dimen name="abc_action_bar_subtitle_bottom_margin_material">5dp</dimen><dimen name="abc_action_bar_subtitle_top_margin_material">-3dp</dimen><dimen name="abc_action_button_min_height_material">48dp</dimen><dimen name="abc_action_button_min_width_material">48dp</dimen><dimen name="abc_action_button_min_width_overflow_material">36dp</dimen><dimen name="abc_alert_dialog_button_bar_height">48dp</dimen><dimen name="abc_alert_dialog_button_dimen">48dp</dimen><dimen name="abc_button_inset_horizontal_material">@dimen/abc_control_inset_material</dimen><dimen name="abc_button_inset_vertical_material">6dp</dimen><dimen name="abc_button_padding_horizontal_material">8dp</dimen><dimen name="abc_button_padding_vertical_material">@dimen/abc_control_padding_material</dimen><dimen name="abc_cascading_menus_min_smallest_width">720dp</dimen><dimen name="abc_config_prefDialogWidth">320dp</dimen><dimen name="abc_control_corner_material">2dp</dimen><dimen name="abc_control_inset_material">4dp</dimen><dimen name="abc_control_padding_material">4dp</dimen><dimen name="abc_dialog_corner_radius_material">2dp</dimen><dimen name="abc_dialog_fixed_height_major">80%</dimen><dimen name="abc_dialog_fixed_height_minor">100%</dimen><dimen name="abc_dialog_fixed_width_major">320dp</dimen><dimen name="abc_dialog_fixed_width_minor">320dp</dimen><dimen name="abc_dialog_list_padding_bottom_no_buttons">8dp</dimen><dimen name="abc_dialog_list_padding_top_no_title">8dp</dimen><dimen name="abc_dialog_min_width_major">65%</dimen><dimen name="abc_dialog_min_width_minor">95%</dimen><dimen name="abc_dialog_padding_material">24dp</dimen><dimen name="abc_dialog_padding_top_material">18dp</dimen><dimen name="abc_dialog_title_divider_material">8dp</dimen><dimen name="abc_disabled_alpha_material_dark">0.3</dimen><dimen name="abc_disabled_alpha_material_light">0.26</dimen><dimen name="abc_dropdownitem_icon_width">32dp</dimen><dimen name="abc_dropdownitem_text_padding_left">8dp</dimen><dimen name="abc_dropdownitem_text_padding_right">8dp</dimen><dimen name="abc_edit_text_inset_bottom_material">7dp</dimen><dimen name="abc_edit_text_inset_horizontal_material">4dp</dimen><dimen name="abc_edit_text_inset_top_material">10dp</dimen><dimen name="abc_floating_window_z">16dp</dimen><dimen name="abc_list_item_height_large_material">80dp</dimen><dimen name="abc_list_item_height_material">64dp</dimen><dimen name="abc_list_item_height_small_material">48dp</dimen><dimen name="abc_list_item_padding_horizontal_material">
+        @dimen/abc_action_bar_content_inset_material
+    </dimen><dimen name="abc_panel_menu_list_width">296dp</dimen><dimen name="abc_progress_bar_height_material">4dp</dimen><dimen name="abc_search_view_preferred_height">48dp</dimen><dimen name="abc_search_view_preferred_width">320dp</dimen><dimen name="abc_seekbar_track_background_height_material">2dp</dimen><dimen name="abc_seekbar_track_progress_height_material">2dp</dimen><dimen name="abc_select_dialog_padding_start_material">20dp</dimen><dimen name="abc_star_big">48dp</dimen><dimen name="abc_star_medium">36dp</dimen><dimen name="abc_star_small">16dp</dimen><dimen name="abc_switch_padding">0px</dimen><dimen name="abc_text_size_body_1_material">14sp</dimen><dimen name="abc_text_size_body_2_material">14sp</dimen><dimen name="abc_text_size_button_material">14sp</dimen><dimen name="abc_text_size_caption_material">12sp</dimen><dimen name="abc_text_size_display_1_material">34sp</dimen><dimen name="abc_text_size_display_2_material">45sp</dimen><dimen name="abc_text_size_display_3_material">56sp</dimen><dimen name="abc_text_size_display_4_material">112sp</dimen><dimen name="abc_text_size_headline_material">24sp</dimen><dimen name="abc_text_size_large_material">22sp</dimen><dimen name="abc_text_size_medium_material">18sp</dimen><dimen name="abc_text_size_menu_header_material">14sp</dimen><dimen name="abc_text_size_menu_material">16sp</dimen><dimen name="abc_text_size_small_material">14sp</dimen><dimen name="abc_text_size_subhead_material">16sp</dimen><dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen><dimen name="abc_text_size_title_material">20sp</dimen><dimen name="abc_text_size_title_material_toolbar">20dp</dimen><dimen name="action_bar_size">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="appcompat_dialog_background_inset">16dp</dimen><dimen name="cardview_compat_inset_shadow">1dp</dimen><dimen name="cardview_default_elevation">2dp</dimen><dimen name="cardview_default_radius">2dp</dimen><dimen name="clock_face_margin_start">64dp</dimen><dimen name="compat_button_inset_horizontal_material">4dp</dimen><dimen name="compat_button_inset_vertical_material">6dp</dimen><dimen name="compat_button_padding_horizontal_material">8dp</dimen><dimen name="compat_button_padding_vertical_material">4dp</dimen><dimen name="compat_control_corner_material">2dp</dimen><dimen name="compat_notification_large_icon_max_height">320dp</dimen><dimen name="compat_notification_large_icon_max_width">320dp</dimen><dimen name="def_drawer_elevation">10dp</dimen><dimen name="default_dimension">100dp</dimen><dimen name="design_appbar_elevation">4dp</dimen><dimen name="design_bottom_navigation_active_item_max_width">168dp</dimen><dimen name="design_bottom_navigation_active_item_min_width">96dp</dimen><dimen name="design_bottom_navigation_active_text_size">14sp</dimen><dimen name="design_bottom_navigation_elevation">8dp</dimen><dimen name="design_bottom_navigation_height">56dp</dimen><dimen name="design_bottom_navigation_icon_size">24dp</dimen><dimen name="design_bottom_navigation_item_max_width">96dp</dimen><dimen name="design_bottom_navigation_item_min_width">56dp</dimen><dimen name="design_bottom_navigation_label_padding">10dp</dimen><dimen name="design_bottom_navigation_margin">8dp</dimen><dimen name="design_bottom_navigation_shadow_height">1dp</dimen><dimen name="design_bottom_navigation_text_size">12sp</dimen><dimen name="design_bottom_sheet_elevation">8dp</dimen><dimen name="design_bottom_sheet_modal_elevation">16dp</dimen><dimen name="design_bottom_sheet_peek_height_min">64dp</dimen><dimen name="design_fab_border_width">0.5dp</dimen><dimen name="design_fab_elevation">6dp</dimen><dimen name="design_fab_image_size">24dp</dimen><dimen name="design_fab_size_mini">40dp</dimen><dimen name="design_fab_size_normal">56dp</dimen><dimen name="design_fab_translation_z_hovered_focused">6dp</dimen><dimen name="design_fab_translation_z_pressed">6dp</dimen><dimen name="design_navigation_elevation">16dp</dimen><dimen name="design_navigation_icon_padding">32dp</dimen><dimen name="design_navigation_icon_size">24dp</dimen><dimen name="design_navigation_item_horizontal_padding">16dp</dimen><dimen name="design_navigation_item_icon_padding">32dp</dimen><dimen name="design_navigation_max_width">280dp</dimen><dimen name="design_navigation_padding_bottom">8dp</dimen><dimen name="design_navigation_separator_vertical_padding">8dp</dimen><dimen name="design_snackbar_action_inline_max_width">128dp</dimen><dimen name="design_snackbar_action_text_color_alpha">1</dimen><dimen name="design_snackbar_background_corner_radius">0dp</dimen><dimen name="design_snackbar_elevation">6dp</dimen><dimen name="design_snackbar_extra_spacing_horizontal">0dp</dimen><dimen name="design_snackbar_max_width">-1px</dimen><dimen name="design_snackbar_min_width">-1px</dimen><dimen name="design_snackbar_padding_horizontal">12dp</dimen><dimen name="design_snackbar_padding_vertical">14dp</dimen><dimen name="design_snackbar_padding_vertical_2lines">16dp</dimen><dimen name="design_snackbar_text_size">14sp</dimen><dimen name="design_tab_max_width">264dp</dimen><dimen name="design_tab_scrollable_min_width">72dp</dimen><dimen name="design_tab_text_size">14sp</dimen><dimen name="design_tab_text_size_2line">12sp</dimen><dimen name="design_textinput_caption_translate_y">5dp</dimen><dimen name="disabled_alpha_material_dark">0.3</dimen><dimen name="disabled_alpha_material_light">0.26</dimen><dimen name="fab_margin">16dp</dimen><dimen name="fastscroll_default_thickness">8dp</dimen><dimen name="fastscroll_margin">0dp</dimen><dimen name="fastscroll_minimum_range">50dp</dimen><dimen name="highlight_alpha_material_colored">0.26</dimen><dimen name="highlight_alpha_material_dark">0.2</dimen><dimen name="highlight_alpha_material_light">0.12</dimen><dimen name="hint_alpha_material_dark">0.5</dimen><dimen name="hint_alpha_material_light">0.38</dimen><dimen name="hint_pressed_alpha_material_dark">0.7</dimen><dimen name="hint_pressed_alpha_material_light">0.54</dimen><dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen><dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen><dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen><dimen name="material_bottom_sheet_max_width">640dp</dimen><dimen name="material_clock_display_padding">24dp</dimen><dimen name="material_clock_face_margin_top">44dp</dimen><dimen name="material_clock_hand_center_dot_radius">4dp</dimen><dimen name="material_clock_hand_padding">4dp</dimen><dimen name="material_clock_hand_stroke_width">2dp</dimen><dimen name="material_clock_number_text_size">15dp</dimen><dimen name="material_clock_period_toggle_height">96dp</dimen><dimen name="material_clock_period_toggle_margin_left">12dp</dimen><dimen name="material_clock_period_toggle_width">52dp</dimen><dimen name="material_clock_size">256dp</dimen><dimen name="material_cursor_inset_bottom">-6dp</dimen><dimen name="material_cursor_inset_top">-12dp</dimen><dimen name="material_cursor_width">2dp</dimen><dimen name="material_emphasis_disabled">0.38</dimen><dimen name="material_emphasis_high_type">0.87</dimen><dimen name="material_emphasis_medium">0.6</dimen><dimen name="material_filled_edittext_font_1_3_padding_bottom">12dp</dimen><dimen name="material_filled_edittext_font_1_3_padding_top">23dp</dimen><dimen name="material_filled_edittext_font_2_0_padding_bottom">8dp</dimen><dimen name="material_filled_edittext_font_2_0_padding_top">32dp</dimen><dimen name="material_font_1_3_box_collapsed_padding_top">4dp</dimen><dimen name="material_font_2_0_box_collapsed_padding_top">8dp</dimen><dimen name="material_helper_text_default_padding_top">4dp</dimen><dimen name="material_helper_text_font_1_3_padding_horizontal">12dp</dimen><dimen name="material_helper_text_font_1_3_padding_top">8dp</dimen><dimen name="material_input_text_to_prefix_suffix_padding">2dp</dimen><dimen name="material_text_view_test_line_height">200px</dimen><dimen name="material_text_view_test_line_height_override">100px</dimen><dimen name="material_textinput_default_width">245dp</dimen><dimen name="material_textinput_max_width">488dp</dimen><dimen name="material_textinput_min_width">56dp</dimen><dimen name="material_time_picker_minimum_screen_height">560dp</dimen><dimen name="material_time_picker_minimum_screen_width">340dp</dimen><dimen name="material_timepicker_dialog_buttons_margin_top">24dp</dimen><dimen name="mtrl_alert_dialog_background_inset_bottom">80dp</dimen><dimen name="mtrl_alert_dialog_background_inset_end">24dp</dimen><dimen name="mtrl_alert_dialog_background_inset_start">24dp</dimen><dimen name="mtrl_alert_dialog_background_inset_top">80dp</dimen><dimen name="mtrl_alert_dialog_picker_background_inset">24dp</dimen><dimen name="mtrl_badge_horizontal_edge_offset">4dp</dimen><dimen name="mtrl_badge_long_text_horizontal_padding">4dp</dimen><dimen name="mtrl_badge_radius">4dp</dimen><dimen name="mtrl_badge_text_horizontal_edge_offset">6dp</dimen><dimen name="mtrl_badge_text_size">10sp</dimen><dimen name="mtrl_badge_toolbar_action_menu_item_horizontal_offset">12dp</dimen><dimen name="mtrl_badge_toolbar_action_menu_item_vertical_offset">12dp</dimen><dimen name="mtrl_badge_with_text_radius">8dp</dimen><dimen name="mtrl_bottomappbar_fabOffsetEndMode">60dp</dimen><dimen name="mtrl_bottomappbar_fab_bottom_margin">16dp</dimen><dimen name="mtrl_bottomappbar_fab_cradle_margin">5dp</dimen><dimen name="mtrl_bottomappbar_fab_cradle_rounded_corner_radius">8dp</dimen><dimen name="mtrl_bottomappbar_fab_cradle_vertical_offset">0dp</dimen><dimen name="mtrl_bottomappbar_height">56dp</dimen><dimen name="mtrl_btn_corner_radius">4dp</dimen><dimen name="mtrl_btn_dialog_btn_min_width">64dp</dimen><dimen name="mtrl_btn_disabled_elevation">0dp</dimen><dimen name="mtrl_btn_disabled_z">0dp</dimen><dimen name="mtrl_btn_elevation">2dp</dimen><dimen name="mtrl_btn_focused_z">2dp</dimen><dimen name="mtrl_btn_hovered_z">2dp</dimen><dimen name="mtrl_btn_icon_btn_padding_left">12dp</dimen><dimen name="mtrl_btn_icon_padding">8dp</dimen><dimen name="mtrl_btn_inset">6dp</dimen><dimen name="mtrl_btn_letter_spacing">0.07</dimen><dimen name="mtrl_btn_max_width">320dp</dimen><dimen name="mtrl_btn_padding_bottom">4dp</dimen><dimen name="mtrl_btn_padding_left">16dp</dimen><dimen name="mtrl_btn_padding_right">16dp</dimen><dimen name="mtrl_btn_padding_top">4dp</dimen><dimen name="mtrl_btn_pressed_z">6dp</dimen><dimen name="mtrl_btn_snackbar_margin_horizontal">8dp</dimen><dimen name="mtrl_btn_stroke_size">1dp</dimen><dimen name="mtrl_btn_text_btn_icon_padding">4dp</dimen><dimen name="mtrl_btn_text_btn_padding_left">8dp</dimen><dimen name="mtrl_btn_text_btn_padding_right">8dp</dimen><dimen name="mtrl_btn_text_size">14sp</dimen><dimen name="mtrl_btn_z">0dp</dimen><dimen name="mtrl_calendar_action_confirm_button_min_width">64dp</dimen><dimen name="mtrl_calendar_action_height">52dp</dimen><dimen name="mtrl_calendar_action_padding">8dp</dimen><dimen name="mtrl_calendar_bottom_padding">0dp</dimen><dimen name="mtrl_calendar_content_padding">12dp</dimen><dimen name="mtrl_calendar_day_corner">15dp</dimen><dimen name="mtrl_calendar_day_height">32dp</dimen><dimen name="mtrl_calendar_day_horizontal_padding">3dp</dimen><dimen name="mtrl_calendar_day_today_stroke">1dp</dimen><dimen name="mtrl_calendar_day_vertical_padding">1dp</dimen><dimen name="mtrl_calendar_day_width">36dp</dimen><dimen name="mtrl_calendar_days_of_week_height">24dp</dimen><dimen name="mtrl_calendar_dialog_background_inset">16dp</dimen><dimen name="mtrl_calendar_header_content_padding">12dp</dimen><dimen name="mtrl_calendar_header_content_padding_fullscreen">4dp</dimen><dimen name="mtrl_calendar_header_divider_thickness">1dp</dimen><dimen name="mtrl_calendar_header_height">120dp</dimen><dimen name="mtrl_calendar_header_height_fullscreen">128dp</dimen><dimen name="mtrl_calendar_header_selection_line_height">32dp</dimen><dimen name="mtrl_calendar_header_text_padding">12dp</dimen><dimen name="mtrl_calendar_header_toggle_margin_bottom">8dp</dimen><dimen name="mtrl_calendar_header_toggle_margin_top">24dp</dimen><dimen name="mtrl_calendar_landscape_header_width">0dp</dimen><dimen name="mtrl_calendar_maximum_default_fullscreen_minor_axis">480dp</dimen><dimen name="mtrl_calendar_month_horizontal_padding">2dp</dimen><dimen name="mtrl_calendar_month_vertical_padding">0dp</dimen><dimen name="mtrl_calendar_navigation_bottom_padding">4dp</dimen><dimen name="mtrl_calendar_navigation_height">48dp</dimen><dimen name="mtrl_calendar_navigation_top_padding">4dp</dimen><dimen name="mtrl_calendar_pre_l_text_clip_padding">0dp</dimen><dimen name="mtrl_calendar_selection_baseline_to_top_fullscreen">104dp</dimen><dimen name="mtrl_calendar_selection_text_baseline_to_bottom">20dp</dimen><dimen name="mtrl_calendar_selection_text_baseline_to_bottom_fullscreen">24dp</dimen><dimen name="mtrl_calendar_selection_text_baseline_to_top">100dp</dimen><dimen name="mtrl_calendar_text_input_padding_top">16dp</dimen><dimen name="mtrl_calendar_title_baseline_to_top">28dp</dimen><dimen name="mtrl_calendar_title_baseline_to_top_fullscreen">68dp</dimen><dimen name="mtrl_calendar_year_corner">18dp</dimen><dimen name="mtrl_calendar_year_height">52dp</dimen><dimen name="mtrl_calendar_year_horizontal_padding">8dp</dimen><dimen name="mtrl_calendar_year_vertical_padding">8dp</dimen><dimen name="mtrl_calendar_year_width">88dp</dimen><dimen name="mtrl_card_checked_icon_margin">8dp</dimen><dimen name="mtrl_card_checked_icon_size">24dp</dimen><dimen name="mtrl_card_corner_radius">4dp</dimen><dimen name="mtrl_card_dragged_z">5dp</dimen><dimen name="mtrl_card_elevation">1dp</dimen><dimen name="mtrl_card_spacing">8dp</dimen><dimen name="mtrl_chip_pressed_translation_z">3dp</dimen><dimen name="mtrl_chip_text_size">14sp</dimen><dimen name="mtrl_edittext_rectangle_top_offset">12dp</dimen><dimen name="mtrl_exposed_dropdown_menu_popup_elevation">8dp</dimen><dimen name="mtrl_exposed_dropdown_menu_popup_vertical_offset">1dp</dimen><dimen name="mtrl_exposed_dropdown_menu_popup_vertical_padding">8dp</dimen><dimen name="mtrl_extended_fab_bottom_padding">12dp</dimen><dimen name="mtrl_extended_fab_corner_radius">24dp</dimen><dimen name="mtrl_extended_fab_disabled_elevation">0dp</dimen><dimen name="mtrl_extended_fab_disabled_translation_z">0dp</dimen><dimen name="mtrl_extended_fab_elevation">6dp</dimen><dimen name="mtrl_extended_fab_end_padding">20dp</dimen><dimen name="mtrl_extended_fab_end_padding_icon">20dp</dimen><dimen name="mtrl_extended_fab_icon_size">24dp</dimen><dimen name="mtrl_extended_fab_icon_text_spacing">12dp</dimen><dimen name="mtrl_extended_fab_min_height">48dp</dimen><dimen name="mtrl_extended_fab_min_width">120dp</dimen><dimen name="mtrl_extended_fab_start_padding">20dp</dimen><dimen name="mtrl_extended_fab_start_padding_icon">12dp</dimen><dimen name="mtrl_extended_fab_top_padding">12dp</dimen><dimen name="mtrl_extended_fab_translation_z_base">0dp</dimen><dimen name="mtrl_extended_fab_translation_z_hovered_focused">2dp</dimen><dimen name="mtrl_extended_fab_translation_z_pressed">6dp</dimen><dimen name="mtrl_fab_elevation">6dp</dimen><dimen name="mtrl_fab_min_touch_target">48dp</dimen><dimen name="mtrl_fab_translation_z_hovered_focused">2dp</dimen><dimen name="mtrl_fab_translation_z_pressed">6dp</dimen><dimen name="mtrl_high_ripple_default_alpha">0.48</dimen><dimen name="mtrl_high_ripple_focused_alpha">0.48</dimen><dimen name="mtrl_high_ripple_hovered_alpha">0.16</dimen><dimen name="mtrl_high_ripple_pressed_alpha">0.48</dimen><dimen name="mtrl_large_touch_target">100dp</dimen><dimen name="mtrl_low_ripple_default_alpha">0.24</dimen><dimen name="mtrl_low_ripple_focused_alpha">0.24</dimen><dimen name="mtrl_low_ripple_hovered_alpha">0.08</dimen><dimen name="mtrl_low_ripple_pressed_alpha">0.24</dimen><dimen name="mtrl_min_touch_target_size">48dp</dimen><dimen name="mtrl_navigation_bar_item_default_icon_size">24dp</dimen><dimen name="mtrl_navigation_bar_item_default_margin">8dp</dimen><dimen name="mtrl_navigation_elevation">0dp</dimen><dimen name="mtrl_navigation_item_horizontal_padding">22dp</dimen><dimen name="mtrl_navigation_item_icon_padding">14dp</dimen><dimen name="mtrl_navigation_item_icon_size">24dp</dimen><dimen name="mtrl_navigation_item_shape_horizontal_margin">8dp</dimen><dimen name="mtrl_navigation_item_shape_vertical_margin">4dp</dimen><dimen name="mtrl_navigation_rail_active_text_size">14dp</dimen><dimen name="mtrl_navigation_rail_compact_width">56dp</dimen><dimen name="mtrl_navigation_rail_default_width">72dp</dimen><dimen name="mtrl_navigation_rail_elevation">8dp</dimen><dimen name="mtrl_navigation_rail_icon_margin">14dp</dimen><dimen name="mtrl_navigation_rail_icon_size">24dp</dimen><dimen name="mtrl_navigation_rail_margin">8dp</dimen><dimen name="mtrl_navigation_rail_text_bottom_margin">16dp</dimen><dimen name="mtrl_navigation_rail_text_size">12dp</dimen><dimen name="mtrl_progress_circular_inset">4dp</dimen><dimen name="mtrl_progress_circular_inset_extra_small">2dp</dimen><dimen name="mtrl_progress_circular_inset_medium">4dp</dimen><dimen name="mtrl_progress_circular_inset_small">4dp</dimen><dimen name="mtrl_progress_circular_radius">18dp</dimen><dimen name="mtrl_progress_circular_size">40dp</dimen><dimen name="mtrl_progress_circular_size_extra_small">20dp</dimen><dimen name="mtrl_progress_circular_size_medium">40dp</dimen><dimen name="mtrl_progress_circular_size_small">28dp</dimen><dimen name="mtrl_progress_circular_track_thickness_extra_small">2.5dp</dimen><dimen name="mtrl_progress_circular_track_thickness_medium">4dp</dimen><dimen name="mtrl_progress_circular_track_thickness_small">3dp</dimen><dimen name="mtrl_progress_indicator_full_rounded_corner_radius">2dp</dimen><dimen name="mtrl_progress_track_thickness">4dp</dimen><dimen name="mtrl_shape_corner_size_large_component">0dp</dimen><dimen name="mtrl_shape_corner_size_medium_component">4dp</dimen><dimen name="mtrl_shape_corner_size_small_component">4dp</dimen><dimen name="mtrl_slider_halo_radius">24dp</dimen><dimen name="mtrl_slider_label_padding">4dp</dimen><dimen name="mtrl_slider_label_radius">13dp</dimen><dimen name="mtrl_slider_label_square_side">26dp</dimen><dimen name="mtrl_slider_thumb_elevation">1dp</dimen><dimen name="mtrl_slider_thumb_radius">10dp</dimen><dimen name="mtrl_slider_track_height">4dp</dimen><dimen name="mtrl_slider_track_side_padding">16dp</dimen><dimen name="mtrl_slider_track_top">24dp</dimen><dimen name="mtrl_slider_widget_height">48dp</dimen><dimen name="mtrl_snackbar_action_text_color_alpha">0.5</dimen><dimen name="mtrl_snackbar_background_corner_radius">4dp</dimen><dimen name="mtrl_snackbar_background_overlay_color_alpha">0.8</dimen><dimen name="mtrl_snackbar_margin">8dp</dimen><dimen name="mtrl_snackbar_message_margin_horizontal">8dp</dimen><dimen name="mtrl_snackbar_padding_horizontal">8dp</dimen><dimen name="mtrl_switch_thumb_elevation">4dp</dimen><dimen name="mtrl_textinput_box_corner_radius_medium">4dp</dimen><dimen name="mtrl_textinput_box_corner_radius_small">0dp</dimen><dimen name="mtrl_textinput_box_label_cutout_padding">4dp</dimen><dimen name="mtrl_textinput_box_stroke_width_default">1dp</dimen><dimen name="mtrl_textinput_box_stroke_width_focused">2dp</dimen><dimen name="mtrl_textinput_counter_margin_start">16dp</dimen><dimen name="mtrl_textinput_end_icon_margin_start">4dp</dimen><dimen name="mtrl_textinput_outline_box_expanded_padding">16dp</dimen><dimen name="mtrl_textinput_start_icon_margin_end">4dp</dimen><dimen name="mtrl_toolbar_default_height">56dp</dimen><dimen name="mtrl_tooltip_arrowSize">14dp</dimen><dimen name="mtrl_tooltip_cornerSize">4dp</dimen><dimen name="mtrl_tooltip_minHeight">32dp</dimen><dimen name="mtrl_tooltip_minWidth">32dp</dimen><dimen name="mtrl_tooltip_padding">12dp</dimen><dimen name="mtrl_transition_shared_axis_slide_distance">30dp</dimen><dimen name="nav_header_height">176dp</dimen><dimen name="nav_header_vertical_spacing">8dp</dimen><dimen name="notification_action_icon_size">32dp</dimen><dimen name="notification_action_text_size">13sp</dimen><dimen name="notification_big_circle_margin">12dp</dimen><dimen name="notification_content_margin_start">0dp</dimen><dimen name="notification_large_icon_height">64dp</dimen><dimen name="notification_large_icon_width">64dp</dimen><dimen name="notification_main_column_padding_top">0dp</dimen><dimen name="notification_media_narrow_margin">12dp</dimen><dimen name="notification_right_icon_size">16dp</dimen><dimen name="notification_right_side_padding_top">4dp</dimen><dimen name="notification_small_icon_background_padding">3dp</dimen><dimen name="notification_small_icon_size_as_large">24dp</dimen><dimen name="notification_subtext_size">13sp</dimen><dimen name="notification_top_pad">10dp</dimen><dimen name="notification_top_pad_large_text">5dp</dimen><dimen name="test_mtrl_calendar_day_cornerSize">52dp</dimen><dimen name="test_navigation_bar_active_item_max_width">168dp</dimen><dimen name="test_navigation_bar_active_item_min_width">96dp</dimen><dimen name="test_navigation_bar_active_text_size">14sp</dimen><dimen name="test_navigation_bar_elevation">8dp</dimen><dimen name="test_navigation_bar_height">56dp</dimen><dimen name="test_navigation_bar_icon_size">24dp</dimen><dimen name="test_navigation_bar_item_max_width">96dp</dimen><dimen name="test_navigation_bar_item_min_width">56dp</dimen><dimen name="test_navigation_bar_label_padding">10dp</dimen><dimen name="test_navigation_bar_shadow_height">1dp</dimen><dimen name="test_navigation_bar_text_size">12sp</dimen><dimen name="tooltip_corner_radius">2dp</dimen><dimen name="tooltip_horizontal_padding">16dp</dimen><dimen name="tooltip_margin">8dp</dimen><dimen name="tooltip_precise_anchor_extra_offset">8dp</dimen><dimen name="tooltip_precise_anchor_threshold">96dp</dimen><dimen name="tooltip_vertical_padding">6.5dp</dimen><dimen name="tooltip_y_offset_non_touch">0dp</dimen><dimen name="tooltip_y_offset_touch">16dp</dimen></file><file path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\values\fonts.xml" qualifiers=""/><file path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\values\FragmentHomeBinding.xml" qualifiers=""/><file path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\values\ic_launcher_background.xml" qualifiers=""><color name="ic_launcher_background">#B500FD</color></file><file path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Prune   Delivery</string><string name="create_acc">Create your account</string><string name="logout">Logout</string><string name="offer_text">Create your account and earn up to Rs.21000 every month!</string><string name="abc_action_bar_home_description">Navigate home</string><string name="abc_action_bar_up_description">Navigate up</string><string name="abc_action_menu_overflow_description">More options</string><string name="abc_action_mode_done">Done</string><string name="abc_activity_chooser_view_see_all">See all</string><string name="abc_activitychooserview_choose_application">Choose an app</string><string name="abc_capital_off">OFF</string><string name="abc_capital_on">ON</string><string name="abc_menu_alt_shortcut_label">Alt+</string><string name="abc_menu_ctrl_shortcut_label">Ctrl+</string><string name="abc_menu_delete_shortcut_label">delete</string><string name="abc_menu_enter_shortcut_label">enter</string><string name="abc_menu_function_shortcut_label">Function+</string><string name="abc_menu_meta_shortcut_label">Meta+</string><string name="abc_menu_shift_shortcut_label">Shift+</string><string name="abc_menu_space_shortcut_label">space</string><string name="abc_menu_sym_shortcut_label">Sym+</string><string name="abc_prepend_shortcut_label">Menu+</string><string name="abc_search_hint">Search…</string><string name="abc_searchview_description_clear">Clear query</string><string name="abc_searchview_description_query">Search query</string><string name="abc_searchview_description_search">Search</string><string name="abc_searchview_description_submit">Submit query</string><string name="abc_searchview_description_voice">Voice search</string><string name="abc_shareactionprovider_share_with">Share with</string><string name="abc_shareactionprovider_share_with_application">Share with %s</string><string name="abc_toolbar_collapse_description">Collapse</string><string name="action_settings">Settings</string><string name="androidx_startup">androidx.startup</string><string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string><string name="area">Area and timings of work</string><string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string><string name="bottomsheet_action_expand_halfway">Expand halfway</string><string name="character_counter_content_description">Characters entered %1$d of %2$d</string><string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string><string name="character_counter_pattern">%1$d/%2$d</string><string name="chip_text">Chip text</string><string name="clear_text_end_icon_content_description">Clear text</string><string name="content_five">UPI,Credit Card,Debit Cards accepted</string><string name="driving_text">Please provide details of your Driving License</string><string name="error_icon_content_description">Error</string><string name="exposed_dropdown_menu_content_description">Show dropdown menu</string><string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string><string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string><string name="fees_part1">Onboarding fee is one time\10fee paid to be onboarded with\10Prune</string><string name="fees_part2">Here what you get after joining</string><string name="fees_part3">Get insurance coverage upto Rs.100,000</string><string name="fees_part4">Get Prune T-shirt and Bag</string><string name="fees_part5">Pay full Rs.1280 now</string><string name="fees_part6"/><string name="first_fragment_label">First Fragment</string><string name="head_content_subpage">Please complete this information so we can\10create an account for you</string><string name="hello_first_fragment">Hello first fragment</string><string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string><string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string><string name="icon_content_description">Dialog Icon</string><string name="item_view_role_description">Tab</string><string name="material_clock_display_divider">:</string><string name="material_clock_toggle_content_description">Select AM or PM</string><string name="material_hour_selection">Select hour</string><string name="material_hour_suffix">%1$s o\'clock</string><string name="material_minute_selection">Select minutes</string><string name="material_minute_suffix">%1$s minutes</string><string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string><string name="material_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string><string name="material_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string><string name="material_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string><string name="material_motion_easing_standard">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string><string name="material_slider_range_end">Range end,</string><string name="material_slider_range_start">Range start,</string><string name="material_timepicker_am">AM</string><string name="material_timepicker_clock_mode_description">Switch to clock mode for the time input.</string><string name="material_timepicker_hour">Hour</string><string name="material_timepicker_minute">Minute</string><string name="material_timepicker_pm">PM</string><string name="material_timepicker_select_time">Select time</string><string name="material_timepicker_text_input_mode_description">Switch to text input mode for the time input.</string><string name="menu_about">About</string><string name="menu_activity">Activity Logs</string><string name="menu_contact">Contact Us</string><string name="menu_direct_sell">Direct Sell</string><string name="menu_faq">FAQs</string><string name="menu_fav">Favourites</string><string name="menu_logout">Logout</string><string name="menu_more_orders">Get More Orders</string><string name="menu_privacy">Privacy Policies</string><string name="menu_profile">My Profile</string><string name="menu_rewards">Rewards</string><string name="menu_setting">Settings</string><string name="menu_term">Terms and Services</string><string name="menu_wallet">My Wallet</string><string name="mtrl_badge_numberless_content_description">New notification</string><string name="mtrl_chip_close_icon_content_description">Remove %1$s</string><string name="mtrl_exceed_max_badge_number_content_description">More than %1$d new notifications</string><string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string><string name="mtrl_picker_a11y_next_month">Change to next month</string><string name="mtrl_picker_a11y_prev_month">Change to previous month</string><string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string><string name="mtrl_picker_cancel">@android:string/cancel</string><string name="mtrl_picker_confirm">@android:string/ok</string><string name="mtrl_picker_date_header_selected">%1$s</string><string name="mtrl_picker_date_header_title">Select Date</string><string name="mtrl_picker_date_header_unselected">Selected date</string><string name="mtrl_picker_day_of_week_column_header">Column of days: %1$s</string><string name="mtrl_picker_invalid_format">Invalid format.</string><string name="mtrl_picker_invalid_format_example">Example: %1$s</string><string name="mtrl_picker_invalid_format_use">Use: %1$s</string><string name="mtrl_picker_invalid_range">Invalid range.</string><string name="mtrl_picker_navigate_to_year_description">Navigate to year %1$s</string><string name="mtrl_picker_out_of_range">Out of range: %1$s</string><string name="mtrl_picker_range_header_only_end_selected">Start date – %1$s</string><string name="mtrl_picker_range_header_only_start_selected">%1$s – End date</string><string name="mtrl_picker_range_header_selected">%1$s – %2$s</string><string name="mtrl_picker_range_header_title">Select Range</string><string name="mtrl_picker_range_header_unselected">Start date – End date</string><string name="mtrl_picker_save">Save</string><string name="mtrl_picker_text_input_date_hint">Date</string><string name="mtrl_picker_text_input_date_range_end_hint">End date</string><string name="mtrl_picker_text_input_date_range_start_hint">Start date</string><string name="mtrl_picker_text_input_day_abbr">d</string><string name="mtrl_picker_text_input_month_abbr">m</string><string name="mtrl_picker_text_input_year_abbr">y</string><string name="mtrl_picker_toggle_to_calendar_input_mode">Switch to calendar input mode</string><string name="mtrl_picker_toggle_to_day_selection">Tap to switch to selecting a day</string><string name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string><string name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string><string name="nav_app_bar_navigate_up_description">Navigate up</string><string name="nav_app_bar_open_drawer_description">Open navigation drawer</string><string name="nav_header_desc">Navigation header</string><string name="nav_header_subtitle">android.studio@android.com</string><string name="nav_header_title">Android Studio</string><string name="navigation_drawer_close">Close navigation drawer</string><string name="navigation_drawer_open">Open navigation drawer</string><string name="next">Next</string><string name="password_toggle_content_description">Show password</string><string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string><string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string><string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string><string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string><string name="personal">Personal and bank details</string><string name="please_follow">Please follow the guidelines</string><string name="previous">Previous</string><string name="search_menu_title">Search</string><string name="second_fragment_label">Second Fragment</string><string name="status_bar_notification_info_overflow">999+</string><string name="sub_content_four">For your Prune t-shirt</string><string name="title_activity_navigation_screen">navigation_screen</string><string name="title_activity_time_view">time_view</string><string name="title_activity_timepic_view">timepic_view</string><string name="upload_copy">Upload copy of cheque/ passbook/ bank statement</string><string name="vehicle_type_one_content">Any vehicle that requires a license</string><string name="verify_block_first">Vehicle,locality and shift</string><string name="verify_block_five">Pay onboarding fees</string><string name="verify_block_fourth">Add t-shirt size</string><string name="verify_block_sec">Submit information</string><string name="verify_block_third">Click profile photo</string><string-array name="languages_list">
+        <item>Hindi</item>
+        <item>Sanskrit</item>
+        <item>English</item>
+        <item>Russian</item>
+
+    </string-array><string name="select"/><string name="otp_verification">otp_verification</string><string name="we_will_send_you_an_one_time_password_on_this_mobile_number">We will send you an One Time Password on this mobile number</string><string name="enter_mobile_number">enter_mobile_number</string><string name="Otp_verification">OTP_Verification</string><string name="enter_the_otp_sent_to">enter_the_otp_sent_to</string><string name="didn_t_receive_the_otp">Didn\'t receive the OTP?</string><string name="resend_otp">resend_OTP</string><string name="Resend_otp">Resend_OTP</string><string name="verify">Verify</string><string name="generate_otp">Generate OTP</string><string name="click_your_picture">Click Your Picture</string><string name="click">Click</string><string name="add_t_shirt_size">Add t-shirt size</string><string name="please_select_a_t_shirt_size">Please select a t-shirt size</string><string name="m">M</string><string name="item1">Item1</string><string name="item2">Item2</string><string name="OpenDrawer">Open navigation drawer</string><string name="CloseDrawer">Close navigation drawer</string><string name="hello_blank_fragment">Hello blank fragment</string><string name="open_camera">OPEN CAMERA</string><string name="buy_sim">Buy Sim</string><string name="add_sim_from_other_operators">Add Sim From Other Operators</string><string name="title_activity_attendance">Attendance</string><string name="sim_stock">Sim Stock</string><string name="select_operator">Select Operator</string><string name="_9999999990">9999999990</string><string name="_172gdqw8ihj">172GDQW8IHJ</string><string name="mobile_number">Mobile Number</string><string name="sim_number">Sim Number</string><string name="cancel">Cancel</string><string name="pay_now">Pay Now</string><string name="price">Price</string><string name="quantity">Quantity</string><string name="proceed">Proceed</string><string name="save">Save</string><string name="create_your_account">Create your account</string><string name="help">HELP</string><string name="payment">Payment</string><string name="xxxx">XXXX</string><string name="name_on_card">Name On Card</string><string name="card_number">Card Number</string><string name="expiry">Expiry</string><string name="cvv">CVV</string><string name="driving_license">Driving license</string><string name="dl_number">DL Number</string><string name="dl_expiry_date">DL expiry date</string><string name="upload_front_dl">Upload front DL</string><string name="upload_back_dl">Upload back DL</string><string name="edit">Edit</string><string name="submit">Submit</string><string name="bank_ifsc_code">Bank IFSC Code</string><string name="account_number">Account Number</string><string name="bank">Bank</string><string name="bank_details">Bank details</string><string name="pan_number">PAN Number</string><string name="date_of_birth">Date of Birth</string><string name="name">Name</string><string name="personal_details">Personal Details</string><string name="verify_by_otp">Verify by OTP</string><string name="upload_click_photo">Upload/Click photo</string><string name="add_pan_details">Add PAN Details</string><string name="aadhar">AADHAR Number</string><string name="add_adhar_details">Add Adhar Details</string><string name="identity_details">Identity Details</string><string name="bank_account_details">Bank account details</string><string name="Text">You need to create an account with Prune to be selling Mobile Connections.Once you submit a form,our team will review the form.If we the team finds the form to be complete,it will approve the same and you will get a message and a notification on the app.Till the time your application is under review you will not be able to go beyond submission.Your other features of the app will be available after approval.</string><string name="xs">XS</string><string name="not_interested">Not Interested</string><string name="line_busy">Line Busy</string><string name="switch_off">Switch Off</string><string name="not_deliverable_area">Not_Deliverable_Area</string><string name="refuse">Refuse</string><string name="Continue">Continue</string><string name="_2xl">2XL</string><string name="xl">XL</string><string name="l">L</string><string name="s">S</string><string name="duty">Duty</string><string name="on">On</string><string name="off">Off</string><string name="on_duty">On-Duty</string><string name="punch_in">PUNCH-IN</string><string name="range">Range :</string><string name="please_mark_your_attendance">Please mark your attendance</string><string name="ok">ok</string><string name="orders">Attendance is marked successfully. You will be assigned new orders shortly.</string><string name="total_time">Total Time</string><string name="pending_orders">Pending Orders</string><string name="order_rejected">Order Rejected</string><string name="order_delivered">Order Delivered</string><string name="offline_time">Offline Time</string><string name="login_time">Login Time</string><string name="attendance">Attendance</string><string name="placeholder">Placeholder</string><string name="date_month_year">date-month-year</string><string name="select_merchant">Select Merchant</string><string name="select_region">Select Region</string><string name="point">..</string><string name="address">Address</string><string name="order_accept">Order Accept</string><string name="orderAccept">Are you want to accept the order ?</string><string name="order_status">Order Status</string><string name="order">Order -</string><string name="ordertext">Order has been accepted successfully and it is available in the pending list.</string><string name="oder_details">Oder Details -</string><string name="merchant_name">Merchant Name :</string><string name="merchant_address">Merchant Address :</string><string name="customer_name">Customer Name :</string><string name="phone_number">Phone Number :</string><string name="product">Product :</string><string name="addres">Address :</string><string name="time_slot">Time Slot :</string><string name="close">Close</string><string name="_123456789">123456789</string><string name="a">Area :</string><string name="_110044">110044</string><string name="order_no">Order No. :</string><string name="village_jamalpur">Village Jamalpur</string><string name="_09_00_am_10_00_pm">09:00 AM-10:00 PM</string><string name="order_type">Order Type :</string><string name="sim">SIM</string><string name="_0_01_kms">0.01 KMs</string><string name="accept">Accept</string><string name="navigate">Navigate</string><string name="info">Info</string><string name="reject">Reject</string><string name="call">Call</string><string name="merchant">Merchant :</string><string name="Area">Area</string><string name="bill_no">Bill No. :</string><string name="_1234567890">1234567890</string><string name="pick_your_date">Pick your Date</string><string name="gender">Gender</string><string name="current_address">Current Address</string><string name="district_city">District/City</string><string name="states">State*</string><string name="district">District*</string><string name="pincode">Pincode</string><string name="identification_details">Identification Details</string><string name="aadhaar_card">AADHAAR CARD</string><string name="pan_card">Pan Card</string><string name="driving_licence">Driving Licence</string><string name="aadhaar_id">Aadhaar ID</string><string name="button">Button</string><string name="full_name">Full Name</string><string name="year_of_birth">Year Of bIRTH</string><string name="aadhaar_number">Aadhaar No.</string><string name="mr_xyz">Mr. XYZ</string><string name="father_s_name">Father\'s Name</string><string name="address_line2">Address Line2</string><string name="address_line1">Address Line1</string><string name="_202395">202395</string><string name="_0000_1111_2222">0000 1111 2222</string><string name="male_female">Male/Female</string><string name="_1999">1999</string><string name="extract_text">Save</string><string name="aaabb123nvh">AAABB123NVH</string><string name="extracted_info">Extracted Info from Image will be shown here..</string><string name="Bank_details">Bank Details</string><string name="Bank">Bank</string><string name="Account_number">Account Number</string><string name="Confirm_account_number">Confirm Account Number</string><string name="Bank_ifsc_code">Bank IFSC Code</string><string name="open_gallery">open gallery</string><string name="phone_number1">Phone Number</string><string name="payment_mode">Payment Mode</string><string name="plan">Plan</string><string name="activate_sim">Activate Sim</string><string name="profile">Profile</string><string name="direct_sell">Direct Sell</string><string name="select_language" translatable="false">Select Language</string><string name="english">English</string><string name="hindi">Hindi</string><string name="transaction_id">Transaction ID</string><string name="type">Type</string><string name="date">Date</string><string name="amount">Amount</string><string name="completed">Completed</string><string name="search">Search</string><string name="settings">Settings</string><string name="pending">Pending</string><string name="details">Details</string><string name="travel_distance">Travel Distance</string><string name="Customer_name">Customer Name</string><string name="delivery_address">Delivery Address</string><string name="amount_paid">Amount Paid</string><string name="your_payment">Your Payment</string><string name="pay">Pay</string><string name="cash_limit">Cash limit</string><string name="_0_1500">0/1500</string><string name="to_reset_the_limit_pay_the_pending_amount_to_the_company">To reset the limit pay the pending amount to the company</string><string name="wallet_balance">Wallet Balance</string><string name="String">-</string><string name="rs_1000">Rs. 1000</string><string name="amount_to_be_paid">Amount to be paid</string><string-array name="Sim_Number">
+        <item>172GDQW8IHJ</item>
+        <item>173GDQW8IHJ</item>
+        <item>174GDQW8IHJ</item>
+        <item>175GDQW8IHJ</item>
+        <item>176GDQW8IHJ</item>
+        <item>177GDQW8IHJ</item>
+        <item>178GDQW8IHJ</item>
+        <item>179GDQW8IHJ</item>
+        <item>180GDQW8IHJ</item>
+
+    </string-array><string-array name="Mobile_Number">
+        <item>9999999990</item>
+        <item>9999999991</item>
+        <item>9999999992</item>
+        <item>9999999993</item>
+        <item>9999999994</item>
+        <item>9999999995</item>
+        <item>9999999996</item>
+        <item>9999999997</item>
+        <item>9999999998</item>
+    </string-array><string-array name="array_india_states">
+        <item>Select Your State</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chhattisgarh</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttarakhand</item>
+        <item>West Bengal</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Chandigarh</item>
+        <item>Delhi</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Ladakh</item>
+        <item>Lakshadweep</item>
+        <item>Puducherry</item>
+    </string-array><string-array name="array_default_districts">
+        <item>Select Your District</item>
+
+    </string-array><string-array name="array_andhra_pradesh_districts">
+        <item>Select Your District</item>
+        <item>Anantapur</item>
+        <item>Chittoor</item>
+        <item>East Godavari</item>
+        <item>Guntur</item>
+        <item>Kadapa</item>
+        <item>Krishna</item>
+        <item>Kurnool</item>
+        <item>Nellore</item>
+        <item>Prakasam</item>
+        <item>Srikakulam</item>
+        <item>Visakhapatnam</item>
+        <item>Vizianagaram</item>
+        <item>West Godavari</item>
+    </string-array><string-array name="array_arunachal_pradesh_districts">
+        <item>Select Your District</item>
+        <item>Anjaw</item>
+        <item>Siang</item>
+        <item>Changlang</item>
+        <item>Dibang Valley</item>
+        <item>East Kameng</item>
+        <item>East Siang</item>
+        <item>Kamle</item>
+        <item>Kra Daadi</item>
+        <item>Kurung Kumey</item>
+        <item>Lepa Rada</item>
+        <item>Lohit</item>
+        <item>Longding</item>
+        <item>Lower Dibang Valley</item>
+        <item>Lower Siang</item>
+        <item>Lower Subansiri</item>
+        <item>Namsai</item>
+        <item>Pakke Kessang</item>
+        <item>Papum Pare</item>
+        <item>Shi Yomi</item>
+        <item>Tawang</item>
+        <item>Tirap</item>
+        <item>Upper Siang</item>
+        <item>Upper Subansiri</item>
+        <item>West Kameng</item>
+        <item>West Siang</item>
+    </string-array><string-array name="array_assam_districts">
+        <item>Select Your District</item>
+        <item>Bajali</item>
+        <item>Baksa</item>
+        <item>Barpeta</item>
+        <item>Biswanath</item>
+        <item>Bongaigaon</item>
+        <item>Cachar</item>
+        <item>Charaideo</item>
+        <item>Chirang</item>
+        <item>Darrang</item>
+        <item>Dhemaji</item>
+        <item>Dhubri</item>
+        <item>Dibrugarh</item>
+        <item>Dima Hasao</item>
+        <item>Goalpara</item>
+        <item>Golaghat</item>
+        <item>Hailakandi</item>
+        <item>Hojai</item>
+        <item>Jorhat</item>
+        <item>Kamrup</item>
+        <item>Kamrup Metropolitan</item>
+        <item>Karbi Anglong</item>
+        <item>Karimganj</item>
+        <item>Kokrajhar</item>
+        <item>Lakhimpur</item>
+        <item>Majuli</item>
+        <item>Morigaon</item>
+        <item>Nagaon</item>
+        <item>Nalbari</item>
+        <item>Sivasagar</item>
+        <item>Sonitpur</item>
+        <item>South Salmara-Mankachar</item>
+        <item>Tinsukia</item>
+        <item>Udalguri</item>
+        <item>West Karbi Anglong</item>
+    </string-array><string-array name="array_bihar_districts">
+        <item>Select Your District</item>
+        <item>Araria</item>
+        <item>Arwal</item>
+        <item>Aurangabad</item>
+        <item>Banka</item>
+        <item>Begusarai</item>
+        <item>Bhagalpur</item>
+        <item>Bhojpur</item>
+        <item>Buxar</item>
+        <item>Darbhanga</item>
+        <item>East Champaran</item>
+        <item>Gaya</item>
+        <item>Gopalganj</item>
+        <item>Jamui</item>
+        <item>Jehanabad</item>
+        <item>Kaimur</item>
+        <item>Katihar</item>
+        <item>Khagaria</item>
+        <item>Kishanganj</item>
+        <item>Lakhisarai</item>
+        <item>Madhepura</item>
+        <item>Madhubani</item>
+        <item>Munger</item>
+        <item>Muzaffarpur</item>
+        <item>Nalanda</item>
+        <item>Nawada</item>
+        <item>Patna</item>
+        <item>Purnia</item>
+        <item>Rohtas</item>
+        <item>Saharsa</item>
+        <item>Samastipur</item>
+        <item>Saran</item>
+        <item>Sheikhpura</item>
+        <item>Sheohar</item>
+        <item>Sitamarhi</item>
+        <item>Siwan</item>
+        <item>Supaul</item>
+        <item>Vaishali</item>
+        <item>West Champaran</item>
+    </string-array><string-array name="array_chhattisgarh_districts">
+        <item>Select Your District</item>
+        <item>Balod</item>
+        <item>Baloda Bazar</item>
+        <item>Balrampur Ramanujganj</item>
+        <item>Bastar</item>
+        <item>Bemetara</item>
+        <item>Bijapur</item>
+        <item>Bilaspur</item>
+        <item>Dantewada</item>
+        <item>Dhamtari</item>
+        <item>Durg</item>
+        <item>Gariaband</item>
+        <item>Gaurela Pendra Marwahi</item>
+        <item>Janjgir Champa</item>
+        <item>Jashpur</item>
+        <item>Kabirdham</item>
+        <item>Kanker</item>
+        <item>Kondagaon</item>
+        <item>Korba</item>
+        <item>Koriya</item>
+        <item>Mahasamund</item>
+        <item>Mungeli</item>
+        <item>Narayanpur</item>
+        <item>Raigarh</item>
+        <item>Raipur</item>
+        <item>Rajnandgaon</item>
+        <item>Sukma</item>
+        <item>Surajpur</item>
+        <item>Surguja</item>
+    </string-array><string-array name="array_goa_districts">
+        <item>Select Your District</item>
+        <item>North Goa</item>
+        <item>South Goa</item>
+    </string-array><string-array name="array_gujarat_districts">
+        <item>Select Your District</item>
+        <item>Ahmedabad</item>
+        <item>Amreli</item>
+        <item>Anand</item>
+        <item>Aravalli</item>
+        <item>Banaskantha</item>
+        <item>Bharuch</item>
+        <item>Bhavnagar</item>
+        <item>Botad</item>
+        <item>Chhota Udaipur</item>
+        <item>Dahod</item>
+        <item>Dang</item>
+        <item>Devbhoomi Dwarka</item>
+        <item>Gandhinagar</item>
+        <item>Gir Somnath</item>
+        <item>Jamnagar</item>
+        <item>Junagadh</item>
+        <item>Kheda</item>
+        <item>Kutch</item>
+        <item>Mahisagar</item>
+        <item>Mehsana</item>
+        <item>Morbi</item>
+        <item>Narmada</item>
+        <item>Navsari</item>
+        <item>Panchmahal</item>
+        <item>Patan</item>
+        <item>Porbandar</item>
+        <item>Rajkot</item>
+        <item>Sabarkantha</item>
+        <item>Surat</item>
+        <item>Surendranagar</item>
+        <item>Tapi</item>
+        <item>Vadodara</item>
+        <item>Valsad</item>
+    </string-array><string-array name="array_haryana_districts">
+        <item>Select Your District</item>
+        <item>Ambala</item>
+        <item>Bhiwani</item>
+        <item>Charkhi Dadri</item>
+        <item>Faridabad</item>
+        <item>Fatehabad</item>
+        <item>Gurugram</item>
+        <item>Hisar</item>
+        <item>Jhajjar</item>
+        <item>Jind</item>
+        <item>Kaithal</item>
+        <item>Karnal</item>
+        <item>Kurukshetra</item>
+        <item>Mahendragarh</item>
+        <item>Mewat</item>
+        <item>Palwal</item>
+        <item>Panchkula</item>
+        <item>Panipat</item>
+        <item>Rewari</item>
+        <item>Rohtak</item>
+        <item>Sirsa</item>
+        <item>Sonipat</item>
+        <item>Yamunanagar</item>
+    </string-array><string-array name="array_himachal_pradesh_districts">
+        <item>Select Your District</item>
+        <item>Bilaspur</item>
+        <item>Chamba</item>
+        <item>Hamirpur</item>
+        <item>Kangra</item>
+        <item>Kinnaur</item>
+        <item>Kullu</item>
+        <item>Lahaul Spiti</item>
+        <item>Mandi</item>
+        <item>Shimla</item>
+        <item>Sirmaur</item>
+        <item>Solan</item>
+        <item>Una</item>
+    </string-array><string-array name="array_jammu_kashmir_districts">
+        <item>Select Your District</item>
+        <item>Anantnag</item>
+        <item>Bandipora</item>
+        <item>Baramulla</item>
+        <item>Budgam</item>
+        <item>Doda</item>
+        <item>Ganderbal</item>
+        <item>Jammu</item>
+        <item>Kathua</item>
+        <item>Kishtwar</item>
+        <item>Kulgam</item>
+        <item>Kupwara</item>
+        <item>Poonch</item>
+        <item>Pulwama</item>
+        <item>Rajouri</item>
+        <item>Ramban</item>
+        <item>Reasi</item>
+        <item>Samba</item>
+        <item>Shopian</item>
+        <item>Srinagar</item>
+        <item>Udhampur</item>
+    </string-array><string-array name="array_jharkhand_districts">
+        <item>Select Your District</item>
+        <item>Bokaro</item>
+        <item>Chatra</item>
+        <item>Deoghar</item>
+        <item>Dhanbad</item>
+        <item>Dumka</item>
+        <item>East Singhbhum</item>
+        <item>Garhwa</item>
+        <item>Giridih</item>
+        <item>Godda</item>
+        <item>Gumla</item>
+        <item>Hazaribagh</item>
+        <item>Jamtara</item>
+        <item>Khunti</item>
+        <item>Koderma</item>
+        <item>Latehar</item>
+        <item>Lohardaga</item>
+        <item>Pakur</item>
+        <item>Palamu</item>
+        <item>Ramgarh</item>
+        <item>Ranchi</item>
+        <item>Sahebganj</item>
+        <item>Seraikela Kharsawan</item>
+        <item>Simdega</item>
+        <item>West Singhbhum</item>
+    </string-array><string-array name="array_karnataka_districts">
+        <item>Select Your District</item>
+        <item>Bagalkot</item>
+        <item>Bangalore Rural</item>
+        <item>Bangalore Urban</item>
+        <item>Belgaum</item>
+        <item>Bellary</item>
+        <item>Bidar</item>
+        <item>Chamarajanagar</item>
+        <item>Chikkaballapur</item>
+        <item>Chikkamagaluru</item>
+        <item>Chitradurga</item>
+        <item>Dakshina Kannada</item>
+        <item>Davanagere</item>
+        <item>Dharwad</item>
+        <item>Gadag</item>
+        <item>Gulbarga</item>
+        <item>Hassan</item>
+        <item>Haveri</item>
+        <item>Kodagu</item>
+        <item>Kolar</item>
+        <item>Koppal</item>
+        <item>Mandya</item>
+        <item>Mysore</item>
+        <item>Raichur</item>
+        <item>Ramanagara</item>
+        <item>Shimoga</item>
+        <item>Tumkur</item>
+        <item>Udupi</item>
+        <item>Uttara Kannada</item>
+        <item>Vijayanagara</item>
+        <item>Vijayapura</item>
+        <item>Yadgir</item>
+    </string-array><string-array name="array_kerala_districts">
+        <item>Select Your District</item>
+        <item>Alappuzha</item>
+        <item>Ernakulam</item>
+        <item>Idukki</item>
+        <item>Kannur</item>
+        <item>Kasaragod</item>
+        <item>Kollam</item>
+        <item>Kottayam</item>
+        <item>Kozhikode</item>
+        <item>Malappuram</item>
+        <item>Palakkad</item>
+        <item>Pathanamthitta</item>
+        <item>Thiruvananthapuram</item>
+        <item>Thrissur</item>
+        <item>Wayanad</item>
+    </string-array><string-array name="array_madhya_pradesh_districts">
+        <item>Select Your District</item>
+        <item>Agar Malwa</item>
+        <item>Alirajpur</item>
+        <item>Anuppur</item>
+        <item>Ashoknagar</item>
+        <item>Balaghat</item>
+        <item>Barwani</item>
+        <item>Betul</item>
+        <item>Bhind</item>
+        <item>Bhopal</item>
+        <item>Burhanpur</item>
+        <item>Chachaura</item>
+        <item>Chhatarpur</item>
+        <item>Chhindwara</item>
+        <item>Damoh</item>
+        <item>Datia</item>
+        <item>Dewas</item>
+        <item>Dhar</item>
+        <item>Dindori</item>
+        <item>Guna</item>
+        <item>Gwalior</item>
+        <item>Harda</item>
+        <item>Hoshangabad</item>
+        <item>Indore</item>
+        <item>Jabalpur</item>
+        <item>Jhabua</item>
+        <item>Katni</item>
+        <item>Khandwa</item>
+        <item>Khargone</item>
+        <item>Maihar</item>
+        <item>Mandla</item>
+        <item>Mandsaur</item>
+        <item>Morena</item>
+        <item>Nagda</item>
+        <item>Narsinghpur</item>
+        <item>Neemuch</item>
+        <item>Niwari</item>
+        <item>Panna</item>
+        <item>Raisen</item>
+        <item>Rajgarh</item>
+        <item>Ratlam</item>
+        <item>Rewa</item>
+        <item>Sagar</item>
+        <item>Satna</item>
+        <item>Sehore</item>
+        <item>Seoni</item>
+        <item>Shahdol</item>
+        <item>Shajapur</item>
+        <item>Sheopur</item>
+        <item>Shivpuri</item>
+        <item>Sidhi</item>
+        <item>Singrauli</item>
+        <item>Tikamgarh</item>
+        <item>Ujjain</item>
+        <item>Umaria</item>
+        <item>Vidisha</item>
+    </string-array><string-array name="array_maharashtra_districts">
+        <item>Select Your District</item>
+        <item>Ahmednagar</item>
+        <item>Akola</item>
+        <item>Amravati</item>
+        <item>Aurangabad</item>
+        <item>Beed</item>
+        <item>Bhandara</item>
+        <item>Buldhana</item>
+        <item>Chandrapur</item>
+        <item>Dhule</item>
+        <item>Gadchiroli</item>
+        <item>Gondia</item>
+        <item>Hingoli</item>
+        <item>Jalgaon</item>
+        <item>Jalna</item>
+        <item>Kolhapur</item>
+        <item>Latur</item>
+        <item>Mumbai City</item>
+        <item>Mumbai Suburban</item>
+        <item>Nagpur</item>
+        <item>Nanded</item>
+        <item>Nandurbar</item>
+        <item>Nashik</item>
+        <item>Osmanabad</item>
+        <item>Palghar</item>
+        <item>Parbhani</item>
+        <item>Pune</item>
+        <item>Raigad</item>
+        <item>Ratnagiri</item>
+        <item>Sangli</item>
+        <item>Satara</item>
+        <item>Sindhudurg</item>
+        <item>Solapur</item>
+        <item>Thane</item>
+        <item>Wardha</item>
+        <item>Washim</item>
+        <item>Yavatmal</item>
+    </string-array><string-array name="array_manipur_districts">
+        <item>Select Your District</item>
+        <item>Bishnupur</item>
+        <item>Chandel</item>
+        <item>Churachandpur</item>
+        <item>Imphal East</item>
+        <item>Imphal West</item>
+        <item>Jiribam</item>
+        <item>Kakching</item>
+        <item>Kamjong</item>
+        <item>Kangpokpi</item>
+        <item>Noney</item>
+        <item>Pherzawl</item>
+        <item>Senapati</item>
+        <item>Tamenglong</item>
+        <item>Tengnoupal</item>
+        <item>Thoubal</item>
+        <item>Ukhrul</item>
+    </string-array><string-array name="array_meghalaya_districts">
+        <item>Select Your District</item>
+        <item>East Garo Hills</item>
+        <item>East Jaintia Hills</item>
+        <item>East Khasi Hills</item>
+        <item>North Garo Hills</item>
+        <item>Ri Bhoi</item>
+        <item>South Garo Hills</item>
+        <item>South West Garo Hills</item>
+        <item>South West Khasi Hills</item>
+        <item>West Garo Hills</item>
+        <item>West Jaintia Hills</item>
+        <item>West Khasi Hills</item>
+    </string-array><string-array name="array_mizoram_districts">
+        <item>Select Your District</item>
+        <item>Aizawl</item>
+        <item>Champhai</item>
+        <item>Hnahthial</item>
+        <item>Khawzawl</item>
+        <item>Kolasib</item>
+        <item>Lawngtlai</item>
+        <item>Lunglei</item>
+        <item>Mamit</item>
+        <item>Saiha</item>
+        <item>Saitual</item>
+        <item>Serchhip</item>
+    </string-array><string-array name="array_nagaland_districts">
+        <item>Select Your District</item>
+        <item>Dimapur</item>
+        <item>Kiphire</item>
+        <item>Kohima</item>
+        <item>Longleng</item>
+        <item>Mokokchung</item>
+        <item>Mon</item>
+        <item>Peren</item>
+        <item>Phek</item>
+        <item>Tuensang</item>
+        <item>Wokha</item>
+        <item>Zunheboto</item>
+        <item>Noklak</item>
+    </string-array><string-array name="array_odisha_districts">
+        <item>Select Your District</item>
+        <item>Angul</item>
+        <item>Balangir</item>
+        <item>Balasore</item>
+        <item>Bargarh</item>
+        <item>Bhadrak</item>
+        <item>Boudh</item>
+        <item>Cuttack</item>
+        <item>Debagarh</item>
+        <item>Dhenkanal</item>
+        <item>Gajapati</item>
+        <item>Ganjam</item>
+        <item>Jagatsinghpur</item>
+        <item>Jajpur</item>
+        <item>Jharsuguda</item>
+        <item>Kalahandi</item>
+        <item>Kandhamal</item>
+        <item>Kendrapara</item>
+        <item>Kendujhar</item>
+        <item>Khordha</item>
+        <item>Koraput</item>
+        <item>Malkangiri</item>
+        <item>Mayurbhanj</item>
+        <item>Nabarangpur</item>
+        <item>Nayagarh</item>
+        <item>Nuapada</item>
+        <item>Puri</item>
+        <item>Rayagada</item>
+        <item>Sambalpur</item>
+        <item>Subarnapur</item>
+        <item>Sundergarh</item>
+    </string-array><string-array name="array_punjab_districts">
+        <item>Select Your District</item>
+        <item>Amritsar</item>
+        <item>Barnala</item>
+        <item>Bathinda</item>
+        <item>Faridkot</item>
+        <item>Fatehgarh Sahib</item>
+        <item>Fazilka</item>
+        <item>Firozpur</item>
+        <item>Gurdaspur</item>
+        <item>Hoshiarpur</item>
+        <item>Jalandhar</item>
+        <item>Kapurthala</item>
+        <item>Ludhiana</item>
+        <item>Mansa</item>
+        <item>Moga</item>
+        <item>Mohali</item>
+        <item>Muktsar</item>
+        <item>Pathankot</item>
+        <item>Patiala</item>
+        <item>Rupnagar</item>
+        <item>Sangrur</item>
+        <item>Shaheed Bhagat Singh Nagar</item>
+        <item>Tarn Taran</item>
+    </string-array><string-array name="array_rajasthan_districts">
+        <item>Select Your District</item>
+        <item>Ajmer</item>
+        <item>Alwar</item>
+        <item>Banswara</item>
+        <item>Baran</item>
+        <item>Barmer</item>
+        <item>Bharatpur</item>
+        <item>Bhilwara</item>
+        <item>Bikaner</item>
+        <item>Bundi</item>
+        <item>Chittorgarh</item>
+        <item>Churu</item>
+        <item>Dausa</item>
+        <item>Dholpur</item>
+        <item>Dungarpur</item>
+        <item>Sri Ganganagar</item>
+        <item>Hanumangarh</item>
+        <item>Jaipur</item>
+        <item>Jaisalmer</item>
+        <item>Jalore</item>
+        <item>Jhalawar</item>
+        <item>Jhunjhunu</item>
+        <item>Jodhpur</item>
+        <item>Karauli</item>
+        <item>Kota</item>
+        <item>Nagaur</item>
+        <item>Pali</item>
+        <item>Pratapgarh</item>
+        <item>Rajsamand</item>
+        <item>Sawai Madhopur</item>
+        <item>Sikar</item>
+        <item>Sirohi</item>
+        <item>Tonk</item>
+        <item>Udaipur</item>
+    </string-array><string-array name="array_sikkim_districts">
+        <item>Select Your District</item>
+        <item>East Sikkim</item>
+        <item>North Sikkim</item>
+        <item>South Sikkim</item>
+        <item>West Sikkim</item>
+    </string-array><string-array name="array_tamil_nadu_districts">
+        <item>Select Your District</item>
+        <item>Ariyalur</item>
+        <item>Chengalpattu</item>
+        <item>Chennai</item>
+        <item>Coimbatore</item>
+        <item>Cuddalore</item>
+        <item>Dharmapuri</item>
+        <item>Dindigul</item>
+        <item>Erode</item>
+        <item>Kallakurichi</item>
+        <item>Kanchipuram</item>
+        <item>Kanyakumari</item>
+        <item>Karur</item>
+        <item>Krishnagiri</item>
+        <item>Madurai</item>
+        <item>Mayiladuthurai</item>
+        <item>Nagapattinam</item>
+        <item>Namakkal</item>
+        <item>Nilgiris</item>
+        <item>Perambalur</item>
+        <item>Pudukkottai</item>
+        <item>Ramanathapuram</item>
+        <item>Ranipet</item>
+        <item>Salem</item>
+        <item>Sivaganga</item>
+        <item>Tenkasi</item>
+        <item>Thanjavur</item>
+        <item>Theni</item>
+        <item>Thoothukudi</item>
+        <item>Tiruchirappalli</item>
+        <item>Tirunelveli</item>
+        <item>Tirupattur</item>
+        <item>Tiruppur</item>
+        <item>Tiruvallur</item>
+        <item>Tiruvannamalai</item>
+        <item>Tiruvarur</item>
+        <item>Vellore</item>
+        <item>Viluppuram</item>
+        <item>Virudhunagar</item>
+    </string-array><string-array name="array_telangana_districts">
+        <item>Select Your District</item>
+        <item>Adilabad</item>
+        <item>Bhadradri Kothagudem</item>
+        <item>Hyderabad</item>
+        <item>Jagtial</item>
+        <item>Jangaon</item>
+        <item>Jayashankar Bhupalpally</item>
+        <item>Jogulamba Gadwal</item>
+        <item>Kamareddy</item>
+        <item>Karimnagar</item>
+        <item>Khammam</item>
+        <item>Komaram Bheem</item>
+        <item>Mahabubabad</item>
+        <item>Mahbubnagar</item>
+        <item>Mancherial</item>
+        <item>Medak</item>
+        <item>Medchal</item>
+        <item>Mulugu</item>
+        <item>Nagarkurnool</item>
+        <item>Nalgonda</item>
+        <item>Narayanpet</item>
+        <item>Nirmal</item>
+        <item>Nizamabad</item>
+        <item>Peddapalli</item>
+        <item>Rajanna Sircilla</item>
+        <item>Ranga Reddy</item>
+        <item>Sangareddy</item>
+        <item>Siddipet</item>
+        <item>Suryapet</item>
+        <item>Vikarabad</item>
+        <item>Wanaparthy</item>
+        <item>Warangal Rural</item>
+        <item>Warangal Urban</item>
+        <item>Yadadri Bhuvanagiri</item>
+    </string-array><string-array name="array_tripura_districts">
+        <item>Select Your District</item>
+        <item>Dhalai</item>
+        <item>Gomati</item>
+        <item>Khowai</item>
+        <item>North Tripura</item>
+        <item>Sepahijala</item>
+        <item>South Tripura</item>
+        <item>Unakoti</item>
+        <item>West Tripura</item>
+    </string-array><string-array name="array_uttar_pradesh_districts">
+        <item>Select Your District</item>
+        <item>Agra</item>
+        <item>Aligarh</item>
+        <item>Prayagraj</item>
+        <item>Ambedkar Nagar</item>
+        <item>Amethi</item>
+        <item>Amroha</item>
+        <item>Auraiya</item>
+        <item>Azamgarh</item>
+        <item>Baghpat</item>
+        <item>Bahraich</item>
+        <item>Ballia</item>
+        <item>Balrampur</item>
+        <item>Banda</item>
+        <item>Barabanki</item>
+        <item>Bareilly</item>
+        <item>Basti</item>
+        <item>Bhadohi</item>
+        <item>Bijnor</item>
+        <item>Budaun</item>
+        <item>Bulandshahr</item>
+        <item>Chandauli</item>
+        <item>Chitrakoot</item>
+        <item>Deoria</item>
+        <item>Etah</item>
+        <item>Etawah</item>
+        <item>Ayodhya</item>
+        <item>Farrukhabad</item>
+        <item>Fatehpur</item>
+        <item>Firozabad</item>
+        <item>Gautam Buddha Nagar</item>
+        <item>Ghaziabad</item>
+        <item>Ghazipur</item>
+        <item>Gonda</item>
+        <item>Gorakhpur</item>
+        <item>Hamirpur</item>
+        <item>Hapur</item>
+        <item>Hardoi</item>
+        <item>Hathras</item>
+        <item>Jalaun</item>
+        <item>Jaunpur</item>
+        <item>Jhansi</item>
+        <item>Kannauj</item>
+        <item>Kanpur Dehat</item>
+        <item>Kanpur Nagar</item>
+        <item>Kasganj</item>
+        <item>Kaushambi</item>
+        <item>Kheri</item>
+        <item>Kushinagar</item>
+        <item>Lalitpur</item>
+        <item>Lucknow</item>
+        <item>Maharajganj</item>
+        <item>Mahoba</item>
+        <item>Mainpuri</item>
+        <item>Mathura</item>
+        <item>Mau</item>
+        <item>Meerut</item>
+        <item>Mirzapur</item>
+        <item>Moradabad</item>
+        <item>Muzaffarnagar</item>
+        <item>Pilibhit</item>
+        <item>Pratapgarh</item>
+        <item>Raebareli</item>
+        <item>Rampur</item>
+        <item>Saharanpur</item>
+        <item>Sambhal</item>
+        <item>Sant Kabir Nagar</item>
+        <item>Shahjahanpur</item>
+        <item>Shamli</item>
+        <item>Shravasti</item>
+        <item>Siddharthnagar</item>
+        <item>Sitapur</item>
+        <item>Sonbhadra</item>
+        <item>Sultanpur</item>
+        <item>Unnao</item>
+        <item>Varanasi</item>
+    </string-array><string-array name="array_uttarakhand_districts">
+        <item>Select Your District</item>
+        <item>Almora</item>
+        <item>Bageshwar</item>
+        <item>Chamoli</item>
+        <item>Champawat</item>
+        <item>Dehradun</item>
+        <item>Haridwar</item>
+        <item>Nainital</item>
+        <item>Pauri</item>
+        <item>Pithoragarh</item>
+        <item>Rudraprayag</item>
+        <item>Tehri</item>
+        <item>Udham Singh Nagar</item>
+        <item>Uttarkashi</item>
+    </string-array><string-array name="array_west_bengal_districts">
+        <item>Select Your District</item>
+        <item>Alipurduar</item>
+        <item>Bankura</item>
+        <item>Birbhum</item>
+        <item>Cooch Behar</item>
+        <item>Dakshin Dinajpur</item>
+        <item>Darjeeling</item>
+        <item>Hooghly</item>
+        <item>Howrah</item>
+        <item>Jalpaiguri</item>
+        <item>Jhargram</item>
+        <item>Kalimpong</item>
+        <item>Kolkata</item>
+        <item>Malda</item>
+        <item>Murshidabad</item>
+        <item>Nadia</item>
+        <item>North 24 Parganas</item>
+        <item>Paschim Bardhaman</item>
+        <item>Paschim Medinipur</item>
+        <item>Purba Bardhaman</item>
+        <item>Purba Medinipur</item>
+        <item>Purulia</item>
+        <item>South 24 Parganas</item>
+        <item>Uttar Dinajpur</item>
+    </string-array><string-array name="array_andaman_nicobar_districts">
+        <item>Select Your District</item>
+        <item>Nicobar</item>
+        <item>North Middle Andaman</item>
+        <item>South Andaman</item>
+    </string-array><string-array name="array_chandigarh_districts">
+        <item>Chandigarh</item>
+    </string-array><string-array name="array_dadra_nagar_haveli_districts">
+        <item>Dadra Nagar Haveli</item>
+    </string-array><string-array name="array_daman_diu_districts">
+        <item>Select Your District</item>
+        <item>Daman</item>
+        <item>Diu</item>
+    </string-array><string-array name="array_delhi_districts">
+        <item>Select Your District</item>
+        <item>Central Delhi</item>
+        <item>East Delhi</item>
+        <item>New Delhi</item>
+        <item>North Delhi</item>
+        <item>North East Delhi</item>
+        <item>North West Delhi</item>
+        <item>Shahdara</item>
+        <item>South Delhi</item>
+        <item>South East Delhi</item>
+        <item>South West Delhi</item>
+        <item>West Delhi</item>
+    </string-array><string-array name="array_lakshadweep_districts">
+        <item>Lakshadweep</item>
+    </string-array><string-array name="array_ladakh_districts">
+        <item>Select Your District</item>
+        <item>Kargil</item>
+        <item>Leh</item>
+    </string-array><string-array name="array_puducherry_districts">
+        <item>Select Your District</item>
+        <item>Karaikal</item>
+        <item>Mahe</item>
+        <item>Puducherry</item>
+        <item>Yanam</item>
+    </string-array></file><file path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style><style name="CustomBottomSheetDialogTheme" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/CustomBottomSheetStyle</item>
+    </style><style name="CustomBottomSheetStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="behavior_peekHeight">3000dp</item>
+    </style></file><file path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.PruneDeliveryApplication" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+
+
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style><style name="Theme.PruneDeliveryApplication.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style><style name="Theme.PruneDeliveryApplication.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/><style name="Theme.PruneDeliveryApplication.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/></file><file path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\values-hi\strings.xml" qualifiers="hi"><string name="app_name">Prune   Delivery</string><string name="create_acc"> निर्माण your स्पष्टीकरण</string><string name="logout">Logout</string><string name="offer_text">Create your account and earn up to Rs.21000 every month!</string><string name="abc_action_bar_home_description">Navigate home</string><string name="abc_action_bar_up_description">Navigate up</string><string name="abc_action_menu_overflow_description">More options</string><string name="abc_action_mode_done">Done</string><string name="abc_activity_chooser_view_see_all">See all</string><string name="abc_activitychooserview_choose_application">Choose an app</string><string name="abc_capital_off">OFF</string><string name="abc_capital_on">ON</string><string name="abc_menu_alt_shortcut_label">Alt+</string><string name="abc_menu_ctrl_shortcut_label">Ctrl+</string><string name="abc_menu_delete_shortcut_label">delete</string><string name="abc_menu_enter_shortcut_label">enter</string><string name="abc_menu_function_shortcut_label">Function+</string><string name="abc_menu_meta_shortcut_label">Meta+</string><string name="abc_menu_shift_shortcut_label">Shift+</string><string name="abc_menu_space_shortcut_label">space</string><string name="abc_menu_sym_shortcut_label">Sym+</string><string name="abc_prepend_shortcut_label">Menu+</string><string name="abc_search_hint">Search…</string><string name="abc_searchview_description_clear">Clear query</string><string name="abc_searchview_description_query">Search query</string><string name="abc_searchview_description_search">Search</string><string name="abc_searchview_description_submit">Submit query</string><string name="abc_searchview_description_voice">Voice search</string><string name="abc_shareactionprovider_share_with">Share with</string><string name="abc_shareactionprovider_share_with_application">Share with %s</string><string name="abc_toolbar_collapse_description">Collapse</string><string name="action_settings">Settings</string><string name="androidx_startup">androidx.startup</string><string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string><string name="area">Area and timings of work</string><string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string><string name="bottomsheet_action_expand_halfway">Expand halfway</string><string name="character_counter_content_description">Characters entered %1$d of %2$d</string><string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string><string name="character_counter_pattern">%1$d/%2$d</string><string name="chip_text">Chip text</string><string name="clear_text_end_icon_content_description">Clear text</string><string name="content_five">UPI,Credit Card,Debit Cards accepted</string><string name="driving_text">Please provide details of your Driving License</string><string name="error_icon_content_description">Error</string><string name="exposed_dropdown_menu_content_description">Show dropdown menu</string><string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string><string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string><string name="fees_part1">Onboarding fee is one time\10fee paid to be onboarded with\10Prune</string><string name="fees_part2">Here what you get after joining</string><string name="fees_part3">Get insurance coverage upto Rs.100,000</string><string name="fees_part4">Get Prune T-shirt and Bag</string><string name="fees_part5">Pay full Rs.1280 now</string><string name="fees_part6"/><string name="first_fragment_label">First Fragment</string><string name="head_content_subpage">Please complete this information so we can\10create an account for you</string><string name="hello_first_fragment">Hello first fragment</string><string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string><string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string><string name="icon_content_description">Dialog Icon</string><string name="item_view_role_description">Tab</string><string name="material_clock_display_divider">:</string><string name="material_clock_toggle_content_description">Select AM or PM</string><string name="material_hour_selection">Select hour</string><string name="material_hour_suffix">%1$s o\'clock</string><string name="material_minute_selection">Select minutes</string><string name="material_minute_suffix">%1$s minutes</string><string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string><string name="material_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string><string name="material_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string><string name="material_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string><string name="material_motion_easing_standard">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string><string name="material_slider_range_end">Range end,</string><string name="material_slider_range_start">Range start,</string><string name="material_timepicker_am">AM</string><string name="material_timepicker_clock_mode_description">Switch to clock mode for the time input.</string><string name="material_timepicker_hour">Hour</string><string name="material_timepicker_minute">Minute</string><string name="material_timepicker_pm">PM</string><string name="material_timepicker_select_time">Select time</string><string name="material_timepicker_text_input_mode_description">Switch to text input mode for the time input.</string><string name="menu_about">About</string><string name="menu_activity">Activity Logs</string><string name="menu_contact">Contact Us</string><string name="menu_direct_sell">Direct Sell</string><string name="menu_faq">FAQs</string><string name="menu_fav">Favourites</string><string name="menu_logout">Logout</string><string name="menu_more_orders">Get More Orders</string><string name="menu_privacy">Privacy Policies</string><string name="menu_profile">My Profile</string><string name="menu_rewards">Rewards</string><string name="menu_setting">Settings</string><string name="menu_term">Terms and Services</string><string name="menu_wallet">My Wallet</string><string name="mtrl_badge_numberless_content_description">New notification</string><string name="mtrl_chip_close_icon_content_description">Remove %1$s</string><string name="mtrl_exceed_max_badge_number_content_description">More than %1$d new notifications</string><string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string><string name="mtrl_picker_a11y_next_month">Change to next month</string><string name="mtrl_picker_a11y_prev_month">Change to previous month</string><string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string><string name="mtrl_picker_cancel">@android:string/cancel</string><string name="mtrl_picker_confirm">@android:string/ok</string><string name="mtrl_picker_date_header_selected">%1$s</string><string name="mtrl_picker_date_header_title">Select Date</string><string name="mtrl_picker_date_header_unselected">Selected date</string><string name="mtrl_picker_day_of_week_column_header">Column of days: %1$s</string><string name="mtrl_picker_invalid_format">Invalid format.</string><string name="mtrl_picker_invalid_format_example">Example: %1$s</string><string name="mtrl_picker_invalid_format_use">Use: %1$s</string><string name="mtrl_picker_invalid_range">Invalid range.</string><string name="mtrl_picker_navigate_to_year_description">Navigate to year %1$s</string><string name="mtrl_picker_out_of_range">Out of range: %1$s</string><string name="mtrl_picker_range_header_only_end_selected">Start date – %1$s</string><string name="mtrl_picker_range_header_only_start_selected">%1$s – End date</string><string name="mtrl_picker_range_header_selected">%1$s – %2$s</string><string name="mtrl_picker_range_header_title">Select Range</string><string name="mtrl_picker_range_header_unselected">Start date – End date</string><string name="mtrl_picker_save">Save</string><string name="mtrl_picker_text_input_date_hint">Date</string><string name="mtrl_picker_text_input_date_range_end_hint">End date</string><string name="mtrl_picker_text_input_date_range_start_hint">Start date</string><string name="mtrl_picker_text_input_day_abbr">d</string><string name="mtrl_picker_text_input_month_abbr">m</string><string name="mtrl_picker_text_input_year_abbr">y</string><string name="mtrl_picker_toggle_to_calendar_input_mode">Switch to calendar input mode</string><string name="mtrl_picker_toggle_to_day_selection">Tap to switch to selecting a day</string><string name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string><string name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string><string name="nav_app_bar_navigate_up_description">Navigate up</string><string name="nav_app_bar_open_drawer_description">Open navigation drawer</string><string name="nav_header_desc">Navigation header</string><string name="nav_header_subtitle">android.studio@android.com</string><string name="nav_header_title">Android Studio</string><string name="navigation_drawer_close">Close navigation drawer</string><string name="navigation_drawer_open">Open navigation drawer</string><string name="next">Next</string><string name="password_toggle_content_description">Show password</string><string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string><string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string><string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string><string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string><string name="personal">Personal and bank details</string><string name="please_follow">Please follow the guidelines</string><string name="previous">Previous</string><string name="search_menu_title">Search</string><string name="second_fragment_label">Second Fragment</string><string name="status_bar_notification_info_overflow">999+</string><string name="sub_content_four">For your Prune t-shirt</string><string name="title_activity_navigation_screen">navigation_screen</string><string name="title_activity_time_view">time_view</string><string name="title_activity_timepic_view">timepic_view</string><string name="upload_copy">Upload copy of cheque/ passbook/ bank statement</string><string name="vehicle_type_one_content">Any vehicle that requires a license</string><string name="verify_block_first">Vehicle,locality and shift</string><string name="verify_block_five">Pay onboarding fees</string><string name="verify_block_fourth">Add t-shirt size</string><string name="verify_block_sec">Submit information</string><string name="verify_block_third">Click profile photo</string><string-array name="languages_list">
+        <item>Hindi</item>
+        <item>Sanskrit</item>
+        <item>English</item>
+        <item>Russian</item>
+
+    </string-array><string name="select"/><string name="otp_verification">otp_verification</string><string name="we_will_send_you_an_one_time_password_on_this_mobile_number">We will send you an One Time Password on this mobile number</string><string name="enter_mobile_number">enter_mobile_number</string><string name="Otp_verification">OTP_Verification</string><string name="enter_the_otp_sent_to">enter_the_otp_sent_to</string><string name="didn_t_receive_the_otp">Didn\'t receive the OTP?</string><string name="resend_otp">resend_OTP</string><string name="Resend_otp">Resend_OTP</string><string name="verify">Verify</string><string name="generate_otp">Generate OTP</string><string name="click_your_picture">Click Your Picture</string><string name="click">Click</string><string name="add_t_shirt_size">Add t-shirt size</string><string name="please_select_a_t_shirt_size">Please select a t-shirt size</string><string name="m">M</string><string name="item1">Item1</string><string name="item2">Item2</string><string name="OpenDrawer">Open navigation drawer</string><string name="CloseDrawer">Close navigation drawer</string><string name="hello_blank_fragment">Hello blank fragment</string><string name="open_camera">OPEN CAMERA</string><string name="buy_sim">Buy Sim</string><string name="add_sim_from_other_operators">Add Sim From Other Operators</string><string name="title_activity_attendance">Attendance</string><string name="sim_stock">Sim Stock</string><string name="select_operator">Select Operator</string><string name="_9999999990">9999999990</string><string name="_172gdqw8ihj">172GDQW8IHJ</string><string name="mobile_number">Mobile Number</string><string name="sim_number">Sim Number</string><string name="cancel">Cancel</string><string name="pay_now">Pay Now</string><string name="price">Price</string><string name="quantity">Quantity</string><string name="proceed">Proceed</string><string name="save">Save</string><string name="create_your_account">Create your account</string><string name="help">HELP</string><string name="payment">Payment</string><string name="xxxx">XXXX</string><string name="name_on_card">Name On Card</string><string name="card_number">Card Number</string><string name="expiry">Expiry</string><string name="cvv">CVV</string><string name="driving_license">Driving license</string><string name="dl_number">DL Number</string><string name="dl_expiry_date">DL expiry date</string><string name="upload_front_dl">Upload front DL</string><string name="upload_back_dl">Upload back DL</string><string name="edit">Edit</string><string name="submit">Submit</string><string name="bank_ifsc_code">Bank IFSC Code</string><string name="account_number">Account Number</string><string name="bank">Bank</string><string name="bank_details">Bank details</string><string name="pan_number">PAN Number</string><string name="date_of_birth">Date of Birth</string><string name="name">Name</string><string name="personal_details">Personal Details</string><string name="verify_by_otp">Verify by OTP</string><string name="upload_click_photo">Upload/Click photo</string><string name="add_pan_details">Add PAN Details</string><string name="aadhar">AADHAR Number</string><string name="add_adhar_details">Add Adhar Details</string><string name="identity_details">Identity Details</string><string name="bank_account_details">Bank account details</string><string name="Text">You need to create an account with Prune to be selling Mobile Connections.Once you submit a form,our team will review the form.If we the team finds the form to be complete,it will approve the same and you will get a message and a notification on the app.Till the time your application is under review you will not be able to go beyond submission.Your other features of the app will be available after approval.</string><string name="xs">XS</string><string name="not_interested">Not Interested</string><string name="line_busy">Line Busy</string><string name="switch_off">Switch Off</string><string name="not_deliverable_area">Not_Deliverable_Area</string><string name="refuse">Refuse</string><string name="Continue">Continue</string><string name="_2xl">2XL</string><string name="xl">XL</string><string name="l">L</string><string name="s">S</string><string name="duty">Duty</string><string name="on">On</string><string name="off">Off</string><string name="on_duty">On-Duty</string><string name="punch_in">PUNCH-IN</string><string name="range">Range :</string><string name="please_mark_your_attendance">Please mark your attendance</string><string name="ok">ok</string><string name="orders">Attendance is marked successfully. You will be assigned new orders shortly.</string><string name="total_time">Total Time</string><string name="pending_orders">Pending Orders</string><string name="order_rejected">Order Rejected</string><string name="order_delivered">Order Delivered</string><string name="offline_time">Offline Time</string><string name="login_time">Login Time</string><string name="attendance">Attendance</string><string name="placeholder">Placeholder</string><string name="date_month_year">date-month-year</string><string name="select_merchant">Select Merchant</string><string name="select_region">Select Region</string><string name="point">..</string><string name="address">Address</string><string name="order_accept">Order Accept</string><string name="orderAccept">Are you want to accept the order ?</string><string name="order_status">Order Status</string><string name="order">Order -</string><string name="ordertext">Order has been accepted successfully and it is available in the pending list.</string><string name="oder_details">Oder Details -</string><string name="merchant_name">Merchant Name :</string><string name="merchant_address">Merchant Address :</string><string name="customer_name">Customer Name :</string><string name="phone_number">Phone Number :</string><string name="product">Product :</string><string name="addres">Address :</string><string name="time_slot">Time Slot :</string><string name="close">Close</string><string name="_123456789">123456789</string><string name="a">Area :</string><string name="_110044">110044</string><string name="order_no">Order No. :</string><string name="village_jamalpur">Village Jamalpur</string><string name="_09_00_am_10_00_pm">09:00 AM-10:00 PM</string><string name="order_type">Order Type :</string><string name="sim">SIM</string><string name="_0_01_kms">0.01 KMs</string><string name="accept">Accept</string><string name="navigate">Navigate</string><string name="info">Info</string><string name="reject">Reject</string><string name="call">Call</string><string name="merchant">Merchant :</string><string name="Area">Area</string><string name="bill_no">Bill No. :</string><string name="_1234567890">1234567890</string><string name="pick_your_date">Pick your Date</string><string name="gender">Gender</string><string name="current_address">Current Address</string><string name="district_city">District/City</string><string name="states">State*</string><string name="district">District*</string><string name="pincode">Pincode</string><string name="identification_details">Identification Details</string><string name="aadhaar_card">AADHAAR CARD</string><string name="pan_card">Pan Card</string><string name="driving_licence">Driving Licence</string><string name="aadhaar_id">Aadhaar ID</string><string name="button">Button</string><string name="full_name">Full Name</string><string name="year_of_birth">Year Of bIRTH</string><string name="aadhaar_number">Aadhaar No.</string><string name="mr_xyz">Mr. XYZ</string><string name="father_s_name">Father\'s Name</string><string name="address_line2">Address Line2</string><string name="address_line1">Address Line1</string><string name="_202395">202395</string><string name="_0000_1111_2222">0000 1111 2222</string><string name="male_female">Male/Female</string><string name="_1999">1999</string><string name="extract_text">Save</string><string name="aaabb123nvh">AAABB123NVH</string><string name="extracted_info">Extracted Info from Image will be shown here..</string><string name="Bank_details">Bank Details</string><string name="Bank">Bank</string><string name="Account_number">Account Number</string><string name="Confirm_account_number">Confirm Account Number</string><string name="Bank_ifsc_code">Bank IFSC Code</string><string name="open_gallery">open gallery</string><string name="phone_number1">Phone Number</string><string name="payment_mode">Payment Mode</string><string name="plan">Plan</string><string name="activate_sim">Activate Sim</string><string name="profile">Profile</string><string name="direct_sell">Direct Sell</string><string name="select_language" translatable="false">Select Language</string><string name="english">English</string><string name="hindi">Hindi</string><string-array name="Sim_Number">
+        <item>172GDQW8IHJ</item>
+        <item>173GDQW8IHJ</item>
+        <item>174GDQW8IHJ</item>
+        <item>175GDQW8IHJ</item>
+        <item>176GDQW8IHJ</item>
+        <item>177GDQW8IHJ</item>
+        <item>178GDQW8IHJ</item>
+        <item>179GDQW8IHJ</item>
+        <item>180GDQW8IHJ</item>
+
+    </string-array><string-array name="Mobile_Number">
+        <item>9999999990</item>
+        <item>9999999991</item>
+        <item>9999999992</item>
+        <item>9999999993</item>
+        <item>9999999994</item>
+        <item>9999999995</item>
+        <item>9999999996</item>
+        <item>9999999997</item>
+        <item>9999999998</item>
+    </string-array><string-array name="array_india_states">
+        <item>Select Your State</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chhattisgarh</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttarakhand</item>
+        <item>West Bengal</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Chandigarh</item>
+        <item>Delhi</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Ladakh</item>
+        <item>Lakshadweep</item>
+        <item>Puducherry</item>
+    </string-array><string-array name="array_default_districts">
+        <item>Select Your District</item>
+
+    </string-array><string-array name="array_andhra_pradesh_districts">
+        <item>Select Your District</item>
+        <item>Anantapur</item>
+        <item>Chittoor</item>
+        <item>East Godavari</item>
+        <item>Guntur</item>
+        <item>Kadapa</item>
+        <item>Krishna</item>
+        <item>Kurnool</item>
+        <item>Nellore</item>
+        <item>Prakasam</item>
+        <item>Srikakulam</item>
+        <item>Visakhapatnam</item>
+        <item>Vizianagaram</item>
+        <item>West Godavari</item>
+    </string-array><string-array name="array_arunachal_pradesh_districts">
+        <item>Select Your District</item>
+        <item>Anjaw</item>
+        <item>Siang</item>
+        <item>Changlang</item>
+        <item>Dibang Valley</item>
+        <item>East Kameng</item>
+        <item>East Siang</item>
+        <item>Kamle</item>
+        <item>Kra Daadi</item>
+        <item>Kurung Kumey</item>
+        <item>Lepa Rada</item>
+        <item>Lohit</item>
+        <item>Longding</item>
+        <item>Lower Dibang Valley</item>
+        <item>Lower Siang</item>
+        <item>Lower Subansiri</item>
+        <item>Namsai</item>
+        <item>Pakke Kessang</item>
+        <item>Papum Pare</item>
+        <item>Shi Yomi</item>
+        <item>Tawang</item>
+        <item>Tirap</item>
+        <item>Upper Siang</item>
+        <item>Upper Subansiri</item>
+        <item>West Kameng</item>
+        <item>West Siang</item>
+    </string-array><string-array name="array_assam_districts">
+        <item>Select Your District</item>
+        <item>Bajali</item>
+        <item>Baksa</item>
+        <item>Barpeta</item>
+        <item>Biswanath</item>
+        <item>Bongaigaon</item>
+        <item>Cachar</item>
+        <item>Charaideo</item>
+        <item>Chirang</item>
+        <item>Darrang</item>
+        <item>Dhemaji</item>
+        <item>Dhubri</item>
+        <item>Dibrugarh</item>
+        <item>Dima Hasao</item>
+        <item>Goalpara</item>
+        <item>Golaghat</item>
+        <item>Hailakandi</item>
+        <item>Hojai</item>
+        <item>Jorhat</item>
+        <item>Kamrup</item>
+        <item>Kamrup Metropolitan</item>
+        <item>Karbi Anglong</item>
+        <item>Karimganj</item>
+        <item>Kokrajhar</item>
+        <item>Lakhimpur</item>
+        <item>Majuli</item>
+        <item>Morigaon</item>
+        <item>Nagaon</item>
+        <item>Nalbari</item>
+        <item>Sivasagar</item>
+        <item>Sonitpur</item>
+        <item>South Salmara-Mankachar</item>
+        <item>Tinsukia</item>
+        <item>Udalguri</item>
+        <item>West Karbi Anglong</item>
+    </string-array><string-array name="array_bihar_districts">
+        <item>Select Your District</item>
+        <item>Araria</item>
+        <item>Arwal</item>
+        <item>Aurangabad</item>
+        <item>Banka</item>
+        <item>Begusarai</item>
+        <item>Bhagalpur</item>
+        <item>Bhojpur</item>
+        <item>Buxar</item>
+        <item>Darbhanga</item>
+        <item>East Champaran</item>
+        <item>Gaya</item>
+        <item>Gopalganj</item>
+        <item>Jamui</item>
+        <item>Jehanabad</item>
+        <item>Kaimur</item>
+        <item>Katihar</item>
+        <item>Khagaria</item>
+        <item>Kishanganj</item>
+        <item>Lakhisarai</item>
+        <item>Madhepura</item>
+        <item>Madhubani</item>
+        <item>Munger</item>
+        <item>Muzaffarpur</item>
+        <item>Nalanda</item>
+        <item>Nawada</item>
+        <item>Patna</item>
+        <item>Purnia</item>
+        <item>Rohtas</item>
+        <item>Saharsa</item>
+        <item>Samastipur</item>
+        <item>Saran</item>
+        <item>Sheikhpura</item>
+        <item>Sheohar</item>
+        <item>Sitamarhi</item>
+        <item>Siwan</item>
+        <item>Supaul</item>
+        <item>Vaishali</item>
+        <item>West Champaran</item>
+    </string-array><string-array name="array_chhattisgarh_districts">
+        <item>Select Your District</item>
+        <item>Balod</item>
+        <item>Baloda Bazar</item>
+        <item>Balrampur Ramanujganj</item>
+        <item>Bastar</item>
+        <item>Bemetara</item>
+        <item>Bijapur</item>
+        <item>Bilaspur</item>
+        <item>Dantewada</item>
+        <item>Dhamtari</item>
+        <item>Durg</item>
+        <item>Gariaband</item>
+        <item>Gaurela Pendra Marwahi</item>
+        <item>Janjgir Champa</item>
+        <item>Jashpur</item>
+        <item>Kabirdham</item>
+        <item>Kanker</item>
+        <item>Kondagaon</item>
+        <item>Korba</item>
+        <item>Koriya</item>
+        <item>Mahasamund</item>
+        <item>Mungeli</item>
+        <item>Narayanpur</item>
+        <item>Raigarh</item>
+        <item>Raipur</item>
+        <item>Rajnandgaon</item>
+        <item>Sukma</item>
+        <item>Surajpur</item>
+        <item>Surguja</item>
+    </string-array><string-array name="array_goa_districts">
+        <item>Select Your District</item>
+        <item>North Goa</item>
+        <item>South Goa</item>
+    </string-array><string-array name="array_gujarat_districts">
+        <item>Select Your District</item>
+        <item>Ahmedabad</item>
+        <item>Amreli</item>
+        <item>Anand</item>
+        <item>Aravalli</item>
+        <item>Banaskantha</item>
+        <item>Bharuch</item>
+        <item>Bhavnagar</item>
+        <item>Botad</item>
+        <item>Chhota Udaipur</item>
+        <item>Dahod</item>
+        <item>Dang</item>
+        <item>Devbhoomi Dwarka</item>
+        <item>Gandhinagar</item>
+        <item>Gir Somnath</item>
+        <item>Jamnagar</item>
+        <item>Junagadh</item>
+        <item>Kheda</item>
+        <item>Kutch</item>
+        <item>Mahisagar</item>
+        <item>Mehsana</item>
+        <item>Morbi</item>
+        <item>Narmada</item>
+        <item>Navsari</item>
+        <item>Panchmahal</item>
+        <item>Patan</item>
+        <item>Porbandar</item>
+        <item>Rajkot</item>
+        <item>Sabarkantha</item>
+        <item>Surat</item>
+        <item>Surendranagar</item>
+        <item>Tapi</item>
+        <item>Vadodara</item>
+        <item>Valsad</item>
+    </string-array><string-array name="array_haryana_districts">
+        <item>Select Your District</item>
+        <item>Ambala</item>
+        <item>Bhiwani</item>
+        <item>Charkhi Dadri</item>
+        <item>Faridabad</item>
+        <item>Fatehabad</item>
+        <item>Gurugram</item>
+        <item>Hisar</item>
+        <item>Jhajjar</item>
+        <item>Jind</item>
+        <item>Kaithal</item>
+        <item>Karnal</item>
+        <item>Kurukshetra</item>
+        <item>Mahendragarh</item>
+        <item>Mewat</item>
+        <item>Palwal</item>
+        <item>Panchkula</item>
+        <item>Panipat</item>
+        <item>Rewari</item>
+        <item>Rohtak</item>
+        <item>Sirsa</item>
+        <item>Sonipat</item>
+        <item>Yamunanagar</item>
+    </string-array><string-array name="array_himachal_pradesh_districts">
+        <item>Select Your District</item>
+        <item>Bilaspur</item>
+        <item>Chamba</item>
+        <item>Hamirpur</item>
+        <item>Kangra</item>
+        <item>Kinnaur</item>
+        <item>Kullu</item>
+        <item>Lahaul Spiti</item>
+        <item>Mandi</item>
+        <item>Shimla</item>
+        <item>Sirmaur</item>
+        <item>Solan</item>
+        <item>Una</item>
+    </string-array><string-array name="array_jammu_kashmir_districts">
+        <item>Select Your District</item>
+        <item>Anantnag</item>
+        <item>Bandipora</item>
+        <item>Baramulla</item>
+        <item>Budgam</item>
+        <item>Doda</item>
+        <item>Ganderbal</item>
+        <item>Jammu</item>
+        <item>Kathua</item>
+        <item>Kishtwar</item>
+        <item>Kulgam</item>
+        <item>Kupwara</item>
+        <item>Poonch</item>
+        <item>Pulwama</item>
+        <item>Rajouri</item>
+        <item>Ramban</item>
+        <item>Reasi</item>
+        <item>Samba</item>
+        <item>Shopian</item>
+        <item>Srinagar</item>
+        <item>Udhampur</item>
+    </string-array><string-array name="array_jharkhand_districts">
+        <item>Select Your District</item>
+        <item>Bokaro</item>
+        <item>Chatra</item>
+        <item>Deoghar</item>
+        <item>Dhanbad</item>
+        <item>Dumka</item>
+        <item>East Singhbhum</item>
+        <item>Garhwa</item>
+        <item>Giridih</item>
+        <item>Godda</item>
+        <item>Gumla</item>
+        <item>Hazaribagh</item>
+        <item>Jamtara</item>
+        <item>Khunti</item>
+        <item>Koderma</item>
+        <item>Latehar</item>
+        <item>Lohardaga</item>
+        <item>Pakur</item>
+        <item>Palamu</item>
+        <item>Ramgarh</item>
+        <item>Ranchi</item>
+        <item>Sahebganj</item>
+        <item>Seraikela Kharsawan</item>
+        <item>Simdega</item>
+        <item>West Singhbhum</item>
+    </string-array><string-array name="array_karnataka_districts">
+        <item>Select Your District</item>
+        <item>Bagalkot</item>
+        <item>Bangalore Rural</item>
+        <item>Bangalore Urban</item>
+        <item>Belgaum</item>
+        <item>Bellary</item>
+        <item>Bidar</item>
+        <item>Chamarajanagar</item>
+        <item>Chikkaballapur</item>
+        <item>Chikkamagaluru</item>
+        <item>Chitradurga</item>
+        <item>Dakshina Kannada</item>
+        <item>Davanagere</item>
+        <item>Dharwad</item>
+        <item>Gadag</item>
+        <item>Gulbarga</item>
+        <item>Hassan</item>
+        <item>Haveri</item>
+        <item>Kodagu</item>
+        <item>Kolar</item>
+        <item>Koppal</item>
+        <item>Mandya</item>
+        <item>Mysore</item>
+        <item>Raichur</item>
+        <item>Ramanagara</item>
+        <item>Shimoga</item>
+        <item>Tumkur</item>
+        <item>Udupi</item>
+        <item>Uttara Kannada</item>
+        <item>Vijayanagara</item>
+        <item>Vijayapura</item>
+        <item>Yadgir</item>
+    </string-array><string-array name="array_kerala_districts">
+        <item>Select Your District</item>
+        <item>Alappuzha</item>
+        <item>Ernakulam</item>
+        <item>Idukki</item>
+        <item>Kannur</item>
+        <item>Kasaragod</item>
+        <item>Kollam</item>
+        <item>Kottayam</item>
+        <item>Kozhikode</item>
+        <item>Malappuram</item>
+        <item>Palakkad</item>
+        <item>Pathanamthitta</item>
+        <item>Thiruvananthapuram</item>
+        <item>Thrissur</item>
+        <item>Wayanad</item>
+    </string-array><string-array name="array_madhya_pradesh_districts">
+        <item>Select Your District</item>
+        <item>Agar Malwa</item>
+        <item>Alirajpur</item>
+        <item>Anuppur</item>
+        <item>Ashoknagar</item>
+        <item>Balaghat</item>
+        <item>Barwani</item>
+        <item>Betul</item>
+        <item>Bhind</item>
+        <item>Bhopal</item>
+        <item>Burhanpur</item>
+        <item>Chachaura</item>
+        <item>Chhatarpur</item>
+        <item>Chhindwara</item>
+        <item>Damoh</item>
+        <item>Datia</item>
+        <item>Dewas</item>
+        <item>Dhar</item>
+        <item>Dindori</item>
+        <item>Guna</item>
+        <item>Gwalior</item>
+        <item>Harda</item>
+        <item>Hoshangabad</item>
+        <item>Indore</item>
+        <item>Jabalpur</item>
+        <item>Jhabua</item>
+        <item>Katni</item>
+        <item>Khandwa</item>
+        <item>Khargone</item>
+        <item>Maihar</item>
+        <item>Mandla</item>
+        <item>Mandsaur</item>
+        <item>Morena</item>
+        <item>Nagda</item>
+        <item>Narsinghpur</item>
+        <item>Neemuch</item>
+        <item>Niwari</item>
+        <item>Panna</item>
+        <item>Raisen</item>
+        <item>Rajgarh</item>
+        <item>Ratlam</item>
+        <item>Rewa</item>
+        <item>Sagar</item>
+        <item>Satna</item>
+        <item>Sehore</item>
+        <item>Seoni</item>
+        <item>Shahdol</item>
+        <item>Shajapur</item>
+        <item>Sheopur</item>
+        <item>Shivpuri</item>
+        <item>Sidhi</item>
+        <item>Singrauli</item>
+        <item>Tikamgarh</item>
+        <item>Ujjain</item>
+        <item>Umaria</item>
+        <item>Vidisha</item>
+    </string-array><string-array name="array_maharashtra_districts">
+        <item>Select Your District</item>
+        <item>Ahmednagar</item>
+        <item>Akola</item>
+        <item>Amravati</item>
+        <item>Aurangabad</item>
+        <item>Beed</item>
+        <item>Bhandara</item>
+        <item>Buldhana</item>
+        <item>Chandrapur</item>
+        <item>Dhule</item>
+        <item>Gadchiroli</item>
+        <item>Gondia</item>
+        <item>Hingoli</item>
+        <item>Jalgaon</item>
+        <item>Jalna</item>
+        <item>Kolhapur</item>
+        <item>Latur</item>
+        <item>Mumbai City</item>
+        <item>Mumbai Suburban</item>
+        <item>Nagpur</item>
+        <item>Nanded</item>
+        <item>Nandurbar</item>
+        <item>Nashik</item>
+        <item>Osmanabad</item>
+        <item>Palghar</item>
+        <item>Parbhani</item>
+        <item>Pune</item>
+        <item>Raigad</item>
+        <item>Ratnagiri</item>
+        <item>Sangli</item>
+        <item>Satara</item>
+        <item>Sindhudurg</item>
+        <item>Solapur</item>
+        <item>Thane</item>
+        <item>Wardha</item>
+        <item>Washim</item>
+        <item>Yavatmal</item>
+    </string-array><string-array name="array_manipur_districts">
+        <item>Select Your District</item>
+        <item>Bishnupur</item>
+        <item>Chandel</item>
+        <item>Churachandpur</item>
+        <item>Imphal East</item>
+        <item>Imphal West</item>
+        <item>Jiribam</item>
+        <item>Kakching</item>
+        <item>Kamjong</item>
+        <item>Kangpokpi</item>
+        <item>Noney</item>
+        <item>Pherzawl</item>
+        <item>Senapati</item>
+        <item>Tamenglong</item>
+        <item>Tengnoupal</item>
+        <item>Thoubal</item>
+        <item>Ukhrul</item>
+    </string-array><string-array name="array_meghalaya_districts">
+        <item>Select Your District</item>
+        <item>East Garo Hills</item>
+        <item>East Jaintia Hills</item>
+        <item>East Khasi Hills</item>
+        <item>North Garo Hills</item>
+        <item>Ri Bhoi</item>
+        <item>South Garo Hills</item>
+        <item>South West Garo Hills</item>
+        <item>South West Khasi Hills</item>
+        <item>West Garo Hills</item>
+        <item>West Jaintia Hills</item>
+        <item>West Khasi Hills</item>
+    </string-array><string-array name="array_mizoram_districts">
+        <item>Select Your District</item>
+        <item>Aizawl</item>
+        <item>Champhai</item>
+        <item>Hnahthial</item>
+        <item>Khawzawl</item>
+        <item>Kolasib</item>
+        <item>Lawngtlai</item>
+        <item>Lunglei</item>
+        <item>Mamit</item>
+        <item>Saiha</item>
+        <item>Saitual</item>
+        <item>Serchhip</item>
+    </string-array><string-array name="array_nagaland_districts">
+        <item>Select Your District</item>
+        <item>Dimapur</item>
+        <item>Kiphire</item>
+        <item>Kohima</item>
+        <item>Longleng</item>
+        <item>Mokokchung</item>
+        <item>Mon</item>
+        <item>Peren</item>
+        <item>Phek</item>
+        <item>Tuensang</item>
+        <item>Wokha</item>
+        <item>Zunheboto</item>
+        <item>Noklak</item>
+    </string-array><string-array name="array_odisha_districts">
+        <item>Select Your District</item>
+        <item>Angul</item>
+        <item>Balangir</item>
+        <item>Balasore</item>
+        <item>Bargarh</item>
+        <item>Bhadrak</item>
+        <item>Boudh</item>
+        <item>Cuttack</item>
+        <item>Debagarh</item>
+        <item>Dhenkanal</item>
+        <item>Gajapati</item>
+        <item>Ganjam</item>
+        <item>Jagatsinghpur</item>
+        <item>Jajpur</item>
+        <item>Jharsuguda</item>
+        <item>Kalahandi</item>
+        <item>Kandhamal</item>
+        <item>Kendrapara</item>
+        <item>Kendujhar</item>
+        <item>Khordha</item>
+        <item>Koraput</item>
+        <item>Malkangiri</item>
+        <item>Mayurbhanj</item>
+        <item>Nabarangpur</item>
+        <item>Nayagarh</item>
+        <item>Nuapada</item>
+        <item>Puri</item>
+        <item>Rayagada</item>
+        <item>Sambalpur</item>
+        <item>Subarnapur</item>
+        <item>Sundergarh</item>
+    </string-array><string-array name="array_punjab_districts">
+        <item>Select Your District</item>
+        <item>Amritsar</item>
+        <item>Barnala</item>
+        <item>Bathinda</item>
+        <item>Faridkot</item>
+        <item>Fatehgarh Sahib</item>
+        <item>Fazilka</item>
+        <item>Firozpur</item>
+        <item>Gurdaspur</item>
+        <item>Hoshiarpur</item>
+        <item>Jalandhar</item>
+        <item>Kapurthala</item>
+        <item>Ludhiana</item>
+        <item>Mansa</item>
+        <item>Moga</item>
+        <item>Mohali</item>
+        <item>Muktsar</item>
+        <item>Pathankot</item>
+        <item>Patiala</item>
+        <item>Rupnagar</item>
+        <item>Sangrur</item>
+        <item>Shaheed Bhagat Singh Nagar</item>
+        <item>Tarn Taran</item>
+    </string-array><string-array name="array_rajasthan_districts">
+        <item>Select Your District</item>
+        <item>Ajmer</item>
+        <item>Alwar</item>
+        <item>Banswara</item>
+        <item>Baran</item>
+        <item>Barmer</item>
+        <item>Bharatpur</item>
+        <item>Bhilwara</item>
+        <item>Bikaner</item>
+        <item>Bundi</item>
+        <item>Chittorgarh</item>
+        <item>Churu</item>
+        <item>Dausa</item>
+        <item>Dholpur</item>
+        <item>Dungarpur</item>
+        <item>Sri Ganganagar</item>
+        <item>Hanumangarh</item>
+        <item>Jaipur</item>
+        <item>Jaisalmer</item>
+        <item>Jalore</item>
+        <item>Jhalawar</item>
+        <item>Jhunjhunu</item>
+        <item>Jodhpur</item>
+        <item>Karauli</item>
+        <item>Kota</item>
+        <item>Nagaur</item>
+        <item>Pali</item>
+        <item>Pratapgarh</item>
+        <item>Rajsamand</item>
+        <item>Sawai Madhopur</item>
+        <item>Sikar</item>
+        <item>Sirohi</item>
+        <item>Tonk</item>
+        <item>Udaipur</item>
+    </string-array><string-array name="array_sikkim_districts">
+        <item>Select Your District</item>
+        <item>East Sikkim</item>
+        <item>North Sikkim</item>
+        <item>South Sikkim</item>
+        <item>West Sikkim</item>
+    </string-array><string-array name="array_tamil_nadu_districts">
+        <item>Select Your District</item>
+        <item>Ariyalur</item>
+        <item>Chengalpattu</item>
+        <item>Chennai</item>
+        <item>Coimbatore</item>
+        <item>Cuddalore</item>
+        <item>Dharmapuri</item>
+        <item>Dindigul</item>
+        <item>Erode</item>
+        <item>Kallakurichi</item>
+        <item>Kanchipuram</item>
+        <item>Kanyakumari</item>
+        <item>Karur</item>
+        <item>Krishnagiri</item>
+        <item>Madurai</item>
+        <item>Mayiladuthurai</item>
+        <item>Nagapattinam</item>
+        <item>Namakkal</item>
+        <item>Nilgiris</item>
+        <item>Perambalur</item>
+        <item>Pudukkottai</item>
+        <item>Ramanathapuram</item>
+        <item>Ranipet</item>
+        <item>Salem</item>
+        <item>Sivaganga</item>
+        <item>Tenkasi</item>
+        <item>Thanjavur</item>
+        <item>Theni</item>
+        <item>Thoothukudi</item>
+        <item>Tiruchirappalli</item>
+        <item>Tirunelveli</item>
+        <item>Tirupattur</item>
+        <item>Tiruppur</item>
+        <item>Tiruvallur</item>
+        <item>Tiruvannamalai</item>
+        <item>Tiruvarur</item>
+        <item>Vellore</item>
+        <item>Viluppuram</item>
+        <item>Virudhunagar</item>
+    </string-array><string-array name="array_telangana_districts">
+        <item>Select Your District</item>
+        <item>Adilabad</item>
+        <item>Bhadradri Kothagudem</item>
+        <item>Hyderabad</item>
+        <item>Jagtial</item>
+        <item>Jangaon</item>
+        <item>Jayashankar Bhupalpally</item>
+        <item>Jogulamba Gadwal</item>
+        <item>Kamareddy</item>
+        <item>Karimnagar</item>
+        <item>Khammam</item>
+        <item>Komaram Bheem</item>
+        <item>Mahabubabad</item>
+        <item>Mahbubnagar</item>
+        <item>Mancherial</item>
+        <item>Medak</item>
+        <item>Medchal</item>
+        <item>Mulugu</item>
+        <item>Nagarkurnool</item>
+        <item>Nalgonda</item>
+        <item>Narayanpet</item>
+        <item>Nirmal</item>
+        <item>Nizamabad</item>
+        <item>Peddapalli</item>
+        <item>Rajanna Sircilla</item>
+        <item>Ranga Reddy</item>
+        <item>Sangareddy</item>
+        <item>Siddipet</item>
+        <item>Suryapet</item>
+        <item>Vikarabad</item>
+        <item>Wanaparthy</item>
+        <item>Warangal Rural</item>
+        <item>Warangal Urban</item>
+        <item>Yadadri Bhuvanagiri</item>
+    </string-array><string-array name="array_tripura_districts">
+        <item>Select Your District</item>
+        <item>Dhalai</item>
+        <item>Gomati</item>
+        <item>Khowai</item>
+        <item>North Tripura</item>
+        <item>Sepahijala</item>
+        <item>South Tripura</item>
+        <item>Unakoti</item>
+        <item>West Tripura</item>
+    </string-array><string-array name="array_uttar_pradesh_districts">
+        <item>Select Your District</item>
+        <item>Agra</item>
+        <item>Aligarh</item>
+        <item>Prayagraj</item>
+        <item>Ambedkar Nagar</item>
+        <item>Amethi</item>
+        <item>Amroha</item>
+        <item>Auraiya</item>
+        <item>Azamgarh</item>
+        <item>Baghpat</item>
+        <item>Bahraich</item>
+        <item>Ballia</item>
+        <item>Balrampur</item>
+        <item>Banda</item>
+        <item>Barabanki</item>
+        <item>Bareilly</item>
+        <item>Basti</item>
+        <item>Bhadohi</item>
+        <item>Bijnor</item>
+        <item>Budaun</item>
+        <item>Bulandshahr</item>
+        <item>Chandauli</item>
+        <item>Chitrakoot</item>
+        <item>Deoria</item>
+        <item>Etah</item>
+        <item>Etawah</item>
+        <item>Ayodhya</item>
+        <item>Farrukhabad</item>
+        <item>Fatehpur</item>
+        <item>Firozabad</item>
+        <item>Gautam Buddha Nagar</item>
+        <item>Ghaziabad</item>
+        <item>Ghazipur</item>
+        <item>Gonda</item>
+        <item>Gorakhpur</item>
+        <item>Hamirpur</item>
+        <item>Hapur</item>
+        <item>Hardoi</item>
+        <item>Hathras</item>
+        <item>Jalaun</item>
+        <item>Jaunpur</item>
+        <item>Jhansi</item>
+        <item>Kannauj</item>
+        <item>Kanpur Dehat</item>
+        <item>Kanpur Nagar</item>
+        <item>Kasganj</item>
+        <item>Kaushambi</item>
+        <item>Kheri</item>
+        <item>Kushinagar</item>
+        <item>Lalitpur</item>
+        <item>Lucknow</item>
+        <item>Maharajganj</item>
+        <item>Mahoba</item>
+        <item>Mainpuri</item>
+        <item>Mathura</item>
+        <item>Mau</item>
+        <item>Meerut</item>
+        <item>Mirzapur</item>
+        <item>Moradabad</item>
+        <item>Muzaffarnagar</item>
+        <item>Pilibhit</item>
+        <item>Pratapgarh</item>
+        <item>Raebareli</item>
+        <item>Rampur</item>
+        <item>Saharanpur</item>
+        <item>Sambhal</item>
+        <item>Sant Kabir Nagar</item>
+        <item>Shahjahanpur</item>
+        <item>Shamli</item>
+        <item>Shravasti</item>
+        <item>Siddharthnagar</item>
+        <item>Sitapur</item>
+        <item>Sonbhadra</item>
+        <item>Sultanpur</item>
+        <item>Unnao</item>
+        <item>Varanasi</item>
+    </string-array><string-array name="array_uttarakhand_districts">
+        <item>Select Your District</item>
+        <item>Almora</item>
+        <item>Bageshwar</item>
+        <item>Chamoli</item>
+        <item>Champawat</item>
+        <item>Dehradun</item>
+        <item>Haridwar</item>
+        <item>Nainital</item>
+        <item>Pauri</item>
+        <item>Pithoragarh</item>
+        <item>Rudraprayag</item>
+        <item>Tehri</item>
+        <item>Udham Singh Nagar</item>
+        <item>Uttarkashi</item>
+    </string-array><string-array name="array_west_bengal_districts">
+        <item>Select Your District</item>
+        <item>Alipurduar</item>
+        <item>Bankura</item>
+        <item>Birbhum</item>
+        <item>Cooch Behar</item>
+        <item>Dakshin Dinajpur</item>
+        <item>Darjeeling</item>
+        <item>Hooghly</item>
+        <item>Howrah</item>
+        <item>Jalpaiguri</item>
+        <item>Jhargram</item>
+        <item>Kalimpong</item>
+        <item>Kolkata</item>
+        <item>Malda</item>
+        <item>Murshidabad</item>
+        <item>Nadia</item>
+        <item>North 24 Parganas</item>
+        <item>Paschim Bardhaman</item>
+        <item>Paschim Medinipur</item>
+        <item>Purba Bardhaman</item>
+        <item>Purba Medinipur</item>
+        <item>Purulia</item>
+        <item>South 24 Parganas</item>
+        <item>Uttar Dinajpur</item>
+    </string-array><string-array name="array_andaman_nicobar_districts">
+        <item>Select Your District</item>
+        <item>Nicobar</item>
+        <item>North Middle Andaman</item>
+        <item>South Andaman</item>
+    </string-array><string-array name="array_chandigarh_districts">
+        <item>Chandigarh</item>
+    </string-array><string-array name="array_dadra_nagar_haveli_districts">
+        <item>Dadra Nagar Haveli</item>
+    </string-array><string-array name="array_daman_diu_districts">
+        <item>Select Your District</item>
+        <item>Daman</item>
+        <item>Diu</item>
+    </string-array><string-array name="array_delhi_districts">
+        <item>Select Your District</item>
+        <item>Central Delhi</item>
+        <item>East Delhi</item>
+        <item>New Delhi</item>
+        <item>North Delhi</item>
+        <item>North East Delhi</item>
+        <item>North West Delhi</item>
+        <item>Shahdara</item>
+        <item>South Delhi</item>
+        <item>South East Delhi</item>
+        <item>South West Delhi</item>
+        <item>West Delhi</item>
+    </string-array><string-array name="array_lakshadweep_districts">
+        <item>Lakshadweep</item>
+    </string-array><string-array name="array_ladakh_districts">
+        <item>Select Your District</item>
+        <item>Kargil</item>
+        <item>Leh</item>
+    </string-array><string-array name="array_puducherry_districts">
+        <item>Select Your District</item>
+        <item>Karaikal</item>
+        <item>Mahe</item>
+        <item>Puducherry</item>
+        <item>Yanam</item>
+    </string-array></file><file path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\values-land\dimens.xml" qualifiers="land"><dimen name="fab_margin">48dp</dimen></file><file path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Theme.PruneDeliveryApplication" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style></file><file path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\values-w1240dp\dimens.xml" qualifiers="w1240dp-v13"><dimen name="fab_margin">200dp</dimen></file><file path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\values-w600dp\dimens.xml" qualifiers="w600dp-v13"><dimen name="fab_margin">48dp</dimen></file><file name="backup_rules" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\xml\backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\xml\data_extraction_rules.xml" qualifiers="" type="xml"/><file name="file_paths" path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\res\xml\file_paths.xml" qualifiers="" type="xml"/></source><source path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\build\generated\res\rs\debug"/><source path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\build\generated\res\resValues\debug"/><source path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\build\generated\res\google-services\debug"><file path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\build\generated\res\google-services\debug\values\values.xml" qualifiers=""><string name="default_web_client_id" translatable="false">828832893494-lfeqi443v1m7rped7jqvd3cij1jimro0.apps.googleusercontent.com</string><string name="gcm_defaultSenderId" translatable="false">828832893494</string><string name="google_api_key" translatable="false">AIzaSyBmBXZgmcmHMjotahdR1gWIhI_osrozHx4</string><string name="google_app_id" translatable="false">1:828832893494:android:fe075639c0e2779d4a6697</string><string name="google_crash_reporting_api_key" translatable="false">AIzaSyBmBXZgmcmHMjotahdR1gWIhI_osrozHx4</string><string name="google_storage_bucket" translatable="false">prunedeliveryapplication-87586.appspot.com</string><string name="project_id" translatable="false">prunedeliveryapplication-87586</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\debug\res"/></dataSet><mergedItems/></merger>

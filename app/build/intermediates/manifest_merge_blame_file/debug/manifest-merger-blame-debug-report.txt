@@ -1,0 +1,676 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.prunedeliveryapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:7:5-65
+12-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:7:22-62
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:8:5-81
+13-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:8:22-78
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:9:5-79
+14-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:9:22-76
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:10:5-81
+15-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:10:22-78
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:11:5-80
+16-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:11:22-77
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:12:5-78
+17-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:12:22-76
+18    <uses-permission android:name="android.permission.SEND_SMS" />
+18-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:13:5-66
+18-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:13:22-64
+19    <uses-permission android:name="android.permission.READ_SMS" />
+19-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:14:5-67
+19-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:14:22-64
+20    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+20-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:15:5-69
+20-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:15:22-67
+21
+22    <uses-feature
+22-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:17:5-19:35
+23        android:name="android.hardware.camera"
+23-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:18:9-47
+24        android:required="true" />
+24-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:19:9-32
+25    <uses-feature
+25-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Adarsh PC\.gradle\caches\transforms-3\47735af3c649daaa52446de213192ae3\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+26        android:glEsVersion="0x00020000"
+26-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Adarsh PC\.gradle\caches\transforms-3\47735af3c649daaa52446de213192ae3\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+27        android:required="true" />
+27-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Adarsh PC\.gradle\caches\transforms-3\47735af3c649daaa52446de213192ae3\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+28
+29    <queries>
+29-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Adarsh PC\.gradle\caches\transforms-3\47735af3c649daaa52446de213192ae3\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
+30
+31        <!-- Needs to be explicitly declared on Android R+ -->
+32        <package android:name="com.google.android.apps.maps" />
+32-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Adarsh PC\.gradle\caches\transforms-3\47735af3c649daaa52446de213192ae3\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+32-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Adarsh PC\.gradle\caches\transforms-3\47735af3c649daaa52446de213192ae3\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+33    </queries>
+34
+35    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+35-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:26:5-77
+35-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:26:22-74
+36    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+36-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:27:5-68
+36-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:27:22-65
+37    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+37-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:29:5-82
+37-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:29:22-79
+38    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+38-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\013bbae0bb25821eb032549b8242ac3b\transformed\jetified-play-services-measurement-api-21.1.1\AndroidManifest.xml:25:5-79
+38-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\013bbae0bb25821eb032549b8242ac3b\transformed\jetified-play-services-measurement-api-21.1.1\AndroidManifest.xml:25:22-76
+39    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+39-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\afa780610d82b4bb7079e9ac01f12e57\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:26:5-110
+39-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\afa780610d82b4bb7079e9ac01f12e57\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:26:22-107
+40
+41    <application
+41-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:21:5-174:19
+42        android:allowBackup="true"
+42-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:22:9-35
+43        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+43-->[androidx.core:core:1.8.0] C:\Users\Adarsh PC\.gradle\caches\transforms-3\ac7f467097976d816bc9c40466e92d90\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+44        android:dataExtractionRules="@xml/data_extraction_rules"
+44-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:23:9-65
+45        android:debuggable="true"
+46        android:extractNativeLibs="false"
+47        android:fullBackupContent="@xml/backup_rules"
+47-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:24:9-54
+48        android:icon="@mipmap/ic_launcher"
+48-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:25:9-43
+49        android:label="@string/app_name"
+49-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:26:9-41
+50        android:roundIcon="@mipmap/ic_launcher_round"
+50-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:27:9-54
+51        android:supportsRtl="true"
+51-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:28:9-35
+52        android:testOnly="true"
+53        android:theme="@style/Theme.PruneDeliveryApplication"
+53-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:29:9-62
+54        android:usesCleartextTraffic="true" >
+54-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:30:9-44
+55        <activity
+55-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:32:9-35:56
+56            android:name="com.example.prunedeliveryapplication.DetailActivity"
+56-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:33:13-43
+57            android:exported="false"
+57-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:34:13-37
+58            android:parentActivityName="com.example.prunedeliveryapplication.ActivityLogs" />
+58-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:35:13-54
+59        <activity
+59-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:36:9-41:52
+60            android:name="com.example.prunedeliveryapplication.dlActivity"
+60-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:37:13-39
+61            android:exported="false"
+61-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:38:13-37
+62            android:label="Driving Licence Data Extract"
+62-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:39:13-57
+63            android:parentActivityName="com.example.prunedeliveryapplication.IdentityDetails"
+63-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:40:13-58
+64            android:screenOrientation="portrait" />
+64-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:41:13-49
+65        <activity
+65-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:42:9-47:52
+66            android:name="com.example.prunedeliveryapplication.PanCardActivity"
+66-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:43:13-44
+67            android:exported="false"
+67-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:44:13-37
+68            android:label="Pan Card Data Extract"
+68-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:45:13-50
+69            android:parentActivityName="com.example.prunedeliveryapplication.IdentityDetails"
+69-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:46:13-58
+70            android:screenOrientation="portrait" />
+70-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:47:13-49
+71        <activity
+71-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:48:9-53:52
+72            android:name="com.example.prunedeliveryapplication.AadhaarCardActivity"
+72-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:49:13-48
+73            android:exported="false"
+73-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:50:13-37
+74            android:label="Aadhaar Card Data Extract"
+74-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:51:13-54
+75            android:parentActivityName="com.example.prunedeliveryapplication.IdentityDetails"
+75-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:52:13-58
+76            android:screenOrientation="portrait" />
+76-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:53:13-49
+77        <activity
+77-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:54:9-57:52
+78            android:name="com.example.prunedeliveryapplication.CustomGalleryActivity"
+78-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:55:13-50
+79            android:exported="true"
+79-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:56:13-36
+80            android:screenOrientation="portrait" />
+80-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:57:13-49
+81        <activity
+81-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:58:9-60:40
+82            android:name="com.example.prunedeliveryapplication.simstock"
+82-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:59:13-37
+83            android:exported="false" />
+83-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:60:13-37
+84        <activity
+84-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:61:9-63:40
+85            android:name="com.example.prunedeliveryapplication.ActivateSim"
+85-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:62:13-40
+86            android:exported="false" />
+86-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:63:13-37
+87        <activity
+87-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:64:9-66:40
+88            android:name="com.example.prunedeliveryapplication.Performance"
+88-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:65:13-40
+89            android:exported="false" />
+89-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:66:13-37
+90        <activity
+90-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:67:9-69:40
+91            android:name="com.example.prunedeliveryapplication.Payment"
+91-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:68:13-36
+92            android:exported="false" />
+92-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:69:13-37
+93        <activity
+93-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:70:9-72:40
+94            android:name="com.example.prunedeliveryapplication.BuySim"
+94-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:71:13-35
+95            android:exported="false" />
+95-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:72:13-37
+96        <activity
+96-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:73:9-75:40
+97            android:name="com.example.prunedeliveryapplication.xyz"
+97-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:74:13-32
+98            android:exported="false" />
+98-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:75:13-37
+99        <activity
+99-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:76:9-78:40
+100            android:name="com.example.prunedeliveryapplication.NavigationScreen"
+100-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:77:13-45
+101            android:exported="false" />
+101-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:78:13-37
+102        <activity
+102-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:79:9-81:40
+103            android:name="com.example.prunedeliveryapplication.personal_details_screen"
+103-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:80:13-52
+104            android:exported="false" />
+104-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:81:13-37
+105        <activity
+105-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:82:9-84:40
+106            android:name="com.example.prunedeliveryapplication.compl_verify"
+106-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:83:13-41
+107            android:exported="false" />
+107-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:84:13-37
+108        <activity
+108-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:85:9-87:40
+109            android:name="com.example.prunedeliveryapplication.activate_sim_status"
+109-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:86:13-48
+110            android:exported="false" />
+110-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:87:13-37
+111        <activity
+111-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:88:9-90:40
+112            android:name="com.example.prunedeliveryapplication.bank_details"
+112-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:89:13-41
+113            android:exported="false" />
+113-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:90:13-37
+114        <activity
+114-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:91:9-93:40
+115            android:name="com.example.prunedeliveryapplication.driving_license"
+115-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:92:13-44
+116            android:exported="false" />
+116-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:93:13-37
+117        <activity
+117-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:94:9-96:40
+118            android:name="com.example.prunedeliveryapplication.IdentityDetails"
+118-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:95:13-44
+119            android:exported="false" />
+119-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:96:13-37
+120        <activity
+120-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:97:9-99:40
+121            android:name="com.example.prunedeliveryapplication.personal_details"
+121-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:98:13-45
+122            android:exported="false" />
+122-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:99:13-37
+123        <activity
+123-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:100:9-102:40
+124            android:name="com.example.prunedeliveryapplication.calender_view"
+124-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:101:13-42
+125            android:exported="false" />
+125-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:102:13-37
+126        <activity
+126-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:103:9-105:40
+127            android:name="com.example.prunedeliveryapplication.TimeView"
+127-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:104:13-37
+128            android:exported="false" />
+128-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:105:13-37
+129        <activity
+129-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:106:9-108:40
+130            android:name="com.example.prunedeliveryapplication.Otherresponse"
+130-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:107:13-42
+131            android:exported="false" />
+131-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:108:13-37
+132        <activity
+132-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:109:9-111:40
+133            android:name="com.example.prunedeliveryapplication.card_detail"
+133-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:110:13-40
+134            android:exported="false" />
+134-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:111:13-37
+135        <activity
+135-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:112:9-114:40
+136            android:name="com.example.prunedeliveryapplication.customer_details"
+136-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:113:13-45
+137            android:exported="false" />
+137-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:114:13-37
+138        <activity
+138-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:115:9-117:40
+139            android:name="com.example.prunedeliveryapplication.card_option"
+139-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:116:13-40
+140            android:exported="false" />
+140-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:117:13-37
+141        <activity
+141-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:118:9-120:40
+142            android:name="com.example.prunedeliveryapplication.edit_profile"
+142-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:119:13-41
+143            android:exported="false" />
+143-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:120:13-37
+144        <activity
+144-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:121:9-123:40
+145            android:name="com.example.prunedeliveryapplication.direct_sell"
+145-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:122:13-40
+146            android:exported="false" />
+146-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:123:13-37
+147        <activity
+147-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:124:9-126:40
+148            android:name="com.example.prunedeliveryapplication.add_money_wallet"
+148-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:125:13-45
+149            android:exported="false" />
+149-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:126:13-37
+150        <activity
+150-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:127:9-129:40
+151            android:name="com.example.prunedeliveryapplication.get_orders"
+151-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:128:13-39
+152            android:exported="false" />
+152-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:129:13-37
+153        <activity
+153-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:130:9-132:40
+154            android:name="com.example.prunedeliveryapplication.fees_paid_1sreen"
+154-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:131:13-45
+155            android:exported="false" />
+155-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:132:13-37
+156        <activity
+156-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:133:9-135:40
+157            android:name="com.example.prunedeliveryapplication.tshirt_size"
+157-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:134:13-40
+158            android:exported="false" />
+158-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:135:13-37
+159        <activity
+159-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:136:9-138:40
+160            android:name="com.example.prunedeliveryapplication.take_photo_activity"
+160-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:137:13-48
+161            android:exported="false" />
+161-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:138:13-37
+162        <activity
+162-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:139:9-141:40
+163            android:name="com.example.prunedeliveryapplication.VerifyOTPActivity"
+163-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:140:13-46
+164            android:exported="false" />
+164-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:141:13-37
+165        <activity
+165-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:142:9-144:40
+166            android:name="com.example.prunedeliveryapplication.SendOTPActivity"
+166-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:143:13-44
+167            android:exported="false" />
+167-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:144:13-37
+168        <activity
+168-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:145:9-153:20
+169            android:name="com.example.prunedeliveryapplication.MainActivity"
+169-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:146:13-41
+170            android:exported="true" >
+170-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:147:13-36
+171            <intent-filter>
+171-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:148:13-152:29
+172                <action android:name="android.intent.action.MAIN" />
+172-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:149:17-69
+172-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:149:25-66
+173
+174                <category android:name="android.intent.category.LAUNCHER" />
+174-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:151:17-77
+174-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:151:27-74
+175            </intent-filter>
+176        </activity>
+177
+178        <provider
+179            android:name="androidx.core.content.FileProvider"
+179-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:156:13-62
+180            android:authorities="com.example.prunedeliveryapplication.provider"
+180-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:157:13-60
+181            android:exported="false"
+181-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:158:13-37
+182            android:grantUriPermissions="true" >
+182-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:159:13-47
+183            <meta-data
+183-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:160:13-162:54
+184                android:name="android.support.FILE_PROVIDER_PATHS"
+184-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:161:17-67
+185                android:resource="@xml/file_paths" />
+185-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:162:17-51
+186            <meta-data
+186-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:163:13-165:73
+187                android:name="com.google.android.gms.version"
+187-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:164:17-62
+188                android:value="@integer/google_play_services_version" />
+188-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:165:17-70
+189            <meta-data
+189-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:166:13-168:75
+190                android:name="com.google.android.geo.API_KEY"
+190-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:167:17-62
+191                android:value="AIzaSyCQHKYc3QxEAWHAp5mQcTWGUyG0LkLJlMU" />
+191-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:168:17-72
+192        </provider>
+193
+194        <uses-library
+194-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:171:9-173:40
+195            android:name="org.apache.http.legacy"
+195-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:172:13-50
+196            android:required="false" />
+196-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:173:13-37
+197
+198        <activity
+198-->[com.karumi:dexter:6.2.2] C:\Users\Adarsh PC\.gradle\caches\transforms-3\983c034a66bf2cb2af8a04cbb329518c\transformed\jetified-dexter-6.2.2\AndroidManifest.xml:27:9-29:72
+199            android:name="com.karumi.dexter.DexterActivity"
+199-->[com.karumi:dexter:6.2.2] C:\Users\Adarsh PC\.gradle\caches\transforms-3\983c034a66bf2cb2af8a04cbb329518c\transformed\jetified-dexter-6.2.2\AndroidManifest.xml:28:13-60
+200            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+200-->[com.karumi:dexter:6.2.2] C:\Users\Adarsh PC\.gradle\caches\transforms-3\983c034a66bf2cb2af8a04cbb329518c\transformed\jetified-dexter-6.2.2\AndroidManifest.xml:29:13-69
+201        <activity
+201-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:27:9-44:20
+202            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+202-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:28:13-80
+203            android:excludeFromRecents="true"
+203-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:29:13-46
+204            android:exported="true"
+204-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:30:13-36
+205            android:launchMode="singleTask"
+205-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:31:13-44
+206            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+206-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:32:13-72
+207            <intent-filter>
+207-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:33:13-43:29
+208                <action android:name="android.intent.action.VIEW" />
+208-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:34:17-69
+208-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:34:25-66
+209
+210                <category android:name="android.intent.category.DEFAULT" />
+210-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:36:17-76
+210-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:36:27-73
+211                <category android:name="android.intent.category.BROWSABLE" />
+211-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:37:17-78
+211-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:37:27-75
+212
+213                <data
+213-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:39:17-42:51
+214                    android:host="firebase.auth"
+214-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:40:21-49
+215                    android:path="/"
+215-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:41:21-37
+216                    android:scheme="genericidp" />
+216-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:42:21-48
+217            </intent-filter>
+218        </activity>
+219        <activity
+219-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:45:9-62:20
+220            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+220-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:46:13-79
+221            android:excludeFromRecents="true"
+221-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:47:13-46
+222            android:exported="true"
+222-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:48:13-36
+223            android:launchMode="singleTask"
+223-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:49:13-44
+224            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+224-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:50:13-72
+225            <intent-filter>
+225-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:51:13-61:29
+226                <action android:name="android.intent.action.VIEW" />
+226-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:34:17-69
+226-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:34:25-66
+227
+228                <category android:name="android.intent.category.DEFAULT" />
+228-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:36:17-76
+228-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:36:27-73
+229                <category android:name="android.intent.category.BROWSABLE" />
+229-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:37:17-78
+229-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:37:27-75
+230
+231                <data
+231-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:39:17-42:51
+232                    android:host="firebase.auth"
+232-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:40:21-49
+233                    android:path="/"
+233-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:41:21-37
+234                    android:scheme="recaptcha" />
+234-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:42:21-48
+235            </intent-filter>
+236        </activity>
+237
+238        <service
+238-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:64:9-70:19
+239            android:name="com.google.firebase.components.ComponentDiscoveryService"
+239-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:65:13-84
+240            android:directBootAware="true"
+240-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Adarsh PC\.gradle\caches\transforms-3\0b17188183d774ed9d663b138ba29f65\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:35:13-43
+241            android:exported="false" >
+241-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:66:13-37
+242            <meta-data
+242-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:67:13-69:85
+243                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+243-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:68:17-109
+244                android:value="com.google.firebase.components.ComponentRegistrar" />
+244-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\437ba69076a6bf58d77d63ac06c2dee1\transformed\jetified-firebase-auth-21.0.8\AndroidManifest.xml:69:17-82
+245            <meta-data
+245-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Adarsh PC\.gradle\caches\transforms-3\10c6d170290c0fe820e3bf2bebef1024\transformed\jetified-firebase-database-20.0.6\AndroidManifest.xml:32:13-34:85
+246                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+246-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Adarsh PC\.gradle\caches\transforms-3\10c6d170290c0fe820e3bf2bebef1024\transformed\jetified-firebase-database-20.0.6\AndroidManifest.xml:33:17-109
+247                android:value="com.google.firebase.components.ComponentRegistrar" />
+247-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Adarsh PC\.gradle\caches\transforms-3\10c6d170290c0fe820e3bf2bebef1024\transformed\jetified-firebase-database-20.0.6\AndroidManifest.xml:34:17-82
+248            <meta-data
+248-->[com.google.firebase:firebase-firestore:24.3.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\df6d2025606cc62b75b35d04947f0983\transformed\jetified-firebase-firestore-24.3.1\AndroidManifest.xml:20:13-22:85
+249                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+249-->[com.google.firebase:firebase-firestore:24.3.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\df6d2025606cc62b75b35d04947f0983\transformed\jetified-firebase-firestore-24.3.1\AndroidManifest.xml:21:17-111
+250                android:value="com.google.firebase.components.ComponentRegistrar" />
+250-->[com.google.firebase:firebase-firestore:24.3.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\df6d2025606cc62b75b35d04947f0983\transformed\jetified-firebase-firestore-24.3.1\AndroidManifest.xml:22:17-82
+251            <meta-data
+251-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:56:13-58:85
+252                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+252-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:57:17-119
+253                android:value="com.google.firebase.components.ComponentRegistrar" />
+253-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:58:17-82
+254            <meta-data
+254-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\013bbae0bb25821eb032549b8242ac3b\transformed\jetified-play-services-measurement-api-21.1.1\AndroidManifest.xml:31:13-33:85
+255                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+255-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\013bbae0bb25821eb032549b8242ac3b\transformed\jetified-play-services-measurement-api-21.1.1\AndroidManifest.xml:32:17-139
+256                android:value="com.google.firebase.components.ComponentRegistrar" />
+256-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\013bbae0bb25821eb032549b8242ac3b\transformed\jetified-play-services-measurement-api-21.1.1\AndroidManifest.xml:33:17-82
+257            <meta-data
+257-->[com.google.firebase:firebase-datatransport:18.1.6] C:\Users\Adarsh PC\.gradle\caches\transforms-3\1ef6d5826fa334c69c7ea46bfeba123b\transformed\jetified-firebase-datatransport-18.1.6\AndroidManifest.xml:28:13-30:85
+258                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+258-->[com.google.firebase:firebase-datatransport:18.1.6] C:\Users\Adarsh PC\.gradle\caches\transforms-3\1ef6d5826fa334c69c7ea46bfeba123b\transformed\jetified-firebase-datatransport-18.1.6\AndroidManifest.xml:29:17-115
+259                android:value="com.google.firebase.components.ComponentRegistrar" />
+259-->[com.google.firebase:firebase-datatransport:18.1.6] C:\Users\Adarsh PC\.gradle\caches\transforms-3\1ef6d5826fa334c69c7ea46bfeba123b\transformed\jetified-firebase-datatransport-18.1.6\AndroidManifest.xml:30:17-82
+260            <meta-data
+260-->[com.google.firebase:firebase-installations:17.0.3] C:\Users\Adarsh PC\.gradle\caches\transforms-3\018a8de4a8961cb41fa8d736d88c3386\transformed\jetified-firebase-installations-17.0.3\AndroidManifest.xml:18:13-20:85
+261                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+261-->[com.google.firebase:firebase-installations:17.0.3] C:\Users\Adarsh PC\.gradle\caches\transforms-3\018a8de4a8961cb41fa8d736d88c3386\transformed\jetified-firebase-installations-17.0.3\AndroidManifest.xml:19:17-127
+262                android:value="com.google.firebase.components.ComponentRegistrar" />
+262-->[com.google.firebase:firebase-installations:17.0.3] C:\Users\Adarsh PC\.gradle\caches\transforms-3\018a8de4a8961cb41fa8d736d88c3386\transformed\jetified-firebase-installations-17.0.3\AndroidManifest.xml:20:17-82
+263        </service>
+264
+265        <receiver
+265-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:32:9-39:20
+266            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+266-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:33:13-78
+267            android:exported="true"
+267-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:34:13-36
+268            android:permission="com.google.android.c2dm.permission.SEND" >
+268-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:35:13-73
+269            <intent-filter>
+269-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:36:13-38:29
+270                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+270-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:37:17-81
+270-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:37:25-78
+271            </intent-filter>
+272        </receiver>
+273        <!--
+274             FirebaseMessagingService performs security checks at runtime,
+275             but set to not exported to explicitly avoid allowing another app to call it.
+276        -->
+277        <service
+277-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:45:9-52:19
+278            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+278-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:46:13-82
+279            android:directBootAware="true"
+279-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:47:13-43
+280            android:exported="false" >
+280-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:48:13-37
+281            <intent-filter android:priority="-500" >
+281-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:49:13-51:29
+281-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:49:28-51
+282                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+282-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:50:17-78
+282-->[com.google.firebase:firebase-messaging:23.0.8] C:\Users\Adarsh PC\.gradle\caches\transforms-3\38c49d274a297008f2acd3fbb5042ac1\transformed\jetified-firebase-messaging-23.0.8\AndroidManifest.xml:50:25-75
+283            </intent-filter>
+284        </service>
+285
+286        <provider
+286-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Adarsh PC\.gradle\caches\transforms-3\0b17188183d774ed9d663b138ba29f65\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:26:9-31:39
+287            android:name="com.google.firebase.provider.FirebaseInitProvider"
+287-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Adarsh PC\.gradle\caches\transforms-3\0b17188183d774ed9d663b138ba29f65\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:27:13-77
+288            android:authorities="com.example.prunedeliveryapplication.firebaseinitprovider"
+288-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Adarsh PC\.gradle\caches\transforms-3\0b17188183d774ed9d663b138ba29f65\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:28:13-72
+289            android:directBootAware="true"
+289-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Adarsh PC\.gradle\caches\transforms-3\0b17188183d774ed9d663b138ba29f65\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:29:13-43
+290            android:exported="false"
+290-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Adarsh PC\.gradle\caches\transforms-3\0b17188183d774ed9d663b138ba29f65\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:30:13-37
+291            android:initOrder="100" />
+291-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Adarsh PC\.gradle\caches\transforms-3\0b17188183d774ed9d663b138ba29f65\transformed\jetified-firebase-common-20.1.2\AndroidManifest.xml:31:13-36
+292
+293        <activity
+293-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\73ae6b1171c527581d9449594a435146\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+294            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+294-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\73ae6b1171c527581d9449594a435146\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+295            android:exported="false"
+295-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\73ae6b1171c527581d9449594a435146\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+296            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+296-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\73ae6b1171c527581d9449594a435146\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+297
+298        <receiver
+298-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\afa780610d82b4bb7079e9ac01f12e57\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:29:9-33:20
+299            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+299-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\afa780610d82b4bb7079e9ac01f12e57\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:30:13-85
+300            android:enabled="true"
+300-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\afa780610d82b4bb7079e9ac01f12e57\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:31:13-35
+301            android:exported="false" >
+301-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\afa780610d82b4bb7079e9ac01f12e57\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:32:13-37
+302        </receiver>
+303
+304        <service
+304-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\afa780610d82b4bb7079e9ac01f12e57\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:35:9-38:40
+305            android:name="com.google.android.gms.measurement.AppMeasurementService"
+305-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\afa780610d82b4bb7079e9ac01f12e57\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:36:13-84
+306            android:enabled="true"
+306-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\afa780610d82b4bb7079e9ac01f12e57\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:37:13-35
+307            android:exported="false" />
+307-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\afa780610d82b4bb7079e9ac01f12e57\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:38:13-37
+308        <service
+308-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\afa780610d82b4bb7079e9ac01f12e57\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:39:9-43:72
+309            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+309-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\afa780610d82b4bb7079e9ac01f12e57\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:40:13-87
+310            android:enabled="true"
+310-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\afa780610d82b4bb7079e9ac01f12e57\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:41:13-35
+311            android:exported="false"
+311-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\afa780610d82b4bb7079e9ac01f12e57\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:42:13-37
+312            android:permission="android.permission.BIND_JOB_SERVICE" />
+312-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\afa780610d82b4bb7079e9ac01f12e57\transformed\jetified-play-services-measurement-21.1.1\AndroidManifest.xml:43:13-69
+313
+314        <meta-data
+314-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:163:13-165:73
+315            android:name="com.google.android.gms.version"
+315-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:164:17-62
+316            android:value="@integer/google_play_services_version" />
+316-->C:\Users\Adarsh PC\OneDrive\Desktop\Prune-Delivery-App\app\src\main\AndroidManifest.xml:165:17-70
+317
+318        <uses-library
+318-->[androidx.window:window:1.0.0] C:\Users\Adarsh PC\.gradle\caches\transforms-3\c71ccf881cab5bdb6146adfef06f742f\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+319            android:name="androidx.window.extensions"
+319-->[androidx.window:window:1.0.0] C:\Users\Adarsh PC\.gradle\caches\transforms-3\c71ccf881cab5bdb6146adfef06f742f\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+320            android:required="false" />
+320-->[androidx.window:window:1.0.0] C:\Users\Adarsh PC\.gradle\caches\transforms-3\c71ccf881cab5bdb6146adfef06f742f\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+321        <uses-library
+321-->[androidx.window:window:1.0.0] C:\Users\Adarsh PC\.gradle\caches\transforms-3\c71ccf881cab5bdb6146adfef06f742f\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+322            android:name="androidx.window.sidecar"
+322-->[androidx.window:window:1.0.0] C:\Users\Adarsh PC\.gradle\caches\transforms-3\c71ccf881cab5bdb6146adfef06f742f\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+323            android:required="false" />
+323-->[androidx.window:window:1.0.0] C:\Users\Adarsh PC\.gradle\caches\transforms-3\c71ccf881cab5bdb6146adfef06f742f\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+324
+325        <service
+325-->[com.google.android.datatransport:transport-backend-cct:3.1.7] C:\Users\Adarsh PC\.gradle\caches\transforms-3\fa73ce14dd92c0498f96b1d2460d7a11\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:29:9-35:19
+326            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+326-->[com.google.android.datatransport:transport-backend-cct:3.1.7] C:\Users\Adarsh PC\.gradle\caches\transforms-3\fa73ce14dd92c0498f96b1d2460d7a11\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:30:13-103
+327            android:exported="false" >
+327-->[com.google.android.datatransport:transport-backend-cct:3.1.7] C:\Users\Adarsh PC\.gradle\caches\transforms-3\fa73ce14dd92c0498f96b1d2460d7a11\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:31:13-37
+328            <meta-data
+328-->[com.google.android.datatransport:transport-backend-cct:3.1.7] C:\Users\Adarsh PC\.gradle\caches\transforms-3\fa73ce14dd92c0498f96b1d2460d7a11\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:32:13-34:39
+329                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+329-->[com.google.android.datatransport:transport-backend-cct:3.1.7] C:\Users\Adarsh PC\.gradle\caches\transforms-3\fa73ce14dd92c0498f96b1d2460d7a11\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:33:17-94
+330                android:value="cct" />
+330-->[com.google.android.datatransport:transport-backend-cct:3.1.7] C:\Users\Adarsh PC\.gradle\caches\transforms-3\fa73ce14dd92c0498f96b1d2460d7a11\transformed\jetified-transport-backend-cct-3.1.7\AndroidManifest.xml:34:17-36
+331        </service>
+332        <service
+332-->[com.google.android.datatransport:transport-runtime:3.1.7] C:\Users\Adarsh PC\.gradle\caches\transforms-3\86d89bb3f60f0d123b0a91fa4bd783b3\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:26:9-30:19
+333            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+333-->[com.google.android.datatransport:transport-runtime:3.1.7] C:\Users\Adarsh PC\.gradle\caches\transforms-3\86d89bb3f60f0d123b0a91fa4bd783b3\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:27:13-117
+334            android:exported="false"
+334-->[com.google.android.datatransport:transport-runtime:3.1.7] C:\Users\Adarsh PC\.gradle\caches\transforms-3\86d89bb3f60f0d123b0a91fa4bd783b3\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:28:13-37
+335            android:permission="android.permission.BIND_JOB_SERVICE" >
+335-->[com.google.android.datatransport:transport-runtime:3.1.7] C:\Users\Adarsh PC\.gradle\caches\transforms-3\86d89bb3f60f0d123b0a91fa4bd783b3\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:29:13-69
+336        </service>
+337
+338        <receiver
+338-->[com.google.android.datatransport:transport-runtime:3.1.7] C:\Users\Adarsh PC\.gradle\caches\transforms-3\86d89bb3f60f0d123b0a91fa4bd783b3\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:32:9-34:40
+339            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+339-->[com.google.android.datatransport:transport-runtime:3.1.7] C:\Users\Adarsh PC\.gradle\caches\transforms-3\86d89bb3f60f0d123b0a91fa4bd783b3\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:33:13-132
+340            android:exported="false" />
+340-->[com.google.android.datatransport:transport-runtime:3.1.7] C:\Users\Adarsh PC\.gradle\caches\transforms-3\86d89bb3f60f0d123b0a91fa4bd783b3\transformed\jetified-transport-runtime-3.1.7\AndroidManifest.xml:34:13-37
+341
+342        <provider
+342-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Adarsh PC\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+343            android:name="androidx.startup.InitializationProvider"
+343-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Adarsh PC\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+344            android:authorities="com.example.prunedeliveryapplication.androidx-startup"
+344-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Adarsh PC\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+345            android:exported="false" >
+345-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Adarsh PC\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+346            <meta-data
+346-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Adarsh PC\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+347                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+347-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Adarsh PC\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+348                android:value="androidx.startup" />
+348-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Adarsh PC\.gradle\caches\transforms-3\6878bf473d0bd4b2f646855471d3ee8e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+349            <meta-data
+349-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\0c3038d530f8e974bcabec0e83ddaa4b\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+350                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+350-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\0c3038d530f8e974bcabec0e83ddaa4b\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+351                android:value="androidx.startup" />
+351-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Adarsh PC\.gradle\caches\transforms-3\0c3038d530f8e974bcabec0e83ddaa4b\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+352        </provider>
+353    </application>
+354
+355</manifest>

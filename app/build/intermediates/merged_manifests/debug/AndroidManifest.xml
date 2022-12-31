@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.prunedeliveryapplication"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="26"
+        android:targetSdkVersion="32" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <queries>
+
+        <!-- Needs to be explicitly declared on Android R+ -->
+        <package android:name="com.google.android.apps.maps" />
+    </queries>
+
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.PruneDeliveryApplication"
+        android:usesCleartextTraffic="true" >
+        <activity
+            android:name="com.example.prunedeliveryapplication.DetailActivity"
+            android:exported="false"
+            android:parentActivityName="com.example.prunedeliveryapplication.ActivityLogs" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.dlActivity"
+            android:exported="false"
+            android:label="Driving Licence Data Extract"
+            android:parentActivityName="com.example.prunedeliveryapplication.IdentityDetails"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.PanCardActivity"
+            android:exported="false"
+            android:label="Pan Card Data Extract"
+            android:parentActivityName="com.example.prunedeliveryapplication.IdentityDetails"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.AadhaarCardActivity"
+            android:exported="false"
+            android:label="Aadhaar Card Data Extract"
+            android:parentActivityName="com.example.prunedeliveryapplication.IdentityDetails"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.CustomGalleryActivity"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.simstock"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.ActivateSim"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.Performance"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.Payment"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.BuySim"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.xyz"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.NavigationScreen"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.personal_details_screen"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.compl_verify"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.activate_sim_status"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.bank_details"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.driving_license"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.IdentityDetails"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.personal_details"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.calender_view"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.TimeView"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.Otherresponse"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.card_detail"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.customer_details"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.card_option"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.edit_profile"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.direct_sell"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.add_money_wallet"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.get_orders"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.fees_paid_1sreen"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.tshirt_size"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.take_photo_activity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.VerifyOTPActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.SendOTPActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prunedeliveryapplication.MainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.example.prunedeliveryapplication.provider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+            <meta-data
+                android:name="com.google.android.gms.version"
+                android:value="@integer/google_play_services_version" />
+            <meta-data
+                android:name="com.google.android.geo.API_KEY"
+                android:value="AIzaSyCQHKYc3QxEAWHAp5mQcTWGUyG0LkLJlMU" />
+        </provider>
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity
+            android:name="com.karumi.dexter.DexterActivity"
+            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+        <activity
+            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="firebase.auth"
+                    android:path="/"
+                    android:scheme="genericidp" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="firebase.auth"
+                    android:path="/"
+                    android:scheme="recaptcha" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="com.google.firebase.components.ComponentDiscoveryService"
+            android:directBootAware="true"
+            android:exported="false" >
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service>
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </receiver>
+        <!--
+             FirebaseMessagingService performs security checks at runtime,
+             but set to not exported to explicitly avoid allowing another app to call it.
+        -->
+        <service
+            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+            android:directBootAware="true"
+            android:exported="false" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.example.prunedeliveryapplication.firebaseinitprovider"
+            android:directBootAware="true"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+            android:enabled="true"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <uses-library
+            android:name="androidx.window.extensions"
+            android:required="false" />
+        <uses-library
+            android:name="androidx.window.sidecar"
+            android:required="false" />
+
+        <service
+            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+            android:exported="false" >
+            <meta-data
+                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+                android:value="cct" />
+        </service>
+        <service
+            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" >
+        </service>
+
+        <receiver
+            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+            android:exported="false" />
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.example.prunedeliveryapplication.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+    </application>
+
+</manifest>
